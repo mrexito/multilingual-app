@@ -43,3 +43,6 @@ next-env.d.ts
 # Don't track database data
 */lib/db/data
 .env.local
+package.json
+package-lock.json
+package-lock.json
