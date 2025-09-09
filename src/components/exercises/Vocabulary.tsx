@@ -163,8 +163,18 @@ export default function DarkFlashcards({ cards }: Props) {
           >
             <div className="absolute inset-0 rounded-xl border-2 border-[#6A6A6A] bg-[#141F24] backface-visibility-hidden flex flex-col items-center justify-center p-4">
               <h2 className="text-2xl font-bold mb-2">{card.word}</h2>
+              {card.examples && card.examples.length > 0 && (
+                <div className="space-y-1 text-sm text-gray-300 text-center">
+                  {card.examples.map((ex, i) => (
+                    <p key={i} className="italic">{ex}</p>
+                  ))}
+                </div>
+              )}
               {revealStep >= 1 && (
-                <p className="italic text-center max-w-xs text-gray-200">
+                <p className="mt-5 font-bold text-gray-400">Definition</p>
+              )}
+              {revealStep >= 1 && card.frontText && (
+                <p className="italic text-center mt-1 max-w-sm text-gray-200">
                   {card.frontText}
                 </p>
               )}

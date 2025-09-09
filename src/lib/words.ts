@@ -75,6 +75,7 @@ export type RawFlashcard = {
   id: string;
   languageId: string;
   word: string;
+  examples: string[];
   frontText: string;
   translation: string;
   status: CardStatus;
@@ -105,6 +106,26 @@ export async function getFlashcardsPrisma(
       translations: true,
     },
   });
+
+  // Fetch all sentences for the found word ids
+  const wordIds = docs.map((w) => w.id);
+  const sentences = await db.sentences.findMany({
+    where: {
+      word_id: { in: wordIds },
+    },
+    select: {
+      word_id: true,
+      sentence: true,
+    },
+  });
+
+  // Map word_id to sentences
+  const sentencesMap: Record<string, string[]> = {};
+  for (const s of sentences) {
+    if (!sentencesMap[s.word_id]) sentencesMap[s.word_id] = [];
+    sentencesMap[s.word_id].push(s.sentence);
+  }
+
   const cards: RawFlashcard[] = [];
 
   for (const w of docs) {
@@ -118,6 +139,7 @@ export async function getFlashcardsPrisma(
       languageId: w.language_id,
       word: w.word,
       frontText: w.front_text!,
+      examples: sentencesMap[w.id] ?? [],
       translation: t,
       status: progress[w.id] ?? 0,
     });
