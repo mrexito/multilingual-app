@@ -1,0 +1,3371 @@
+[
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "agua",
+      "corazón"
+    ],
+    "puzzle": "Agua pasa por mi casa, cate de mi corazón. El que no lo adivine, será un gran cabezón.",
+    "solution": "El aguacate",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "water",
+          "heart"
+        ],
+        "puzzle": "Water passes by my house, cate from my heart. He who doesn't guess it, will be a big fool.",
+        "solution": "The avocado"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "eau",
+          "coeur"
+        ],
+        "puzzle": "L'eau passe par ma maison, cate de mon coeur. Celui qui ne la devine pas sera une grosse tête.",
+        "solution": "L'avocat"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "oro",
+      "plata"
+    ],
+    "puzzle": "Oro parece, plata no es. Quien no lo adivine, un tonto será.",
+    "solution": "El plátano",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "gold",
+          "silver"
+        ],
+        "puzzle": "It looks like gold, it's not silver. He who doesn't guess it, will be a fool.",
+        "solution": "The banana"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "or",
+          "argent"
+        ],
+        "puzzle": "Cela ressemble à de l'or, ce n'est pas de l'argent. Celui qui ne le devine pas sera un imbécile.",
+        "solution": "La banane"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "lago",
+      "mar"
+    ],
+    "puzzle": "Tengo lagunas y no soy un lago. Tengo mares sin agua y tengo mapas que no son de ningún lugar.",
+    "solution": "El mapa",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "lakes",
+          "seas"
+        ],
+        "puzzle": "I have lagoons and I am not a lake. I have seas without water and maps that are not from anywhere.",
+        "solution": "The map"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "lacs",
+          "mers"
+        ],
+        "puzzle": "J'ai des lagons et je ne suis pas un lac. J'ai des mers sans eau et des cartes qui ne sont d'aucun endroit.",
+        "solution": "La carte"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cama",
+      "león"
+    ],
+    "puzzle": "No es cama, ni es león, y desaparece en cualquier rincón.",
+    "solution": "El camaleón",
+    "category": "animales",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "bed",
+          "lion"
+        ],
+        "puzzle": "It's not a bed, nor a lion, and it disappears in any corner.",
+        "solution": "The chameleon"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "lit",
+          "lion"
+        ],
+        "puzzle": "Ce n'est pas un lit, ni un lion, et il disparaît dans n'importe quel coin.",
+        "solution": "Le caméléon"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "carne",
+      "hueso"
+    ],
+    "puzzle": "Soy de carne y hueso, pero no soy un ser vivo. Si me abrazas, te daré un beso.",
+    "solution": "El oso de peluche",
+    "category": "juguetes",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "flesh",
+          "bone"
+        ],
+        "puzzle": "I am made of flesh and bone, but I am not a living being. If you hug me, I will give you a kiss.",
+        "solution": "The teddy bear"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "chair",
+          "os"
+        ],
+        "puzzle": "Je suis fait de chair et d'os, mais je ne suis pas un être vivant. Si tu me prends dans tes bras, je te ferai un bisou.",
+        "solution": "L'ours en peluche"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "vuelo",
+      "plumas"
+    ],
+    "puzzle": "Vuelo de noche, duermo de día, y no verás plumas en ala mía.",
+    "solution": "El murciélago",
+    "category": "animales",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "fly",
+          "feathers"
+        ],
+        "puzzle": "I fly by night, I sleep by day, and you won't see feathers on my wing.",
+        "solution": "The bat"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "vole",
+          "plumes"
+        ],
+        "puzzle": "Je vole la nuit, je dors le jour, et tu ne verras pas de plumes sur mon aile.",
+        "solution": "La chauve-souris"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "dientes",
+      "cabeza"
+    ],
+    "puzzle": "Tiene dientes y no come, tiene cabeza y no es hombre.",
+    "solution": "El ajo",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "teeth",
+          "head"
+        ],
+        "puzzle": "It has teeth and doesn't eat, it has a head and is not a man.",
+        "solution": "The garlic"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "dents",
+          "tête"
+        ],
+        "puzzle": "Il a des dents et ne mange pas, il a une tête et n'est pas un homme.",
+        "solution": "L'ail"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuello",
+      "cabeza"
+    ],
+    "puzzle": "Tiene cuello, pero no tiene cabeza. Brazos, pero no tiene manos.",
+    "solution": "La botella",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "neck",
+          "head"
+        ],
+        "puzzle": "It has a neck, but no head. Arms, but no hands.",
+        "solution": "The bottle"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "cou",
+          "tête"
+        ],
+        "puzzle": "Il a un cou, mais pas de tête. Des bras, mais pas de mains.",
+        "solution": "La bouteille"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "blanco",
+      "negro",
+      "cebra"
+    ],
+    "puzzle": "Soy de blanco y negro, pero no soy una cebra. Vivo en la nieve y me gustan los peces.",
+    "solution": "El pingüino",
+    "category": "animales",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "black",
+          "white",
+          "zebra"
+        ],
+        "puzzle": "I am black and white, but I am not a zebra. I live in the snow and I like fish.",
+        "solution": "The penguin"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "blanc",
+          "noir",
+          "zèbre"
+        ],
+        "puzzle": "Je suis blanc et noir, mais je ne suis pas un zèbre. Je vis dans la neige et j'aime le poisson.",
+        "solution": "Le pingouin"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "caminos",
+      "ruedas"
+    ],
+    "puzzle": "No tiene caminos, pero viaja por el mundo. No tiene ruedas, pero se mueve sin parar.",
+    "solution": "El río",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "roads",
+          "wheels"
+        ],
+        "puzzle": "It has no roads, but it travels the world. It has no wheels, but it moves non-stop.",
+        "solution": "The river"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "routes",
+          "roues"
+        ],
+        "puzzle": "Il n'a pas de routes, mais il voyage à travers le monde. Il n'a pas de roues, mais il se déplace sans cesse.",
+        "solution": "La rivière"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "ojos",
+      "ver",
+      "correr"
+    ],
+    "puzzle": "Tengo ojos y no puedo ver, tengo pico y no puedo picar, y me gusta correr sin parar.",
+    "solution": "La gallina",
+    "category": "animales",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "eyes",
+          "see",
+          "run"
+        ],
+        "puzzle": "I have eyes and I can't see, I have a beak and I can't peck, and I like to run non-stop.",
+        "solution": "The hen"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "yeux",
+          "voir",
+          "courir"
+        ],
+        "puzzle": "J'ai des yeux et je ne peux pas voir, j'ai un bec et je ne peux pas picorer, et j'aime courir sans m'arrêter.",
+        "solution": "La poule"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "silencio",
+      "hablar"
+    ],
+    "puzzle": "No tengo boca, pero puedo hablar. Si me das un libro, te diré lo que es.",
+    "solution": "El silencio",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "silence",
+          "talk"
+        ],
+        "puzzle": "I have no mouth, but I can talk. If you give me a book, I will tell you what it is.",
+        "solution": "The silence"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "silence",
+          "parler"
+        ],
+        "puzzle": "Je n'ai pas de bouche, mais je peux parler. Si tu me donnes un livre, je te dirai ce qu'il est.",
+        "solution": "Le silence"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "blanca",
+      "gallina",
+      "huevo"
+    ],
+    "puzzle": "Blanca es, la gallina lo pone, con aceite se fríe y con pan se come.",
+    "solution": "El huevo",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "white",
+          "hen",
+          "egg"
+        ],
+        "puzzle": "It's white, the hen lays it, it's fried with oil and eaten with bread.",
+        "solution": "The egg"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "blanc",
+          "poule",
+          "oeuf"
+        ],
+        "puzzle": "C'est blanc, la poule le pond, on le fait frire à l'huile et on le mange avec du pain.",
+        "solution": "L'œuf"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "subir",
+      "bajar"
+    ],
+    "puzzle": "Sube llena, baja vacía y en la calle no tiene nada de ropa.",
+    "solution": "La cubeta",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "go up",
+          "go down"
+        ],
+        "puzzle": "It goes up full, it comes down empty and it has no clothes on the street.",
+        "solution": "The bucket"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "monter",
+          "descendre"
+        ],
+        "puzzle": "Il monte plein, il descend vide et il n'a pas de vêtements dans la rue.",
+        "solution": "Le seau"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "rayas",
+      "cebra"
+    ],
+    "puzzle": "Tiene rayas y no es cebra, hace miau y no es fiera.",
+    "solution": "El gato atigrado",
+    "category": "animales",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "stripes",
+          "zebra"
+        ],
+        "puzzle": "It has stripes and is not a zebra, it says meow and is not a beast.",
+        "solution": "The tabby cat"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "rayures",
+          "zèbre"
+        ],
+        "puzzle": "Il a des rayures et ce n'est pas un zèbre, il fait miaou et ce n'est pas une bête féroce.",
+        "solution": "Le chat tigré"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "cola"
+    ],
+    "puzzle": "Tiene cuerpo de madera, cola de hilo, y suelta lágrimas de cera.",
+    "solution": "La vela",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "tail"
+        ],
+        "puzzle": "It has a wooden body, a thread tail, and it sheds wax tears.",
+        "solution": "The candle"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "queue"
+        ],
+        "puzzle": "Il a un corps en bois, une queue en fil, et il verse des larmes de cire.",
+        "solution": "La bougie"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "patas",
+      "caminar"
+    ],
+    "puzzle": "Cuatro patas tiene, pero no puede caminar.",
+    "solution": "La mesa",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "legs",
+          "walk"
+        ],
+        "puzzle": "It has four legs, but it can't walk.",
+        "solution": "The table"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "pattes",
+          "marcher"
+        ],
+        "puzzle": "Il a quatre pattes, mais il ne peut pas marcher.",
+        "solution": "La table"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "largo",
+      "corto"
+    ],
+    "puzzle": "Mientras más larga, más corta es. Mientras más corta, más larga es.",
+    "solution": "La calle",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "long",
+          "short"
+        ],
+        "puzzle": "The longer it is, the shorter it is. The shorter it is, the longer it is.",
+        "solution": "The street"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "long",
+          "court"
+        ],
+        "puzzle": "Plus il est long, plus il est court. Plus il est court, plus il est long.",
+        "solution": "La rue"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cabeza",
+      "sombrero"
+    ],
+    "puzzle": "Soy un palito, bien derechito. En mi cabeza llevo un sombrero de puntito.",
+    "solution": "La letra I",
+    "category": "letras",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "stick",
+          "hat"
+        ],
+        "puzzle": "I am a little stick, very straight. On my head, I wear a little pointy hat.",
+        "solution": "The letter I"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bâton",
+          "chapeau"
+        ],
+        "puzzle": "Je suis un petit bâton, bien droit. Sur ma tête, je porte un petit chapeau pointu.",
+        "solution": "La lettre I"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "orejas",
+      "oreja"
+    ],
+    "puzzle": "Somos dos hermanas, muy unidas, que caminan de la mano y no se separan.",
+    "solution": "Las orejas",
+    "category": "cuerpo humano",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "sisters",
+          "ear"
+        ],
+        "puzzle": "We are two sisters, very close, who walk hand in hand and never separate.",
+        "solution": "The ears"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "sœurs",
+          "oreille"
+        ],
+        "puzzle": "Nous sommes deux sœurs, très unies, qui marchent main dans la main et ne se séparent jamais.",
+        "solution": "Les oreilles"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "luna",
+      "noche"
+    ],
+    "puzzle": "De noche soy luz, de día sombra. Y el hombre, cuando me ve, se asombra.",
+    "solution": "La luna",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "moon",
+          "night"
+        ],
+        "puzzle": "By night I am light, by day I am a shadow. And man, when he sees me, is amazed.",
+        "solution": "The moon"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "lune",
+          "nuit"
+        ],
+        "puzzle": "La nuit je suis lumière, le jour je suis une ombre. Et l'homme, quand il me voit, est stupéfait.",
+        "solution": "La lune"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "alma"
+    ],
+    "puzzle": "Sin ser humano, tengo rostro y alma. Pero no tengo vida.",
+    "solution": "El espejo",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "soul"
+        ],
+        "puzzle": "Without being human, I have a face and a soul. But I have no life.",
+        "solution": "The mirror"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "âme"
+        ],
+        "puzzle": "Sans être humain, j'ai un visage et une âme. Mais je n'ai pas de vie.",
+        "solution": "Le miroir"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "alas",
+      "vuela"
+    ],
+    "puzzle": "No tiene alas, pero vuela. No tiene boca, pero grita.",
+    "solution": "El viento",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "wings",
+          "flies"
+        ],
+        "puzzle": "It has no wings, but it flies. It has no mouth, but it screams.",
+        "solution": "The wind"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "ailes",
+          "vole"
+        ],
+        "puzzle": "Il n'a pas d'ailes, mais il vole. Il n'a pas de bouche, mais il crie.",
+        "solution": "Le vent"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "camino",
+      "pies"
+    ],
+    "puzzle": "No camina por la tierra, ni vuela por el cielo. Y aun así siempre está en movimiento.",
+    "solution": "La sombra",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "walks",
+          "feet"
+        ],
+        "puzzle": "It does not walk on the ground, nor does it fly in the sky. And yet it is always in motion.",
+        "solution": "The shadow"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "marche",
+          "pieds"
+        ],
+        "puzzle": "Il ne marche pas sur la terre, il ne vole pas dans le ciel. Et pourtant, il est toujours en mouvement.",
+        "solution": "L'ombre"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "fuego",
+      "quemar"
+    ],
+    "puzzle": "Entro en el fuego y no me quemo. Entro en el agua y no me mojo.",
+    "solution": "El sol",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "fire",
+          "burn"
+        ],
+        "puzzle": "I enter the fire and don't get burned. I enter the water and don't get wet.",
+        "solution": "The sun"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "feu",
+          "brûler"
+        ],
+        "puzzle": "J'entre dans le feu et je ne me brûle pas. J'entre dans l'eau et je ne me mouille pas.",
+        "solution": "Le soleil"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "blanco",
+      "rojo",
+      "semáforo"
+    ],
+    "puzzle": "Soy rojo, amarillo o verde, y no soy semáforo.",
+    "solution": "El pimiento",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "red",
+          "yellow",
+          "traffic light"
+        ],
+        "puzzle": "I am red, yellow or green, and I am not a traffic light.",
+        "solution": "The bell pepper"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "rouge",
+          "jaune",
+          "feu de circulation"
+        ],
+        "puzzle": "Je suis rouge, jaune ou vert, et je ne suis pas un feu de circulation.",
+        "solution": "Le poivron"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "luz",
+      "cuarto"
+    ],
+    "puzzle": "Puede llenar un cuarto pero no ocupa ni un rincón.",
+    "solution": "La luz",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "light",
+          "room"
+        ],
+        "puzzle": "It can fill a room but doesn't take up a corner.",
+        "solution": "The light"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "lumière",
+          "chambre"
+        ],
+        "puzzle": "Il peut remplir une pièce mais n'occupe aucun coin.",
+        "solution": "La lumière"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "corazón",
+      "palabra"
+    ],
+    "puzzle": "Tiene un corazón sin palabra, pero siempre te dice la verdad.",
+    "solution": "El espejo",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "heart",
+          "word"
+        ],
+        "puzzle": "It has a heart without a word, but it always tells you the truth.",
+        "solution": "The mirror"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "cœur",
+          "mot"
+        ],
+        "puzzle": "Il a un cœur sans mot, mais il te dit toujours la vérité.",
+        "solution": "Le miroir"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "ojos",
+      "ver",
+      "orejas"
+    ],
+    "puzzle": "Tengo ojos y no veo, tengo orejas y no oigo, tengo boca y no hablo, y tengo nariz y no huelo.",
+    "solution": "La aguja",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "eyes",
+          "see",
+          "ears"
+        ],
+        "puzzle": "I have eyes and I don't see, I have ears and I don't hear, I have a mouth and I don't talk, and I have a nose and I don't smell.",
+        "solution": "The needle"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "yeux",
+          "voir",
+          "oreilles"
+        ],
+        "puzzle": "J'ai des yeux et je ne vois pas, j'ai des oreilles et je n'entends pas, j'ai une bouche et je ne parle pas, et j'ai un nez et je ne sens pas.",
+        "solution": "L'aiguille"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "capa",
+      "llorar"
+    ],
+    "puzzle": "Tengo capas, pero no soy cebolla. Si me sacas de la tierra, puedes llorar.",
+    "solution": "La cebolla",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "layers",
+          "cry"
+        ],
+        "puzzle": "I have layers, but I am not an onion. If you take me out of the ground, you can cry.",
+        "solution": "The onion"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "couches",
+          "pleurer"
+        ],
+        "puzzle": "J'ai des couches, mais je ne suis pas un oignon. Si tu me sors de la terre, tu peux pleurer.",
+        "solution": "L'oignon"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "dientes",
+      "morder"
+    ],
+    "puzzle": "Tengo dientes y no muerdo, tengo cabeza y no pienso, pero te ayudo a peinarte.",
+    "solution": "El peine",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "teeth",
+          "bite"
+        ],
+        "puzzle": "I have teeth and I don't bite, I have a head and I don't think, but I help you comb your hair.",
+        "solution": "The comb"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "dents",
+          "mordre"
+        ],
+        "puzzle": "J'ai des dents et je ne mords pas, j'ai une tête et je ne pense pas, mais je t'aide à te coiffer.",
+        "solution": "Le peigne"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "orejas",
+      "cola"
+    ],
+    "puzzle": "Soy largo, con dos orejas, pero no soy un conejo. Me mueves y no me muevo.",
+    "solution": "El zapato",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "ears",
+          "tail"
+        ],
+        "puzzle": "I am long, with two ears, but I am not a rabbit. You move me and I don't move.",
+        "solution": "The shoe"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "oreilles",
+          "queue"
+        ],
+        "puzzle": "Je suis long, avec deux oreilles, mais je ne suis pas un lapin. Tu me bouges et je ne bouge pas.",
+        "solution": "La chaussure"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "blanco",
+      "negro",
+      "teclas"
+    ],
+    "puzzle": "Tengo teclas blancas y negras, pero no soy un piano. Te ayudo a escribir, pero no tengo manos.",
+    "solution": "El teclado",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "white",
+          "black",
+          "keys"
+        ],
+        "puzzle": "I have white and black keys, but I am not a piano. I help you write, but I have no hands.",
+        "solution": "The keyboard"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "blanc",
+          "noir",
+          "touches"
+        ],
+        "puzzle": "J'ai des touches blanches et noires, mais je ne suis pas un piano. Je t'aide à écrire, mais je n'ai pas de mains.",
+        "solution": "Le clavier"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cara",
+      "ojo",
+      "ceja"
+    ],
+    "puzzle": "No tengo cara, pero tengo un ojo y una ceja. Por las noches, me ves en el cielo.",
+    "solution": "La luna",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "face",
+          "eye",
+          "eyebrow"
+        ],
+        "puzzle": "I have no face, but I have an eye and an eyebrow. At night, you see me in the sky.",
+        "solution": "The moon"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "visage",
+          "œil",
+          "sourcil"
+        ],
+        "puzzle": "Je n'ai pas de visage, mais j'ai un œil et un sourcil. La nuit, tu me vois dans le ciel.",
+        "solution": "La lune"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "río",
+      "camino"
+    ],
+    "puzzle": "En el río, en el campo y en el mar, siempre estoy, pero nunca me ves.",
+    "solution": "El eco",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "river",
+          "road"
+        ],
+        "puzzle": "In the river, in the field and in the sea, I am always there, but you never see me.",
+        "solution": "The echo"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "rivière",
+          "chemin"
+        ],
+        "puzzle": "Dans la rivière, dans le champ et dans la mer, je suis toujours là, mais tu ne me vois jamais.",
+        "solution": "L'écho"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "hojas",
+      "lectura"
+    ],
+    "puzzle": "Tengo hojas y no soy árbol, tengo lomos y no soy caballo, te doy un tesoro, pero no soy pirata.",
+    "solution": "El libro",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "leaves",
+          "reading"
+        ],
+        "puzzle": "I have leaves and I'm not a tree, I have spines and I'm not a horse, I give you a treasure, but I'm not a pirate.",
+        "solution": "The book"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "feuilles",
+          "lecture"
+        ],
+        "puzzle": "J'ai des feuilles et je ne suis pas un arbre, j'ai des dos et je ne suis pas un cheval, je te donne un trésor, mais je ne suis pas un pirate.",
+        "solution": "Le livre"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "brazos",
+      "palabra"
+    ],
+    "puzzle": "Soy de brazos, pero no puedo abrazar. Y si me llamas, no te contestaré.",
+    "solution": "La silla",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "arms",
+          "word"
+        ],
+        "puzzle": "I have arms, but I can't hug. And if you call me, I won't answer.",
+        "solution": "The chair"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bras",
+          "mot"
+        ],
+        "puzzle": "J'ai des bras, mais je ne peux pas embrasser. Et si tu m'appelles, je ne te répondrai pas.",
+        "solution": "La chaise"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "oreja",
+      "botón"
+    ],
+    "puzzle": "Soy un botón, pero no soy de ropa. Me meto en tu oreja y te cuento cosas.",
+    "solution": "El audífono",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "ear",
+          "button"
+        ],
+        "puzzle": "I'm a button, but I'm not from clothes. I go into your ear and tell you things.",
+        "solution": "The hearing aid"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "oreille",
+          "bouton"
+        ],
+        "puzzle": "Je suis un bouton, mais je ne suis pas de vêtements. Je me mets dans ton oreille et je te raconte des choses.",
+        "solution": "L'écouteur"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cabeza",
+      "cuerpo"
+    ],
+    "puzzle": "Nace en un árbol, se cae en la hierba. Si le sacas la cabeza, se muere.",
+    "solution": "La manzana",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "head",
+          "body"
+        ],
+        "puzzle": "It is born on a tree, it falls on the grass. If you take its head off, it dies.",
+        "solution": "The apple"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "tête",
+          "corps"
+        ],
+        "puzzle": "Il naît sur un arbre, il tombe sur l'herbe. Si tu lui enlèves la tête, il meurt.",
+        "solution": "La pomme"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "correr",
+      "pies"
+    ],
+    "puzzle": "Corre sin tener pies, viaja sin tener coche, habla sin tener voz, pero siempre dice la verdad.",
+    "solution": "El río",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "run",
+          "feet"
+        ],
+        "puzzle": "It runs without feet, it travels without a car, it talks without a voice, but it always tells the truth.",
+        "solution": "The river"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "court",
+          "pieds"
+        ],
+        "puzzle": "Il court sans avoir de pieds, il voyage sans avoir de voiture, il parle sans avoir de voix, mais il dit toujours la vérité.",
+        "solution": "La rivière"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "manos",
+      "aplaudir"
+    ],
+    "puzzle": "Tiene manos, pero no puede aplaudir.",
+    "solution": "El reloj",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "hands",
+          "applaud"
+        ],
+        "puzzle": "It has hands, but it can't clap.",
+        "solution": "The clock"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "mains",
+          "applaudir"
+        ],
+        "puzzle": "Il a des mains, mais il ne peut pas applaudir.",
+        "solution": "L'horloge"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "mar",
+      "agua"
+    ],
+    "puzzle": "En el mar no me mojo, en el fuego no me quemo. Y sin ser ave, tengo un nido.",
+    "solution": "El pez",
+    "category": "animales",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "sea",
+          "water"
+        ],
+        "puzzle": "In the sea I don't get wet, in the fire I don't get burned. And without being a bird, I have a nest.",
+        "solution": "The fish"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "mer",
+          "eau"
+        ],
+        "puzzle": "Dans la mer je ne me mouille pas, dans le feu je ne me brûle pas. Et sans être un oiseau, j'ai un nid.",
+        "solution": "Le poisson"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "llave",
+      "casa"
+    ],
+    "puzzle": "No muerde ni ladra, pero tiene dientes, y la casa guarda.",
+    "solution": "La llave",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "key",
+          "house"
+        ],
+        "puzzle": "It doesn't bite or bark, but it has teeth, and it guards the house.",
+        "solution": "The key"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "clé",
+          "maison"
+        ],
+        "puzzle": "Il ne mord ni n'aboie, mais il a des dents, et il garde la maison.",
+        "solution": "La clé"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "cola"
+    ],
+    "puzzle": "Tengo cuerpo, pero no tengo manos. Tengo cola, pero no soy perro.",
+    "solution": "El cometa",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "tail"
+        ],
+        "puzzle": "I have a body, but I don't have hands. I have a tail, but I'm not a dog.",
+        "solution": "The comet"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "queue"
+        ],
+        "puzzle": "J'ai un corps, mais je n'ai pas de mains. J'ai une queue, mais je ne suis pas un chien.",
+        "solution": "La comète"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "negro",
+      "blanco"
+    ],
+    "puzzle": "Soy negro, pero no soy carbón. Soy blanco, pero no soy nieve. Me mueves, pero no me tocas.",
+    "solution": "La oscuridad",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "black",
+          "white"
+        ],
+        "puzzle": "I am black, but I am not coal. I am white, but I am not snow. You move me, but you don't touch me.",
+        "solution": "The darkness"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "noir",
+          "blanc"
+        ],
+        "puzzle": "Je suis noir, mais je ne suis pas du charbon. Je suis blanc, mais je ne suis pas de la neige. Tu me bouges, mais tu ne me touches pas.",
+        "solution": "L'obscurité"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "alas",
+      "cola"
+    ],
+    "puzzle": "Tengo alas, pero no vuelo. Tengo cola, pero no soy pez. Tejo mi casa, pero no soy araña.",
+    "solution": "La hormiga",
+    "category": "animales",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "wings",
+          "tail"
+        ],
+        "puzzle": "I have wings, but I don't fly. I have a tail, but I'm not a fish. I weave my house, but I'm not a spider.",
+        "solution": "The ant"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "ailes",
+          "queue"
+        ],
+        "puzzle": "J'ai des ailes, mais je ne vole pas. J'ai une queue, mais je ne suis pas un poisson. Je tisse ma maison, mais je ne suis pas une araignée.",
+        "solution": "La fourmi"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "blanco",
+      "negro"
+    ],
+    "puzzle": "Soy blanco, pero no tengo leche. Soy negro, pero no tengo café. Si me quitas una, me quedo sin nada.",
+    "solution": "La tiza",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "white",
+          "black"
+        ],
+        "puzzle": "I am white, but I have no milk. I am black, but I have no coffee. If you take one away, I am left with nothing.",
+        "solution": "The chalk"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "blanc",
+          "noir"
+        ],
+        "puzzle": "Je suis blanc, mais je n'ai pas de lait. Je suis noir, mais je n'ai pas de café. Si tu m'en enlèves une, je n'ai plus rien.",
+        "solution": "La craie"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cabeza",
+      "cabeza"
+    ],
+    "puzzle": "Sin cabeza me muevo, sin cabeza me quedo, y si me sacan la cabeza, me muero.",
+    "solution": "La pelota",
+    "category": "juguetes",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "head",
+          "head"
+        ],
+        "puzzle": "Without a head I move, without a head I stay, and if they take my head off, I die.",
+        "solution": "The ball"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "tête",
+          "tête"
+        ],
+        "puzzle": "Sans tête je bouge, sans tête je reste, et si on m'enlève la tête, je meurs.",
+        "solution": "La balle"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "viento",
+      "pies"
+    ],
+    "puzzle": "Silba sin labios, corre sin pies, en la espalda te golpea, y no lo ves.",
+    "solution": "El viento",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "whistle",
+          "feet"
+        ],
+        "puzzle": "It whistles without lips, it runs without feet, it hits you in the back, and you don't see it.",
+        "solution": "The wind"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "siffle",
+          "pieds"
+        ],
+        "puzzle": "Il siffle sans lèvres, il court sans pieds, il te frappe dans le dos, et tu ne le vois pas.",
+        "solution": "Le vent"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "camisa",
+      "botones"
+    ],
+    "puzzle": "Tengo muchos botones, pero no soy una camisa. Y si me aprietas, hago ruido.",
+    "solution": "El teclado",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "shirt",
+          "buttons"
+        ],
+        "puzzle": "I have many buttons, but I'm not a shirt. And if you press me, I make a sound.",
+        "solution": "The keyboard"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "chemise",
+          "boutons"
+        ],
+        "puzzle": "J'ai beaucoup de boutons, mais je ne suis pas une chemise. Et si tu me presses, je fais du bruit.",
+        "solution": "Le clavier"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "brazos",
+      "manos"
+    ],
+    "puzzle": "Tengo brazos y no tengo manos, tengo ojos y no puedo ver, y siempre estoy en la pared.",
+    "solution": "El reloj",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "arms",
+          "hands"
+        ],
+        "puzzle": "I have arms and I have no hands, I have eyes and I can't see, and I'm always on the wall.",
+        "solution": "The clock"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bras",
+          "mains"
+        ],
+        "puzzle": "J'ai des bras et je n'ai pas de mains, j'ai des yeux et je ne peux pas voir, et je suis toujours sur le mur.",
+        "solution": "L'horloge"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "carne",
+      "hueso"
+    ],
+    "puzzle": "Soy de carne y hueso, pero no puedo hablar, y si me tocas, me echo a reír.",
+    "solution": "La muñeca",
+    "category": "juguetes",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "flesh",
+          "bone"
+        ],
+        "puzzle": "I am made of flesh and bone, but I can't talk, and if you touch me, I burst out laughing.",
+        "solution": "The doll"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "chair",
+          "os"
+        ],
+        "puzzle": "Je suis faite de chair et d'os, mais je ne peux pas parler, et si tu me touches, je me mets à rire.",
+        "solution": "La poupée"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "agua",
+      "nadar"
+    ],
+    "puzzle": "No sé nadar, pero me muevo en el agua.",
+    "solution": "El barco",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "water",
+          "swim"
+        ],
+        "puzzle": "I can't swim, but I move in the water.",
+        "solution": "The boat"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "eau",
+          "nager"
+        ],
+        "puzzle": "Je ne sais pas nager, mais je me déplace dans l'eau.",
+        "solution": "Le bateau"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "boca",
+      "dientes"
+    ],
+    "puzzle": "Tengo boca, pero no tengo dientes. Y si me comes, me echo a reír.",
+    "solution": "La cereza",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "mouth",
+          "teeth"
+        ],
+        "puzzle": "I have a mouth, but I have no teeth. And if you eat me, I burst out laughing.",
+        "solution": "The cherry"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bouche",
+          "dents"
+        ],
+        "puzzle": "J'ai une bouche, mais je n'ai pas de dents. Et si tu me manges, je me mets à rire.",
+        "solution": "La cerise"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "vuela",
+      "alas"
+    ],
+    "puzzle": "Vuelo sin alas y no me canso. Tengo pico, pero no soy un pájaro.",
+    "solution": "La flecha",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "flies",
+          "wings"
+        ],
+        "puzzle": "I fly without wings and I don't get tired. I have a beak, but I'm not a bird.",
+        "solution": "The arrow"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "vole",
+          "ailes"
+        ],
+        "puzzle": "Je vole sans ailes et je ne me fatigue pas. J'ai un bec, mais je ne suis pas un oiseau.",
+        "solution": "La flèche"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "viento",
+      "plumas"
+    ],
+    "puzzle": "No tengo plumas, pero vuelo con el viento.",
+    "solution": "La cometa",
+    "category": "juguetes",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "wind",
+          "feathers"
+        ],
+        "puzzle": "I have no feathers, but I fly with the wind.",
+        "solution": "The kite"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "vent",
+          "plumes"
+        ],
+        "puzzle": "Je n'ai pas de plumes, mais je vole avec le vent.",
+        "solution": "Le cerf-volant"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "agujero",
+      "grande"
+    ],
+    "puzzle": "¿Qué cosa es, que cuanto más grande, menos es?",
+    "solution": "El agujero",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "hole",
+          "big"
+        ],
+        "puzzle": "What is it, that the bigger it is, the less it is?",
+        "solution": "The hole"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "trou",
+          "grand"
+        ],
+        "puzzle": "Qu'est-ce que c'est, qui, plus il est grand, moins il y en a ?",
+        "solution": "Le trou"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cara",
+      "espejo"
+    ],
+    "puzzle": "Tengo una cara, pero no soy humano. Te reflejo, pero no soy un espejo.",
+    "solution": "La sombra",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "face",
+          "mirror"
+        ],
+        "puzzle": "I have a face, but I'm not human. I reflect you, but I'm not a mirror.",
+        "solution": "The shadow"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "visage",
+          "miroir"
+        ],
+        "puzzle": "J'ai un visage, mais je ne suis pas humain. Je te reflète, mais je ne suis pas un miroir.",
+        "solution": "L'ombre"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "calle",
+      "personas"
+    ],
+    "puzzle": "Todos pasan por mí, pero yo nunca paso por nadie.",
+    "solution": "La calle",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "street",
+          "people"
+        ],
+        "puzzle": "Everyone passes through me, but I never pass through anyone.",
+        "solution": "The street"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "rue",
+          "personnes"
+        ],
+        "puzzle": "Tout le monde passe par moi, mais je ne passe jamais par personne.",
+        "solution": "La rue"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "hueso"
+    ],
+    "puzzle": "Tengo cuerpo y hueso, pero no soy un ser vivo. Me echas al fuego y me quemo, me echas al agua y me ahogo.",
+    "solution": "La vela",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "bone"
+        ],
+        "puzzle": "I have a body and a bone, but I am not a living being. You throw me in the fire and I burn, you throw me in the water and I drown.",
+        "solution": "The candle"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "os"
+        ],
+        "puzzle": "J'ai un corps et un os, mais je ne suis pas un être vivant. Tu me jettes au feu et je brûle, tu me jettes à l'eau et je me noie.",
+        "solution": "La bougie"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "campo",
+      "ciudad"
+    ],
+    "puzzle": "En el campo me ven verde, en la ciudad me ven blanco, y en casa me usan para hacer ruido.",
+    "solution": "La campana",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "field",
+          "city"
+        ],
+        "puzzle": "In the field they see me green, in the city they see me white, and at home they use me to make noise.",
+        "solution": "The bell"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "champ",
+          "ville"
+        ],
+        "puzzle": "Dans les champs ils me voient vert, en ville ils me voient blanc, et à la maison ils m'utilisent pour faire du bruit.",
+        "solution": "La cloche"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "voz",
+      "oído"
+    ],
+    "puzzle": "Hablo sin boca y oigo sin oídos, no tengo cuerpo, pero cobro vida con el viento.",
+    "solution": "El eco",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "voice",
+          "ear"
+        ],
+        "puzzle": "I speak without a mouth and hear without ears, I have no body, but I come to life with the wind.",
+        "solution": "The echo"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "voix",
+          "oreille"
+        ],
+        "puzzle": "Je parle sans bouche et j'entends sans oreilles, je n'ai pas de corps, mais je prends vie avec le vent.",
+        "solution": "L'écho"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "caballero",
+      "ruido"
+    ],
+    "puzzle": "Soy un caballero, y hago ruido, pero no hago nada malo. Si me ves, te darás cuenta.",
+    "solution": "El martillo",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "knight",
+          "noise"
+        ],
+        "puzzle": "I am a knight, and I make noise, but I don't do anything wrong. If you see me, you'll realize it.",
+        "solution": "The hammer"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "chevalier",
+          "bruit"
+        ],
+        "puzzle": "Je suis un chevalier, et je fais du bruit, mais je ne fais rien de mal. Si tu me vois, tu t'en rendras compte.",
+        "solution": "Le marteau"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "hueso"
+    ],
+    "puzzle": "No tengo cuerpo, ni tengo hueso, pero ando con el esqueleto.",
+    "solution": "La sombra",
+    "category": "conceptos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "bone"
+        ],
+        "puzzle": "I have no body, nor do I have a bone, but I walk with the skeleton.",
+        "solution": "The shadow"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "os"
+        ],
+        "puzzle": "Je n'ai pas de corps, ni d'os, mais je marche avec le squelette.",
+        "solution": "L'ombre"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "lluvia",
+      "romper"
+    ],
+    "puzzle": "Me caigo y nunca me rompo.",
+    "solution": "La lluvia",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "rain",
+          "break"
+        ],
+        "puzzle": "I fall and I never break.",
+        "solution": "The rain"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "pluie",
+          "casser"
+        ],
+        "puzzle": "Je tombe et je ne me casse jamais.",
+        "solution": "La pluie"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "hojas",
+      "flores"
+    ],
+    "puzzle": "Tengo hojas y no soy árbol, tengo flores y no soy jardín.",
+    "solution": "El libro",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "leaves",
+          "flowers"
+        ],
+        "puzzle": "I have leaves and I am not a tree, I have flowers and I am not a garden.",
+        "solution": "The book"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "feuilles",
+          "fleurs"
+        ],
+        "puzzle": "J'ai des feuilles et je ne suis pas un arbre, j'ai des fleurs et je ne suis pas un jardin.",
+        "solution": "Le livre"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "ojos",
+      "cara"
+    ],
+    "puzzle": "En medio del cielo, tengo dos ojos. Pero en la cara, no tengo ninguno.",
+    "solution": "El sol",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "eyes",
+          "face"
+        ],
+        "puzzle": "In the middle of the sky, I have two eyes. But on my face, I have none.",
+        "solution": "The sun"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "yeux",
+          "visage"
+        ],
+        "puzzle": "Au milieu du ciel, j'ai deux yeux. Mais sur mon visage, je n'en ai aucun.",
+        "solution": "Le soleil"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cabeza",
+      "orejas"
+    ],
+    "puzzle": "Tengo cabeza y no soy hombre, tengo orejas y no soy conejo.",
+    "solution": "El gorro",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "head",
+          "ears"
+        ],
+        "puzzle": "I have a head and I am not a man, I have ears and I am not a rabbit.",
+        "solution": "The hat"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "tête",
+          "oreilles"
+        ],
+        "puzzle": "J'ai une tête et je ne suis pas un homme, j'ai des oreilles et je ne suis pas un lapin.",
+        "solution": "Le bonnet"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "pelo",
+      "piel"
+    ],
+    "puzzle": "Tengo pelo y no soy un animal, tengo piel y no soy un hombre.",
+    "solution": "La brocha",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "hair",
+          "skin"
+        ],
+        "puzzle": "I have hair and I am not an animal, I have skin and I am not a man.",
+        "solution": "The brush"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "cheveux",
+          "peau"
+        ],
+        "puzzle": "J'ai des cheveux et je ne suis pas un animal, j'ai de la peau et je ne suis pas un homme.",
+        "solution": "La brosse"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "dientes",
+      "morder"
+    ],
+    "puzzle": "Tiene dientes y no muerde, tiene cabeza y no es hombre, te hace reír, pero no es payaso.",
+    "solution": "El ajo",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "teeth",
+          "bite"
+        ],
+        "puzzle": "It has teeth and doesn't bite, it has a head and is not a man, it makes you laugh, but it's not a clown.",
+        "solution": "The garlic"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "dents",
+          "mordre"
+        ],
+        "puzzle": "Il a des dents et ne mord pas, il a une tête et n'est pas un homme, il te fait rire, mais ce n'est pas un clown.",
+        "solution": "L'ail"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "alas",
+      "vuelo"
+    ],
+    "puzzle": "Tengo alas y no vuelo, tengo pico y no como, y te ayudo a escribir.",
+    "solution": "La pluma",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "wings",
+          "flight"
+        ],
+        "puzzle": "I have wings and I don't fly, I have a beak and I don't eat, and I help you write.",
+        "solution": "The feather"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "ailes",
+          "vol"
+        ],
+        "puzzle": "J'ai des ailes et je ne vole pas, j'ai un bec et je ne mange pas, et je t'aide à écrire.",
+        "solution": "La plume"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "llave",
+      "casa"
+    ],
+    "puzzle": "No tengo manos, ni tengo pies, pero te abro la puerta de tu casa.",
+    "solution": "La llave",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "key",
+          "house"
+        ],
+        "puzzle": "I have no hands, nor do I have feet, but I open the door of your house.",
+        "solution": "The key"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "clé",
+          "maison"
+        ],
+        "puzzle": "Je n'ai pas de mains, ni de pieds, mais je t'ouvre la porte de ta maison.",
+        "solution": "La clé"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "brazos",
+      "palabra"
+    ],
+    "puzzle": "Tengo brazos y no puedo abrazar, tengo piernas y no puedo caminar, y te doy un asiento para que te sientes.",
+    "solution": "La silla",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "arms",
+          "word"
+        ],
+        "puzzle": "I have arms and I can't hug, I have legs and I can't walk, and I give you a seat to sit on.",
+        "solution": "The chair"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bras",
+          "mot"
+        ],
+        "puzzle": "J'ai des bras et je ne peux pas embrasser, j'ai des jambes et je ne peux pas marcher, et je te donne un siège pour t'asseoir.",
+        "solution": "La chaise"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "hojas",
+      "fruta"
+    ],
+    "puzzle": "Verde en el campo, blanco en la mesa, pero en el centro tengo un tesoro.",
+    "solution": "El espárrago",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "leaves",
+          "fruit"
+        ],
+        "puzzle": "Green in the field, white on the table, but in the center I have a treasure.",
+        "solution": "The asparagus"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "feuilles",
+          "fruit"
+        ],
+        "puzzle": "Vert dans le champ, blanc sur la table, mais au centre j'ai un trésor.",
+        "solution": "L'asperge"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "nariz",
+      "nariz"
+    ],
+    "puzzle": "Tengo una nariz y no huelo, tengo un ojo y no veo, y te sirvo para escribir.",
+    "solution": "El lápiz",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "nose",
+          "nose"
+        ],
+        "puzzle": "I have a nose and I don't smell, I have an eye and I don't see, and I serve you to write.",
+        "solution": "The pencil"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "nez",
+          "nez"
+        ],
+        "puzzle": "J'ai un nez et je ne sens pas, j'ai un œil et je ne vois pas, et je te sers à écrire.",
+        "solution": "Le crayon"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "brazos",
+      "piernas"
+    ],
+    "puzzle": "Tengo brazos, pero no tengo piernas, te ayudo a caminar, pero no soy un ser vivo.",
+    "solution": "El bastón",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "arms",
+          "legs"
+        ],
+        "puzzle": "I have arms, but I have no legs, I help you walk, but I'm not a living being.",
+        "solution": "The cane"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bras",
+          "jambes"
+        ],
+        "puzzle": "J'ai des bras, mais je n'ai pas de jambes, je t'aide à marcher, mais je ne suis pas un être vivant.",
+        "solution": "La canne"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "alas",
+      "vuelo"
+    ],
+    "puzzle": "Vuelo sin alas, y sin ser pájaro. Vivo en el aire, y me alimento del viento.",
+    "solution": "La cometa",
+    "category": "juguetes",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "wings",
+          "flight"
+        ],
+        "puzzle": "I fly without wings, and without being a bird. I live in the air, and I feed on the wind.",
+        "solution": "The kite"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "ailes",
+          "vol"
+        ],
+        "puzzle": "Je vole sans ailes, et sans être un oiseau. Je vis dans l'air, et je me nourris du vent.",
+        "solution": "Le cerf-volant"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "cola"
+    ],
+    "puzzle": "Tengo cuerpo de madera, y cola de hilo, y me visto de fiesta cuando hay luz.",
+    "solution": "La vela",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "tail"
+        ],
+        "puzzle": "I have a wooden body, and a thread tail, and I get dressed for a party when there is light.",
+        "solution": "The candle"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "queue"
+        ],
+        "puzzle": "J'ai un corps en bois, et une queue en fil, et je me prépare pour la fête quand il y a de la lumière.",
+        "solution": "La bougie"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "brazos",
+      "palabras"
+    ],
+    "puzzle": "Tengo brazos y no tengo manos, te doy palabras, pero no soy una persona.",
+    "solution": "El libro",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "arms",
+          "words"
+        ],
+        "puzzle": "I have arms and I have no hands, I give you words, but I'm not a person.",
+        "solution": "The book"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bras",
+          "mots"
+        ],
+        "puzzle": "J'ai des bras et je n'ai pas de mains, je te donne des mots, mais je ne suis pas une personne.",
+        "solution": "Le livre"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "sol",
+      "sol"
+    ],
+    "puzzle": "Soy amarilla y brillante, y me gusta el sol. Si me miras, te darás cuenta.",
+    "solution": "La estrella",
+    "category": "naturaleza",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "yellow",
+          "sun"
+        ],
+        "puzzle": "I'm yellow and shiny, and I like the sun. If you look at me, you'll realize it.",
+        "solution": "The star"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "jaune",
+          "soleil"
+        ],
+        "puzzle": "Je suis jaune et brillante, et j'aime le soleil. Si tu me regardes, tu t'en rendras compte.",
+        "solution": "L'étoile"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "cabeza"
+    ],
+    "puzzle": "Tengo cuerpo y no tengo cabeza, tengo corazón y no tengo alma.",
+    "solution": "El tambor",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "head"
+        ],
+        "puzzle": "I have a body and I have no head, I have a heart and I have no soul.",
+        "solution": "The drum"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "tête"
+        ],
+        "puzzle": "J'ai un corps et je n'ai pas de tête, j'ai un cœur et je n'ai pas d'âme.",
+        "solution": "Le tambour"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "agua",
+      "vaso"
+    ],
+    "puzzle": "Tengo agua y no soy un río, tengo un vaso y no soy un vaso, y te refresco cuando tengo sed.",
+    "solution": "El hielo",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "water",
+          "glass"
+        ],
+        "puzzle": "I have water and I am not a river, I have a glass and I am not a glass, and I refresh you when you are thirsty.",
+        "solution": "The ice"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "eau",
+          "verre"
+        ],
+        "puzzle": "J'ai de l'eau et je ne suis pas une rivière, j'ai un verre et je ne suis pas un verre, et je te rafraîchis quand tu as soif.",
+        "solution": "La glace"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "dientes",
+      "boca"
+    ],
+    "puzzle": "Tengo dientes y no tengo boca, y si me sacas los dientes, me muero.",
+    "solution": "La sierra",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "teeth",
+          "mouth"
+        ],
+        "puzzle": "I have teeth and I have no mouth, and if you take my teeth out, I die.",
+        "solution": "The saw"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "dents",
+          "bouche"
+        ],
+        "puzzle": "J'ai des dents et je n'ai pas de bouche, et si tu m'enlèves les dents, je meurs.",
+        "solution": "La scie"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "camino",
+      "coche"
+    ],
+    "puzzle": "No tengo camino, pero siempre voy con el coche.",
+    "solution": "El volante",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "road",
+          "car"
+        ],
+        "puzzle": "I have no road, but I always go with the car.",
+        "solution": "The steering wheel"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "route",
+          "voiture"
+        ],
+        "puzzle": "Je n'ai pas de route, mais je vais toujours avec la voiture.",
+        "solution": "Le volant"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "ojos",
+      "cabeza"
+    ],
+    "puzzle": "Tengo ojos, pero no veo. Tengo corona, pero no soy rey.",
+    "solution": "La piña",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "eyes",
+          "head"
+        ],
+        "puzzle": "I have eyes, but I can't see. I have a crown, but I am not a king.",
+        "solution": "The pineapple"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "yeux",
+          "tête"
+        ],
+        "puzzle": "J'ai des yeux, mais je ne vois pas. J'ai une couronne, mais je ne suis pas un roi.",
+        "solution": "L'ananas"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "boca",
+      "dientes"
+    ],
+    "puzzle": "Soy una caja pequeñita, que si me abres, te muestro mis dientes.",
+    "solution": "La boca",
+    "category": "cuerpo humano",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "box",
+          "teeth"
+        ],
+        "puzzle": "I am a small box, that if you open me, I show you my teeth.",
+        "solution": "The mouth"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "boîte",
+          "dents"
+        ],
+        "puzzle": "Je suis une petite boîte, qui si tu m'ouvres, je te montre mes dents.",
+        "solution": "La bouche"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "brazos"
+    ],
+    "puzzle": "Tengo cuerpo, pero no tengo brazos. Tengo piernas, pero no tengo pies.",
+    "solution": "La camisa",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "arms"
+        ],
+        "puzzle": "I have a body, but I have no arms. I have legs, but I have no feet.",
+        "solution": "The shirt"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "bras"
+        ],
+        "puzzle": "J'ai un corps, mais je n'ai pas de bras. J'ai des jambes, mais je n'ai pas de pieds.",
+        "solution": "La chemise"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "nariz"
+    ],
+    "puzzle": "Tengo cuerpo y tengo nariz, y si me tocas, me echo a reír.",
+    "solution": "La bombilla",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "nose"
+        ],
+        "puzzle": "I have a body and I have a nose, and if you touch me, I burst out laughing.",
+        "solution": "The light bulb"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "nez"
+        ],
+        "puzzle": "J'ai un corps et j'ai un nez, et si tu me touches, je me mets à rire.",
+        "solution": "L'ampoule"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "pies",
+      "cabeza"
+    ],
+    "puzzle": "Soy un palito, y me gusta la cabeza. Si me la pones, me echo a reír.",
+    "solution": "El lápiz",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "stick",
+          "head"
+        ],
+        "puzzle": "I am a little stick, and I like the head. If you put it on me, I burst out laughing.",
+        "solution": "The pencil"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bâton",
+          "tête"
+        ],
+        "puzzle": "Je suis un petit bâton, et j'aime la tête. Si tu la mets sur moi, je me mets à rire.",
+        "solution": "Le crayon"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "pelo"
+    ],
+    "puzzle": "Tengo cuerpo y tengo pelo, pero no soy un animal. Te ayudo a vestirte, pero no soy una persona.",
+    "solution": "El abrigo",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "hair"
+        ],
+        "puzzle": "I have a body and I have hair, but I am not an animal. I help you get dressed, but I am not a person.",
+        "solution": "The coat"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "cheveux"
+        ],
+        "puzzle": "J'ai un corps et j'ai des cheveux, mais je ne suis pas un animal. Je t'aide à t'habiller, mais je ne suis pas une personne.",
+        "solution": "Le manteau"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "boca",
+      "dientes"
+    ],
+    "puzzle": "Tengo boca y no tengo dientes, tengo nariz y no huelo. Y te hago reír cuando me ves.",
+    "solution": "La cara",
+    "category": "cuerpo humano",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "mouth",
+          "teeth"
+        ],
+        "puzzle": "I have a mouth and I have no teeth, I have a nose and I don't smell. And I make you laugh when you see me.",
+        "solution": "The face"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "bouche",
+          "dents"
+        ],
+        "puzzle": "J'ai une bouche et je n'ai pas de dents, j'ai un nez et je ne sens pas. Et je te fais rire quand tu me vois.",
+        "solution": "Le visage"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "cuerpo",
+      "pies"
+    ],
+    "puzzle": "Tengo cuerpo, pero no tengo pies. Tengo cabeza, pero no tengo pelo.",
+    "solution": "El zapato",
+    "category": "objetos",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "body",
+          "feet"
+        ],
+        "puzzle": "I have a body, but I have no feet. I have a head, but I have no hair.",
+        "solution": "The shoe"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "corps",
+          "pieds"
+        ],
+        "puzzle": "J'ai un corps, mais je n'ai pas de pieds. J'ai une tête, mais je n'ai pas de cheveux.",
+        "solution": "La chaussure"
+      }
+    ]
+  },
+  {
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aaa"
+    },
+    "words": [
+      "agua",
+      "vaso"
+    ],
+    "puzzle": "Soy agua, pero no soy un río. Soy un vaso, pero no soy un vaso. Si me sacas de la tierra, me muero.",
+    "solution": "La zanahoria",
+    "category": "comida",
+    "translations": [
+      {
+        "language_id": {
+          "$oid": "67bed42569a3680a95974aa9"
+        },
+        "words": [
+          "water",
+          "glass"
+        ],
+        "puzzle": "I am water, but I am not a river. I am a glass, but I am not a glass. If you take me out of the ground, I die.",
+        "solution": "The carrot"
+      },
+      {
+        "language_id": {
+          "$oid": "680b9178e6c767baf3bc3803"
+        },
+        "words": [
+          "eau",
+          "verre"
+        ],
+        "puzzle": "Je suis de l'eau, mais je ne suis pas une rivière. Je suis un verre, mais je ne suis pas un verre. Si tu me sors de la terre, je meurs.",
+        "solution": "La carotte"
+      }
+    ]
+  }
+]
