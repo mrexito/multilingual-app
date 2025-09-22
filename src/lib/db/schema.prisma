@@ -276,8 +276,8 @@ model puzzles {
 type PuzzleTranslation {
   language_id String   @db.ObjectId
   words       String[]
-  puzzle      String
-  solution    String
+  puzzle      String?
+  solution    String?
 }
 
 
