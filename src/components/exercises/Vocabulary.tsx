@@ -28,7 +28,7 @@ type Props = {
 
 export default function DarkFlashcards({ cards }: Props) {
   const [idx, setIdx] = useState(0);
-  const [revealStep, setRevealStep] = useState<0 | 1 | 2>(0); // 0 = word, 1 = frontText, 2 = translation
+  const [revealStep, setRevealStep] = useState<0 | 1 | 2>(0);  // 0 = word, 1 = frontText, 2 = translation
   const [dir, setDir] = useState(0);
   const [showHelp, setHelp] = useState(false);
   const [onlyTodo, setTodo] = useState(false);
@@ -163,10 +163,23 @@ export default function DarkFlashcards({ cards }: Props) {
           >
             <div className="absolute inset-0 rounded-xl border-2 border-[#6A6A6A] bg-[#141F24] backface-visibility-hidden flex flex-col items-center justify-center p-4">
               <h2 className="text-2xl font-bold mb-2">{card.word}</h2>
+              {/* Beispiele */}
+              {card.examples && card.examples.length > 0 && revealStep === 0 && (
+                <div className="space-y-1 text-sm text-gray-300 text-center">
+                  {card.examples.map((ex, i) => (
+                    <p key={i} className="italic">{ex}</p>
+                    ))}
+                  </div>
+              )}
+
+              {/* Definition */}
               {revealStep >= 1 && (
-                <p className="italic text-center max-w-xs text-gray-200">
-                  {card.frontText}
-                </p>
+                <>
+                  <p className="mt-5 font-bold text-gray-400">Definition</p>
+                  <p className="italic text-center max-w-xs text-gray-200">
+                    {card.frontText}
+                  </p>
+                </>
               )}
             </div>
 
