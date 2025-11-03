@@ -1,4 +1,4 @@
-// lib/images.ts
+// src/lib/images.ts
 import db from "./db";
 
 export type ImageTranslation = {
@@ -6,27 +6,34 @@ export type ImageTranslation = {
   translation: string;
 };
 
-export type RawImageCard = {
+export type ImageCard = {
   id: string;
-  image: string;
-  category?: string | null;
+  first_image: string;
   translations: ImageTranslation[];
+  category?: string | null;
 };
 
-export async function getImageFlashcards(): Promise<RawImageCard[]> {
-  const docs = await db.images.findMany({
+/**
+ * Ruft alle Bilderkarten (ImageCards) aus der MongoDB ab.
+ */
+export async function getImageCards(): Promise<ImageCard[]> {
+  // Prisma greift hier auf dein Modell "images" zu.
+  const docs = await (db as any).images.findMany({
     select: {
       id: true,
       first_image: true,
-      category: true,
       translations: true,
+      category: true,
     },
   });
 
-  return docs.map((d) => ({
-    id: d.id,
-    image: d.first_image,
+  return docs.map((d: any) => ({
+    id: String(d.id),
+    first_image: d.first_image,
+    translations: (d.translations ?? []).map((t: any) => ({
+      language_id: String(t.language_id ?? ""),
+      translation: t.translation ?? "",
+    })),
     category: d.category ?? null,
-    translations: (d.translations ?? []) as ImageTranslation[],
   }));
 }
