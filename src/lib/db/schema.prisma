@@ -287,14 +287,14 @@ type TranslationEntry {
 }
 
 model images {
-  id            String               @id @default(auto()) @map("_id") @db.ObjectId
-  first_image   String
-  second_image  String?               // optional, falls du sie entfernen willst
-  category      String?
-  translations  ImageTranslation[]
+  id           String               @id @default(auto()) @map("_id") @db.ObjectId
+  first_image  String
+  category     String?
+  translations ImageTranslation[]
 }
 
 type ImageTranslation {
-  language_id   String   @db.ObjectId
-  translation   String
+  language_id  String   @db.ObjectId
+  translation  String
 }
+
