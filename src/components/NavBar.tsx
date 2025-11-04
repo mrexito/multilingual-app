@@ -52,7 +52,10 @@ const navItems: NavItem[] = [
     icon: <TbJoker size={24} />,
     href: "/jokes",
   },
-  { label: "Images", icon: <TbPhoto size={24} />, href: "/images", },
+  { label: "Images", 
+    icon: <TbPhoto size={24} />, 
+    href: "/images" 
+  },
   { label: "Profile", icon: <CiUser size={24} />, href: "/profile" },
 ];
 
