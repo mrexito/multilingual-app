@@ -70,7 +70,7 @@ export default function Images({ cards }: Props) {
           animate="center"
           exit="exit"
           transition={{ duration: 0.3 }}
-          className="relative w-[300px] md:w-[400px] h-[300px] md:h-[380px]"
+          className="relative w-[500px] md:w-[500px] h-[500px] md:h-[580px]"
         >
           <div
             onClick={() => setFlipped(!flipped)}
@@ -80,15 +80,33 @@ export default function Images({ cards }: Props) {
             )}
           >
             {/* FRONT */}
-            <div className="absolute inset-0 rounded-xl border-2 border-[#6A6A6A] bg-[#141F24] backface-visibility-hidden flex items-center justify-center overflow-hidden">
-              <Image
-                src={card.first_image}
-                alt="Vegetable"
-                width={400}
-                height={300}
-                className="object-cover rounded-xl"
-              />
+            <div className="absolute inset-0 rounded-xl border-2 border-[#6A6A6A] bg-[#141F24] backface-visibility-hidden flex flex-col items-center justify-center gap-2 p-2 overflow-hidden">
+
+              {/* Erstes Bild */}
+              <div className="w-full h-full flex items-center justify-center overflow-hidden">
+                <Image
+                  src={card.first_image}
+                  alt="Vegetable"
+                  width={400}
+                  height={200}
+                  className="object-contain rounded-lg"
+                />
+              </div>
+
+              {/* Zweites Bild (falls vorhanden) */}
+              {card.second_image && (
+                <div className="w-full h-full flex items-center justify-center overflow-hidden">
+                  <Image
+                    src={card.second_image}
+                    alt="Vegetable second view"
+                    width={400}
+                    height={200}
+                    className="object-contain rounded-lg"
+                  />
+                </div>
+              )}
             </div>
+
 
             {/* BACK */}
             <div
