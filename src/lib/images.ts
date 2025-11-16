@@ -9,6 +9,7 @@ export type ImageTranslation = {
 export type ImageCard = {
   id: string;
   first_image: string;
+  second_image?: string | null;
   translations: ImageTranslation[];
   category?: string | null;
 };
@@ -22,6 +23,7 @@ export async function getImageCards(): Promise<ImageCard[]> {
     select: {
       id: true,
       first_image: true,
+      second_image: true,
       translations: true,
       category: true,
     },
@@ -30,6 +32,7 @@ export async function getImageCards(): Promise<ImageCard[]> {
   return docs.map((d: any) => ({
     id: String(d.id),
     first_image: d.first_image,
+    second_image: d.second_image ?? null,
     translations: (d.translations ?? []).map((t: any) => ({
       language_id: String(t.language_id ?? ""),
       translation: t.translation ?? "",
