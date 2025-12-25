@@ -71,7 +71,7 @@ const exercisesByLanguage: Record<string, Exercise[]> = {
     },
         {
       name: "Puzzle",
-      description: "Learn new words to expand your vocabulary.",
+      description: "Learn with different puzzles to expand your vocabulary.",
       href: "/spanish/exercises/puzzle",
     },
   ],
