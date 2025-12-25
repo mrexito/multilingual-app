@@ -26,9 +26,10 @@ type Props = {
   cards: RawFlashcard[];
 };
 
+
 export default function DarkFlashcards({ cards }: Props) {
   const [idx, setIdx] = useState(0);
-  const [revealStep, setRevealStep] = useState<0 | 1 | 2>(0);  // 0 = word, 1 = frontText, 2 = translation
+  const [revealStep, setRevealStep] = useState<0 | 1 | 2>(0);  // 0 = word + example, 1 = definition, 2 = translation
   const [dir, setDir] = useState(0);
   const [showHelp, setHelp] = useState(false);
   const [onlyTodo, setTodo] = useState(false);
@@ -148,7 +149,7 @@ export default function DarkFlashcards({ cards }: Props) {
           animate="center"
           exit="exit"
           transition={{ duration: 0.3 }}
-          className="relative w-[300px] md:w-[400px] h-[240px] md:h-[300px]"
+          className="relative w-[94vw] max-w-[680px] h-[380px] md:h-[460px] lg:h-[520px]"
         >
           <div
             onClick={() =>
@@ -161,25 +162,27 @@ export default function DarkFlashcards({ cards }: Props) {
               revealStep === 2 ? "rotate-y-180" : "rotate-y-0"
             )}
           >
-            <div className="absolute inset-0 rounded-xl border-2 border-[#6A6A6A] bg-[#141F24] backface-visibility-hidden flex flex-col items-center justify-center p-4">
-              <h2 className="text-2xl font-bold mb-2">{card.word}</h2>
+            <div className="absolute inset-0 rounded-xl border-2 border-[#6A6A6A] bg-[#141F24] backface-visibility-hidden flex flex-col items-center justify-center p-6">
+              <h2 className="text-4xl font-bold mb-7 text-center">{card.word}</h2>
               {/* Beispiele */}
               {card.examples && card.examples.length > 0 && revealStep === 0 && (
-                <div className="space-y-1 text-sm text-gray-300 text-center">
+                <div className="space-y-6 text-sm text-gray-300 text-center">
                   {card.examples.map((ex, i) => (
-                    <p key={i} className="italic">{ex}</p>
+                    <p key={i} className="italic text-base">
+                      {ex}
+                    </p>
                     ))}
                   </div>
               )}
 
               {/* Definition */}
               {revealStep >= 1 && (
-                <>
-                  <p className="mt-5 font-bold text-gray-400">Definition</p>
-                  <p className="italic text-center max-w-xs text-gray-200">
+                <div className="mt-4">
+                  <p className="font-bold text-gray-400 text-center text-lg">Definition</p>
+                  <p className="mt-2 italic text-center text-gray-300 text-lg">
                     {card.frontText}
                   </p>
-                </>
+                </div>
               )}
             </div>
 
@@ -187,7 +190,7 @@ export default function DarkFlashcards({ cards }: Props) {
               className="absolute inset-0 rounded-xl border-2 border-[#6A6A6A] bg-[#1E2A2E] backface-visibility-hidden rotate-y-180 flex items-center justify-center p-4"
               style={{ transform: "rotateY(180deg)" }}
             >
-              <p className="text-xl font-semibold text-center max-w-xs">
+              <p className="text-4xl font-semibold text-center max-w-xs">
                 {card.translation}
               </p>
             </div>
