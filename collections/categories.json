@@ -1,0 +1,1144 @@
+[{
+  "_id": {
+    "$oid": "67bed48b10384f55dbd62044"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Adjektive",
+  "description": "Learn about Adjektive in German",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48b10384f55dbd62045"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Adverbien",
+  "description": "Learn about Adverbien in German",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48b10384f55dbd62048"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Nomen",
+  "description": "Learn about Nomen in German",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48b10384f55dbd62046"
+      },
+      "name": "Eigennamen",
+      "description": "Learn about Eigennamen in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48b10384f55dbd62047"
+      },
+      "name": "Gattungsnamen",
+      "description": "Learn about Gattungsnamen in German"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48b10384f55dbd6204d"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Verben",
+  "description": "Learn about Verben in German",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48b10384f55dbd62049"
+      },
+      "name": "Transitive Verben",
+      "description": "Learn about Transitive Verben in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48b10384f55dbd6204a"
+      },
+      "name": "Intransitive Verben",
+      "description": "Learn about Intransitive Verben in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48b10384f55dbd6204b"
+      },
+      "name": "Reflexive Verben",
+      "description": "Learn about Reflexive Verben in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48b10384f55dbd6204c"
+      },
+      "name": "Unpersönliche Verben",
+      "description": "Learn about Unpersönliche Verben in German"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48b10384f55dbd6204e"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Präpositionen",
+  "description": "Learn about Präpositionen in German",
+  "type": "Grammar",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48b10384f55dbd6204f"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Konjunktionen",
+  "description": "Learn about Konjunktionen in German",
+  "type": "Grammar",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48b10384f55dbd62052"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Artikel",
+  "description": "Learn about Artikel in German",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48b10384f55dbd62050"
+      },
+      "name": "Bestimmte Artikel",
+      "description": "Learn about Bestimmte Artikel in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48b10384f55dbd62051"
+      },
+      "name": "Unbestimmte Artikel",
+      "description": "Learn about Unbestimmte Artikel in German"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62057"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Pronomen",
+  "description": "Learn about Pronomen in German",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62053"
+      },
+      "name": "Personalpronomen",
+      "description": "Learn about Personalpronomen in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62054"
+      },
+      "name": "Relativpronomen",
+      "description": "Learn about Relativpronomen in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62055"
+      },
+      "name": "Demonstrativpronomen",
+      "description": "Learn about Demonstrativpronomen in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62056"
+      },
+      "name": "Possessivpronomen",
+      "description": "Learn about Possessivpronomen in German"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6205a"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Partizipien",
+  "description": "Learn about Partizipien in German",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62058"
+      },
+      "name": "Partizip I",
+      "description": "Learn about Partizip I in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62059"
+      },
+      "name": "Partizip II",
+      "description": "Learn about Partizip II in German"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6205b"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Interjektionen",
+  "description": "Learn about Interjektionen in German",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6205e"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Numerale",
+  "description": "Learn about Numerale in German",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6205c"
+      },
+      "name": "Kardinalzahlen",
+      "description": "Learn about Kardinalzahlen in German"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6205d"
+      },
+      "name": "Ordinalzahlen",
+      "description": "Learn about Ordinalzahlen in German"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6205f"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Redewendung",
+  "description": "Learn about Redewendung in German",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62060"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Ausdrücke",
+  "description": "Learn about Ausdrücke in German",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62061"
+  },
+  "language_id": {
+    "$oid": "67bed4528f87b8e3161ad51b"
+  },
+  "name": "Allgemein",
+  "description": "Learn about Allgemein in German",
+  "type": "General",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62062"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Adjectives",
+  "description": "Learn about Adjectives in English",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62063"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Adverbs",
+  "description": "Learn about Adverbs in English",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62066"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Nouns",
+  "description": "Learn about Nouns in English",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62064"
+      },
+      "name": "Proper Nouns",
+      "description": "Learn about Proper Nouns in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62065"
+      },
+      "name": "Common Nouns",
+      "description": "Learn about Common Nouns in English"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6206b"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Verbs",
+  "description": "Learn about Verbs in English",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62067"
+      },
+      "name": "Transitive Verbs",
+      "description": "Learn about Transitive Verbs in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62068"
+      },
+      "name": "Intransitive Verbs",
+      "description": "Learn about Intransitive Verbs in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62069"
+      },
+      "name": "Reflexive Verbs",
+      "description": "Learn about Reflexive Verbs in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6206a"
+      },
+      "name": "Impersonal Verbs",
+      "description": "Learn about Impersonal Verbs in English"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6206c"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Prepositions",
+  "description": "Learn about Prepositions in English",
+  "type": "Grammar",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6206d"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Conjunctions",
+  "description": "Learn about Conjunctions in English",
+  "type": "Grammar",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62070"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Articles",
+  "description": "Learn about Articles in English",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6206e"
+      },
+      "name": "Definite Articles",
+      "description": "Learn about Definite Articles in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6206f"
+      },
+      "name": "Indefinite Articles",
+      "description": "Learn about Indefinite Articles in English"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62075"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Pronouns",
+  "description": "Learn about Pronouns in English",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62071"
+      },
+      "name": "Personal Pronouns",
+      "description": "Learn about Personal Pronouns in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62072"
+      },
+      "name": "Relative Pronouns",
+      "description": "Learn about Relative Pronouns in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62073"
+      },
+      "name": "Demonstrative Pronouns",
+      "description": "Learn about Demonstrative Pronouns in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62074"
+      },
+      "name": "Possessive Pronouns",
+      "description": "Learn about Possessive Pronouns in English"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62078"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Participles",
+  "description": "Learn about Participles in English",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62076"
+      },
+      "name": "Present Participle",
+      "description": "Learn about Present Participle in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62077"
+      },
+      "name": "Past Participle",
+      "description": "Learn about Past Participle in English"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62079"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Interjections",
+  "description": "Learn about Interjections in English",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6207c"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Numerals",
+  "description": "Learn about Numerals in English",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6207a"
+      },
+      "name": "Cardinal Numbers",
+      "description": "Learn about Cardinal Numbers in English"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6207b"
+      },
+      "name": "Ordinal Numbers",
+      "description": "Learn about Ordinal Numbers in English"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6207d"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Idiom",
+  "description": "Learn about Idiom in English",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6207e"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "Expressions",
+  "description": "Learn about Expressions in English",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6207f"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aa9"
+  },
+  "name": "General",
+  "description": "Learn about General in English",
+  "type": "General",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62080"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Adjetivos",
+  "description": "Learn about Adjetivos in Spanish",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62081"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Adverbios",
+  "description": "Learn about Adverbios in Spanish",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62084"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Sustantivos",
+  "description": "Learn about Sustantivos in Spanish",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62082"
+      },
+      "name": "Nombres Propios",
+      "description": "Learn about Nombres Propios in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62083"
+      },
+      "name": "Nombres Comunes",
+      "description": "Learn about Nombres Comunes in Spanish"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62089"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Verbos",
+  "description": "Learn about Verbos in Spanish",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62085"
+      },
+      "name": "Verbos Transitivos",
+      "description": "Learn about Verbos Transitivos in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62086"
+      },
+      "name": "Verbos Intransitivos",
+      "description": "Learn about Verbos Intransitivos in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62087"
+      },
+      "name": "Verbos Reflexivos",
+      "description": "Learn about Verbos Reflexivos in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62088"
+      },
+      "name": "Verbos Impersonales",
+      "description": "Learn about Verbos Impersonales in Spanish"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6208a"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Preposiciones",
+  "description": "Learn about Preposiciones in Spanish",
+  "type": "Grammar",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6208b"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Conjunciones",
+  "description": "Learn about Conjunciones in Spanish",
+  "type": "Grammar",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd6208e"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Artículos",
+  "description": "Learn about Artículos in Spanish",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6208c"
+      },
+      "name": "Artículos Definidos",
+      "description": "Learn about Artículos Definidos in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6208d"
+      },
+      "name": "Artículos Indefinidos",
+      "description": "Learn about Artículos Indefinidos in Spanish"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62093"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Pronombres",
+  "description": "Learn about Pronombres in Spanish",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd6208f"
+      },
+      "name": "Pronombres Personales",
+      "description": "Learn about Pronombres Personales in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62090"
+      },
+      "name": "Pronombres Relativos",
+      "description": "Learn about Pronombres Relativos in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62091"
+      },
+      "name": "Pronombres Demostrativos",
+      "description": "Learn about Pronombres Demostrativos in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62092"
+      },
+      "name": "Pronombres Posesivos",
+      "description": "Learn about Pronombres Posesivos in Spanish"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48c10384f55dbd62096"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Participios",
+  "description": "Learn about Participios in Spanish",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62094"
+      },
+      "name": "Participio Presente",
+      "description": "Learn about Participio Presente in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48c10384f55dbd62095"
+      },
+      "name": "Participio Pasado",
+      "description": "Learn about Participio Pasado in Spanish"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd62097"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Interjecciones",
+  "description": "Learn about Interjecciones in Spanish",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd6209a"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Numerales",
+  "description": "Learn about Numerales in Spanish",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd62098"
+      },
+      "name": "Números Cardinales",
+      "description": "Learn about Números Cardinales in Spanish"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd62099"
+      },
+      "name": "Números Ordinales",
+      "description": "Learn about Números Ordinales in Spanish"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd6209b"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Modismo",
+  "description": "Learn about Modismo in Spanish",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd6209c"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "Expresiones",
+  "description": "Learn about Expresiones in Spanish",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd6209d"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aaa"
+  },
+  "name": "General",
+  "description": "Learn about General in Spanish",
+  "type": "General",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd6209e"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Aggettivi",
+  "description": "Learn about Aggettivi in Italian",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd6209f"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Avverbi",
+  "description": "Learn about Avverbi in Italian",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620a2"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Sostantivi",
+  "description": "Learn about Sostantivi in Italian",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620a0"
+      },
+      "name": "Nomi Propri",
+      "description": "Learn about Nomi Propri in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620a1"
+      },
+      "name": "Nomi Comuni",
+      "description": "Learn about Nomi Comuni in Italian"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620a7"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Verbi",
+  "description": "Learn about Verbi in Italian",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620a3"
+      },
+      "name": "Verbi Transitivi",
+      "description": "Learn about Verbi Transitivi in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620a4"
+      },
+      "name": "Verbi Intransitivi",
+      "description": "Learn about Verbi Intransitivi in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620a5"
+      },
+      "name": "Verbi Riflessivi",
+      "description": "Learn about Verbi Riflessivi in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620a6"
+      },
+      "name": "Verbi Impersonali",
+      "description": "Learn about Verbi Impersonali in Italian"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620a8"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Preposizioni",
+  "description": "Learn about Preposizioni in Italian",
+  "type": "Grammar",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620a9"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Congiunzioni",
+  "description": "Learn about Congiunzioni in Italian",
+  "type": "Grammar",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620ac"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Articoli",
+  "description": "Learn about Articoli in Italian",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620aa"
+      },
+      "name": "Articoli Determinativi",
+      "description": "Learn about Articoli Determinativi in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620ab"
+      },
+      "name": "Articoli Indeterminativi",
+      "description": "Learn about Articoli Indeterminativi in Italian"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620b1"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Pronomi",
+  "description": "Learn about Pronomi in Italian",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620ad"
+      },
+      "name": "Pronomi Personali",
+      "description": "Learn about Pronomi Personali in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620ae"
+      },
+      "name": "Pronomi Relativi",
+      "description": "Learn about Pronomi Relativi in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620af"
+      },
+      "name": "Pronomi Dimostrativi",
+      "description": "Learn about Pronomi Dimostrativi in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620b0"
+      },
+      "name": "Pronomi Possessivi",
+      "description": "Learn about Pronomi Possessivi in Italian"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620b4"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Participi",
+  "description": "Learn about Participi in Italian",
+  "type": "Grammar",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620b2"
+      },
+      "name": "Participio Presente",
+      "description": "Learn about Participio Presente in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620b3"
+      },
+      "name": "Participio Passato",
+      "description": "Learn about Participio Passato in Italian"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620b5"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Interiezioni",
+  "description": "Learn about Interiezioni in Italian",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620b8"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Numerali",
+  "description": "Learn about Numerali in Italian",
+  "type": "Vocabulary",
+  "subcategories": [
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620b6"
+      },
+      "name": "Numeri Cardinali",
+      "description": "Learn about Numeri Cardinali in Italian"
+    },
+    {
+      "_id": {
+        "$oid": "67bed48d10384f55dbd620b7"
+      },
+      "name": "Numeri Ordinali",
+      "description": "Learn about Numeri Ordinali in Italian"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620b9"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Idioma",
+  "description": "Learn about Idioma in Italian",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620ba"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Espressioni",
+  "description": "Learn about Espressioni in Italian",
+  "type": "Vocabulary",
+  "subcategories": []
+},
+{
+  "_id": {
+    "$oid": "67bed48d10384f55dbd620bb"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "name": "Generale",
+  "description": "Learn about Generale in Italian",
+  "type": "General",
+  "subcategories": []
+}]

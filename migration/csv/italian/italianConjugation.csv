@@ -1,0 +1,685 @@
+"ID_conjugation";"Conjugation";"CumulTense";"CounterTense";"DateOfEntry";"Tense"
+1;"diligo
+diligi
+dilige
+diligiamo
+diligete
+diligono";14;0;20.7.1996 00:00:00;"Indicativo Presente"
+2;"diligevo
+diligevi
+diligeva
+diligevamo
+diligevate
+diligevano";4;0;20.7.1996 00:00:00;"Imperfecto"
+3;"dilessi
+diligesti
+dilesse
+diligemmo
+diligeste
+dilissero";0;0;20.7.1996 00:00:00;"Passato Remoto"
+4;"diligerò
+diligerai
+diligera
+diligeremo
+diligerete
+diligeranno";0;0;20.7.1996 00:00:00;"Futuro Simple"
+5;"diliga
+diliga
+diliga
+diligiamo
+diligiate
+diligano";0;0;20.7.1996 00:00:00;"Congiuntivo Presente"
+6;"diligerei
+diligeresti
+diligerebbe
+diligeremmo
+diligereste
+diligerebbero";0;0;20.7.1996 00:00:00;"Condizionale Presente"
+7;"dipingo
+dipingi
+dipinge
+dipingiamo
+dipingete
+dipingono";1;0;31.7.1996 00:00:00;"Indicativo Presente"
+8;"dipingevo
+dipingevi
+dipingeva
+dipingevamo
+dipingevate
+dipingevano";1;0;31.7.1996 00:00:00;"Imperfecto"
+9;"dipinsi
+dipingesti
+dipinse
+dipingemmo
+dipingeste
+dipinsero";0;0;31.7.1996 00:00:00;"Passato Remoto"
+10;"dipingerò
+dipingerai
+dipingerà
+dipingeremo
+dipingerete
+dipingeranno";0;0;31.7.1996 00:00:00;"Futuro Simple"
+11;"dipinga
+dipinga
+dipinga
+dipingiamo
+dipingiate
+dipingano";0;0;31.7.1996 00:00:00;"Congiuntivo Presente"
+12;"dipingerei
+dipingeresti
+dipingerebbe
+dipingeremmo
+dipingereste
+dipingerebbero";0;0;31.7.1996 00:00:00;"Condizionale Presente"
+13;"amo
+ami
+ama
+amiamo
+amate
+amano";1;0;1.8.1996 00:00:00;"Indicativo Presente"
+14;"amavo
+amavi
+amava
+amavamo
+amavate
+amavano";0;0;1.8.1996 00:00:00;"Imperfecto"
+15;"amai
+amasti
+amò
+amanno
+amaste
+amarono";1;0;1.8.1996 00:00:00;"Passato Remoto"
+16;"amerò
+amerai
+amerà
+ameremo
+amerete
+ameranno";0;0;1.8.1996 00:00:00;"Futuro Simple"
+17;"ami
+ami
+ami
+amiamo
+amiate
+amino";0;0;1.8.1996 00:00:00;"Congiuntivo Presente"
+18;"amerei
+ameresti
+amerebbe
+ameremmo
+amereste
+amerebbero";0;0;1.8.1996 00:00:00;"Condizionale Presente"
+19;"temo
+temi
+teme
+temiamo
+temete
+temono";0;0;1.8.1996 00:00:00;"Indicativo Presente"
+20;"temevo
+temevi
+temeva
+temevamo
+temevate
+temevano";1;0;1.8.1996 00:00:00;"Imperfecto"
+21;"temei
+temesti
+temé
+tememmo
+temeste
+temerono";0;0;1.8.1996 00:00:00;"Passato Remoto"
+22;"temerò
+temerai
+temerà
+temeremo
+temerete
+temeranno";0;0;1.8.1996 00:00:00;"Futuro Simple"
+23;"tema
+tema
+tema
+temiamo
+temiate
+temano";0;0;1.8.1996 00:00:00;"Congiuntivo Presente"
+24;"temerei
+temeresti
+temerebbe
+temeremmo
+temereste
+temerebbero";0;0;1.8.1996 00:00:00;"Condizionale Presente"
+25;"sento
+senti
+sente
+sentiamo
+sentite
+sentono";0;0;1.8.1996 00:00:00;"Indicativo Presente"
+26;"sentivo
+sentivi
+sentiva
+sentivamo
+sentivate
+sentivano";0;0;1.8.1996 00:00:00;"Imperfecto"
+27;"sentii
+sentisti
+sentì
+sentimmo
+sentiste
+sentirono";0;0;1.8.1996 00:00:00;"Passato Remoto"
+28;"sentirò
+sentirai
+sentirà
+sentiremo
+sentirete
+sentiranno";2;0;1.8.1996 00:00:00;"Futuro Simple"
+29;"senta
+senta
+senta
+sentiamo
+sentiate
+sentano";0;0;1.8.1996 00:00:00;"Congiuntivo Presente"
+30;"sentirei
+sentiresti
+sentirebbe
+sentiremmo
+sentireste
+sentirebbero";0;0;1.8.1996 00:00:00;"Condizionale Presente"
+31;"finisco
+finisci
+finisce
+finiamo
+finite
+finiscono";0;0;1.8.1996 00:00:00;"Indicativo Presente"
+32;"finivo
+finivi
+finiva
+finivamo
+finivate
+finivano";0;0;1.8.1996 00:00:00;"Imperfecto"
+33;"finii
+finisti
+finì
+finimmo
+finiste
+finirono";0;0;1.8.1996 00:00:00;"Passato Remoto"
+34;"finirò
+finirai
+finirà
+finiremo
+finirete
+finiranno";0;0;1.8.1996 00:00:00;"Futuro Simple"
+35;"finisca
+finisca
+finisca
+finiamo
+finiate
+finiscano";1;0;1.8.1996 00:00:00;"Congiuntivo Presente"
+36;"finirei
+finiresti
+finirebbe
+finiremmo
+finireste
+finirebbero";0;0;1.8.1996 00:00:00;"Condizionale Presente"
+37;"vado
+vai
+va
+andiamo
+andate
+vanno";0;0;3.9.1996 00:00:00;"Indicativo Presente"
+38;"andavo
+andavi
+andava
+andavamo
+andavate
+andavano";0;0;3.9.1996 00:00:00;"Imperfecto"
+39;"andai
+andasti
+andò
+andammo
+andaste
+andarono";0;0;3.9.1996 00:00:00;"Passato Remoto"
+40;"andrò
+andrai
+andrà
+andremo
+andrete
+andranno";0;0;3.9.1996 00:00:00;"Futuro Simple"
+41;"vada
+vada
+vada
+andiamo
+andiate
+vadano";0;0;3.9.1996 00:00:00;"Congiuntivo Presente"
+42;"andrei
+andresti
+andrebbe
+andremmo
+andreste
+andrebbero";0;0;3.9.1996 00:00:00;"Condizionale Presente"
+43;"appaio
+appari
+appare
+appariamo
+apparite
+appaiono";0;0;3.9.1996 00:00:00;"Indicativo Presente"
+44;"apparivo
+apparivi
+appariva
+apparivamo
+apparivate
+apparivano";0;0;3.9.1996 00:00:00;"Imperfecto"
+45;"apparvi
+apparisti
+apparve
+apparimmo
+appariste
+apparvero";0;0;3.9.1996 00:00:00;"Passato Remoto"
+46;"apparirò
+apparirai
+apparirà
+appariremo
+apparirete
+appariranno";0;0;3.9.1996 00:00:00;"Futuro Simple"
+47;"appaia
+appaia
+appaia
+appariamo
+appariate
+appaiano";0;0;3.9.1996 00:00:00;"Congiuntivo Presente"
+48;"apparirei
+appariresti
+apparirebbe
+appariremmo
+apparireste
+apparirebbero";0;0;3.9.1996 00:00:00;"Condizionale Presente"
+49;"apro
+apri
+apre
+apriamo
+aprite
+aprono";0;0;3.9.1996 00:00:00;"Indicativo Presente"
+50;"aprivo
+aprivi
+apriva
+aprivamo
+aprivate
+aprivano";0;0;3.9.1996 00:00:00;"Imperfecto"
+51;"aprii
+apristi
+aprì
+aprimmo
+apriste
+aprirono";0;0;3.9.1996 00:00:00;"Passato Remoto"
+52;"aprirò
+aprirai
+aprirà
+apriremo
+aprirete
+apriranno";0;0;3.9.1996 00:00:00;"Futuro Simple"
+53;"apra
+apra
+apra
+apriamo
+apriate
+aprano";0;0;3.9.1996 00:00:00;"Congiuntivo Presente"
+54;"aprirei
+apriresti
+aprirebbe
+apriremmo
+aprireste
+aprirebbero";0;0;3.9.1996 00:00:00;"Condizionale Presente"
+55;"bevo
+bevi
+beve
+beviamo
+bevete
+bevono";0;0;4.9.1996 00:00:00;"Indicativo Presente"
+56;"bevevo
+bevevi
+beveva
+bevevamo
+bevevate
+bevevano";0;0;4.9.1996 00:00:00;"Imperfecto"
+57;"bevvi
+bevesti
+bevve
+bevemmo
+beveste
+bevvero";0;0;4.9.1996 00:00:00;"Passato Remoto"
+58;"berrò
+berrai
+berrà
+berremo
+berrete
+berrano";0;0;4.9.1996 00:00:00;"Futuro Simple"
+59;"beva
+beva
+beva
+beviamo
+beviate
+bevano";0;0;4.9.1996 00:00:00;"Congiuntivo Presente"
+60;"berrei
+berresti
+berrebbe
+beremmo
+berreste
+berrebbero";0;0;4.9.1996 00:00:00;"Condizionale Presente"
+61;"cado
+cadi
+cade
+cadiamo
+cadete
+cadono";0;0;4.9.1996 00:00:00;"Indicativo Presente"
+62;"cadevo
+cadevi
+cadeva
+cadevamo
+cadevate
+cadevano";0;0;4.9.1996 00:00:00;"Imperfecto"
+63;"caddi
+cadesti
+cadde
+cademmo
+cadeste
+caddero";0;0;4.9.1996 00:00:00;"Passato Remoto"
+64;"cadrò
+cadrai
+cadrà
+cadremo
+cadrete
+cadranno";0;0;4.9.1996 00:00:00;"Futuro Simple"
+65;"cada
+cada
+cada
+cadiamo
+cadiate
+cadano";0;0;4.9.1996 00:00:00;"Congiuntivo Presente"
+66;"cadrei
+cadresti
+cadrebbe
+cadremmo
+cadreste
+cadrebbero";0;0;4.9.1996 00:00:00;"Condizionale Presente"
+67;"chiedo
+chiedi
+chiede
+chiediamo
+chiedete
+chiedono";0;0;4.9.1996 00:00:00;"Indicativo Presente"
+68;"chiedevo
+chiedevi
+chiedeva
+chiedevamo
+chiedevate
+chiedevano";0;0;4.9.1996 00:00:00;"Imperfecto"
+69;"chiesi
+chiedesti
+chiese
+chiedemmo
+chiedeste
+chiesero";0;0;4.9.1996 00:00:00;"Passato Remoto"
+70;"chiederò
+chiederai
+chiederà
+chiederemo
+chiederete
+chiederanno";0;0;4.9.1996 00:00:00;"Futuro Simple"
+71;"chieda
+chieda
+chieda
+chiediamo
+chiedete
+chiedano";0;0;4.9.1996 00:00:00;"Congiuntivo Presente"
+72;"chiuderei
+chiuderesti
+chiuderebbe
+chiuderemmo
+chiudereste
+chiuderebbero";0;0;4.9.1996 00:00:00;"Condizionale Presente"
+73;"faccio
+fai
+fa
+facciamo
+fate
+fanno";0;0;7.9.1996 00:00:00;"Indicativo Presente"
+74;"facevo
+facevi
+faceva
+facevamo
+facevate
+facevano";0;0;7.9.1996 00:00:00;"Imperfecto"
+75;"feci
+facesti
+fece
+facemmo
+faceste
+fecero";0;0;7.9.1996 00:00:00;"Passato Remoto"
+76;"farò
+farai
+farà
+faremo
+farete
+faranno";0;0;7.9.1996 00:00:00;"Futuro Simple"
+77;"faccia
+faccia
+faccia
+facciamo
+facciate
+facciano";0;0;7.9.1996 00:00:00;"Congiuntivo Presente"
+78;"farei
+faresti
+farebbe
+faremmo
+fareste
+farebbero";0;0;7.9.1996 00:00:00;"Condizionale Presente"
+79;"fingo
+fingi
+finge
+fingiamo
+fingete
+fingono";0;0;7.9.1996 00:00:00;"Indicativo Presente"
+80;"fingevo
+fingevi
+fingeva
+fingevamo
+fingevate
+fingevano";0;0;7.9.1996 00:00:00;"Imperfecto"
+81;"finsi
+fingesti
+finse
+fingemmo
+fingeste
+finsero";0;0;7.9.1996 00:00:00;"Passato Remoto"
+82;"fingerò
+fingerai
+fingerà
+fingeremo
+fingerete
+fingeranno";0;0;7.9.1996 00:00:00;"Futuro Simple"
+83;"finga
+finga
+finga
+fingiamo
+fingete
+fingano";0;0;7.9.1996 00:00:00;"Congiuntivo Presente"
+84;"fingerei
+fingeresti
+fingerebbe
+fingeremmo
+fingereste
+fingerebbero";0;0;7.9.1996 00:00:00;"Condizionale Presente"
+85;"esigo
+esigi
+esige
+esigiamo
+esigete
+esigono";0;0;7.9.1996 00:00:00;"Indicativo Presente"
+86;"esigevo
+esigevi
+esigeva
+esigevamo
+esigevate
+esigevano";0;0;7.9.1996 00:00:00;"Imperfecto"
+87;"esigei
+esigesti
+esigette
+esigemmo
+esigeste
+esigettero";0;0;7.9.1996 00:00:00;"Passato Remoto"
+88;"esigerò
+esigerai
+esigerà
+esigeremo
+esigerete
+esigeranno";0;0;7.9.1996 00:00:00;"Futuro Simple"
+89;"esiga
+esiga
+esiga
+esigiamo
+esigiate
+esigano";0;0;7.9.1996 00:00:00;"Congiuntivo Presente"
+90;"esigerei
+esigeresti
+esigerebbe
+esigeremmo
+esigereste
+esigerebbero";0;0;7.9.1996 00:00:00;"Condizionale Presente"
+91;"tem-o
+tem-es
+tem-e
+tem-emos
+tem-éis
+temen";0;0;7.9.1996 00:00:00;"Indicativo presente"
+92;"tem-í
+tem-iste
+tem-ió
+tem-imos
+tem-isteis
+tem-ieron";0;0;7.9.1996 00:00:00;"Indicativo pretérito indefinido"
+93;"tem-eré
+tem-erás
+tem-erá
+tem-eremos
+tem-eréis
+tem-erán";0;0;7.9.1996 00:00:00;"Indicativo futuro imperfecto"
+94;"tem-ía
+tem-ías
+tem-ía
+tem-íamos
+tem-íais
+tem-ían";0;0;7.9.1996 00:00:00;"Indicativo pretérito imperfecto"
+95;"tem-a
+tem-as
+tem-a
+tem-amos
+tem-áis
+tem-an";0;0;7.9.1996 00:00:00;"Subjuntivo presente"
+96;"tem-iese
+tem-ieses
+tem-iese
+tem-iésemos
+tem-ieseis
+tem-iesen";0;0;7.9.1996 00:00:00;"Subjuntivo pretérito imperfecto"
+97;"tem-iere
+tem-ieres
+tem-iere
+tem-iéremos
+tem-iereis
+tem-ieren";0;0;7.9.1996 00:00:00;"Subjuntivo futuro imperfecto"
+98;"tem-ería
+tem-erías
+tem-ería
+tem-eríamos
+tem-eríais
+tem-erían";0;0;7.9.1996 00:00:00;"Potencial simple"
+99;"part-o
+part-es
+part-e
+part-imos
+part-ís
+part-en";0;0;7.9.1996 00:00:00;"Indicativo presente"
+100;"part-í
+part-iste
+part-ió
+part-imos
+part-isteis
+part-ieron";0;0;7.9.1996 00:00:00;"Indicativo pretérito indefinido"
+101;"part-iré
+part-irás
+part-irá
+part-iremos
+part-iréis
+part-irán";0;0;7.9.1996 00:00:00;"Indicativo futuro imperfecto"
+102;"part-ía
+part-ías
+part-ía
+part-íamos
+part-íais
+part-ían";0;0;7.9.1996 00:00:00;"Indicativo pretérito imperfecto"
+103;"part-a
+part-as
+part-a
+part-amos
+part-áis
+part-an";0;0;7.9.1996 00:00:00;"Subjuntivo presente"
+104;"part-iese
+part-ieses
+part-iese
+part-iésemos
+part-ieseis
+part-iesen";0;0;7.9.1996 00:00:00;"Subjuntivo pretérito imperfecto"
+105;"part-iere
+part-ieres
+part-iere
+part-iéremos
+part-iereis
+part-ieren";0;0;7.9.1996 00:00:00;"Subjuntivo futuro imperfecto"
+106;"part-iría
+part-irías
+part-iría
+part-iríamos
+part-iríais
+part-irían";0;0;7.9.1996 00:00:00;"Potencial simple"
+107;"am-o
+am-as
+am-a
+am-amos
+am-áis
+am-an";0;0;7.9.1996 00:00:00;"Indicativo presente"
+108;"am-é
+am-aste
+am-ó
+am-amos
+am-asteis
+am-aron";0;0;7.9.1996 00:00:00;"Indicativo pretérito indefinido"
+109;"am-aré
+am-arás
+am-ará
+am-aremos
+am-aréis
+am-arán";0;0;7.9.1996 00:00:00;"Indicativo futuro imperfecto"
+110;"am-aba
+am-abas
+am-aba
+am-ábamos
+am-abais
+am-aban";0;0;7.9.1996 00:00:00;"Indicativo pretérito imperfecto"
+111;"am-e
+am-es
+am-e
+am-emos
+am-éis
+am-en";0;0;7.9.1996 00:00:00;"Subjuntivo presente"
+112;"am-ase
+am-ases
+am-ase
+am-ásemos
+am-aseis
+am-asen";0;0;7.9.1996 00:00:00;"Subjuntivo pretérito imperfecto"
+113;"am-are
+am-ares
+am-are
+am-áremos
+am-areis
+am-aren";0;0;7.9.1996 00:00:00;"Subjuntivo futuro imperfecto"
+114;"am-aría
+am-arías
+am-aría
+am-aríamos
+am-aríais
+am-arían";0;0;7.9.1996 00:00:00;"Potencial simple"

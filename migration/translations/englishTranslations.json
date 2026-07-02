@@ -1,0 +1,7782 @@
+[
+  {
+    "word": "to act on/upon",
+    "german": "einwirken auf",
+    "spanish": "actuar sobre",
+    "italian": "agire su"
+  },
+  {
+    "word": "(moral) suasion",
+    "german": "Zureden",
+    "spanish": "persuasión (moral)",
+    "italian": "persuasione (morale)"
+  },
+  {
+    "word": "(US) voter turnout; (Brit.) turnout at the polls",
+    "german": "Wahlbeteiligung",
+    "spanish": "participación electoral",
+    "italian": "affluenza alle urne"
+  },
+  {
+    "word": "a few",
+    "german": "ein paar",
+    "spanish": "algunos",
+    "italian": "alcuni"
+  },
+  {
+    "word": "a twinge (of pain)",
+    "german": "ein Stich (Schmerz)",
+    "spanish": "un pinchazo (de dolor)",
+    "italian": "una fitta (di dolore)"
+  },
+  {
+    "word": "accoutrements",
+    "german": "Ausrüstung",
+    "spanish": "pertrechos",
+    "italian": "attrezzature"
+  },
+  {
+    "word": "adamant",
+    "german": "unbeugsam",
+    "spanish": "adamantino",
+    "italian": "adamantino"
+  },
+  {
+    "word": "addicted (to)",
+    "german": "süchtig (nach)",
+    "spanish": "adicto (a)",
+    "italian": "dipendente (da)"
+  },
+  {
+    "word": "afloat",
+    "german": "schwimmend",
+    "spanish": "a flote",
+    "italian": "a galla"
+  },
+  {
+    "word": "afterglow",
+    "german": "Nachleuchten",
+    "spanish": "resplandor",
+    "italian": "bagliore residuo"
+  },
+  {
+    "word": "aggrieved",
+    "german": "beleidigt",
+    "spanish": "agraviado",
+    "italian": "offeso"
+  },
+  {
+    "word": "all and sundry",
+    "german": "alle und jeden",
+    "spanish": "todos y cada uno",
+    "italian": "tutti quanti"
+  },
+  {
+    "word": "aloof",
+    "german": "distanziert",
+    "spanish": "distante",
+    "italian": "distaccato"
+  },
+  {
+    "word": "aloud",
+    "german": "laut",
+    "spanish": "en voz alta",
+    "italian": "ad alta voce"
+  },
+  {
+    "word": "ammunition",
+    "german": "Munition",
+    "spanish": "munición",
+    "italian": "munizioni"
+  },
+  {
+    "word": "anklet",
+    "german": "Fußkettchen",
+    "spanish": "tobillera",
+    "italian": "cavigliera"
+  },
+  {
+    "word": "archbishop",
+    "german": "Erzbischof",
+    "spanish": "arzobispo",
+    "italian": "arcivescovo"
+  },
+  {
+    "word": "ark",
+    "german": "Arche",
+    "spanish": "arca",
+    "italian": "arca"
+  },
+  {
+    "word": "ashen",
+    "german": "aschenfahl",
+    "spanish": "ceniciento",
+    "italian": "cenerino"
+  },
+  {
+    "word": "attendant",
+    "german": "Begleiter",
+    "spanish": "asistente",
+    "italian": "assistente"
+  },
+  {
+    "word": "awash",
+    "german": "überschwemmt",
+    "spanish": "inundado",
+    "italian": "inondato"
+  },
+  {
+    "word": "backlash",
+    "german": "Gegenreaktion",
+    "spanish": "reacción violenta",
+    "italian": "contraccolpo"
+  },
+  {
+    "word": "backwater",
+    "german": "abgelegenes Gebiet",
+    "spanish": "remanso",
+    "italian": "acque stagnanti"
+  },
+  {
+    "word": "backyard",
+    "german": "Hinterhof",
+    "spanish": "patio trasero",
+    "italian": "cortile"
+  },
+  {
+    "word": "ballot",
+    "german": "Wahlzettel",
+    "spanish": "boleta de voto",
+    "italian": "scheda elettorale"
+  },
+  {
+    "word": "ban",
+    "german": "Verbot",
+    "spanish": "prohibición",
+    "italian": "divieto"
+  },
+  {
+    "word": "barracks",
+    "german": "Kaserne",
+    "spanish": "cuartel",
+    "italian": "caserma"
+  },
+  {
+    "word": "barren",
+    "german": "karg",
+    "spanish": "árido",
+    "italian": "sterile"
+  },
+  {
+    "word": "bauble",
+    "german": "Krimskrams",
+    "spanish": "baratija",
+    "italian": "ninnolo"
+  },
+  {
+    "word": "bedraggled",
+    "german": "zerzaust",
+    "spanish": "desaliñado",
+    "italian": "trasandato"
+  },
+  {
+    "word": "bedrock",
+    "german": "Grundlage",
+    "spanish": "roca madre",
+    "italian": "roccia madre"
+  },
+  {
+    "word": "behemoth",
+    "german": "Ungetüm",
+    "spanish": "behemot",
+    "italian": "behemoth"
+  },
+  {
+    "word": "behold",
+    "german": "siehe",
+    "spanish": "he aquí",
+    "italian": "ecco"
+  },
+  {
+    "word": "belated",
+    "german": "verspätet",
+    "spanish": "tardío",
+    "italian": "tardivo"
+  },
+  {
+    "word": "belatedly",
+    "german": "verspätet",
+    "spanish": "tardíamente",
+    "italian": "tardivamente"
+  },
+  {
+    "word": "berth",
+    "german": "Liegeplatz",
+    "spanish": "amarre",
+    "italian": "posto letto"
+  },
+  {
+    "word": "bidding",
+    "german": "Gebot",
+    "spanish": "licitación",
+    "italian": "offerta"
+  },
+  {
+    "word": "binge**",
+    "german": "Exzess",
+    "spanish": "atracón",
+    "italian": "abbuffata"
+  },
+  {
+    "word": "blatant",
+    "german": "offensichtlich",
+    "spanish": "flagrante",
+    "italian": "evidente"
+  },
+  {
+    "word": "bleak",
+    "german": "trostlos",
+    "spanish": "desolado",
+    "italian": "desolato"
+  },
+  {
+    "word": "bleeding",
+    "german": "blutend",
+    "spanish": "sangrando",
+    "italian": "sanguinante"
+  },
+  {
+    "word": "bloated",
+    "german": "aufgebläht",
+    "spanish": "hinchado",
+    "italian": "gonfio"
+  },
+  {
+    "word": "bogus",
+    "german": "gefälscht",
+    "spanish": "falso",
+    "italian": "falso"
+  },
+  {
+    "word": "boosters",
+    "german": "Verstärker",
+    "spanish": "refuerzos",
+    "italian": "booster"
+  },
+  {
+    "word": "borough",
+    "german": "Stadtbezirk",
+    "spanish": "distrito",
+    "italian": "borgo"
+  },
+  {
+    "word": "bout",
+    "german": "Anfall",
+    "spanish": "combate",
+    "italian": "incontro"
+  },
+  {
+    "word": "bowler (hat)",
+    "german": "Melone (Hut)",
+    "spanish": "bombín",
+    "italian": "bombetta"
+  },
+  {
+    "word": "brawn",
+    "german": "Muskelkraft",
+    "spanish": "músculo",
+    "italian": "forza muscolare"
+  },
+  {
+    "word": "breed",
+    "german": "züchten",
+    "spanish": "criar",
+    "italian": "allevare"
+  },
+  {
+    "word": "breeding",
+    "german": "Zucht",
+    "spanish": "crianza",
+    "italian": "allevamento"
+  },
+  {
+    "word": "bucket",
+    "german": "Eimer",
+    "spanish": "cubo",
+    "italian": "secchio"
+  },
+  {
+    "word": "bullishness",
+    "german": "Optimismus",
+    "spanish": "optimismo",
+    "italian": "ottimismo"
+  },
+  {
+    "word": "bump",
+    "german": "Stoß",
+    "spanish": "golpe",
+    "italian": "urto"
+  },
+  {
+    "word": "bumpy",
+    "german": "holprig",
+    "spanish": "accidentado",
+    "italian": "accidentato"
+  },
+  {
+    "word": "bust",
+    "german": "Pleite",
+    "spanish": "quiebra",
+    "italian": "fallimento"
+  },
+  {
+    "word": "bust-up **",
+    "german": "Streit",
+    "spanish": "ruptura",
+    "italian": "lite"
+  },
+  {
+    "word": "buzz word*",
+    "german": "Modewort",
+    "spanish": "palabra de moda",
+    "italian": "parola chiave"
+  },
+  {
+    "word": "byword",
+    "german": "Inbegriff",
+    "spanish": "emblema",
+    "italian": "emblema"
+  },
+  {
+    "word": "captive",
+    "german": "Gefangener",
+    "spanish": "cautivo",
+    "italian": "prigioniero"
+  },
+  {
+    "word": "caretaker government",
+    "german": "Übergangsregierung",
+    "spanish": "gobierno interino",
+    "italian": "governo ad interim"
+  },
+  {
+    "word": "carver (1)",
+    "german": "Schnitzer",
+    "spanish": "tallador",
+    "italian": "intagliatore"
+  },
+  {
+    "word": "carver (2)",
+    "german": "Bratenmesser",
+    "spanish": "cuchillo trinchante",
+    "italian": "coltello da trinciare"
+  },
+  {
+    "word": "catch-all",
+    "german": "Sammel-",
+    "spanish": "omnibus",
+    "italian": "onnicomprensivo"
+  },
+  {
+    "word": "cave",
+    "german": "Höhle",
+    "spanish": "cueva",
+    "italian": "grotta"
+  },
+  {
+    "word": "chieftain",
+    "german": "Häuptling",
+    "spanish": "caudillo",
+    "italian": "capo tribù"
+  },
+  {
+    "word": "chunk",
+    "german": "Brocken",
+    "spanish": "trozo",
+    "italian": "pezzo"
+  },
+  {
+    "word": "clot",
+    "german": "Gerinnsel",
+    "spanish": "coágulo",
+    "italian": "coagulo"
+  },
+  {
+    "word": "clump",
+    "german": "Klumpen",
+    "spanish": "mata",
+    "italian": "ciuffo"
+  },
+  {
+    "word": "coalescence",
+    "german": "Verschmelzung",
+    "spanish": "fusión",
+    "italian": "fusione"
+  },
+  {
+    "word": "comb",
+    "german": "Kamm",
+    "spanish": "peine",
+    "italian": "pettine"
+  },
+  {
+    "word": "compulsion",
+    "german": "Zwang",
+    "spanish": "compulsión",
+    "italian": "costrizione"
+  },
+  {
+    "word": "compunction",
+    "german": "Gewissensbisse",
+    "spanish": "remordimiento",
+    "italian": "rimorso"
+  },
+  {
+    "word": "constable",
+    "german": "Polizist",
+    "spanish": "agente de policía",
+    "italian": "agente di polizia"
+  },
+  {
+    "word": "cosy , (US) cozy",
+    "german": "gemütlich",
+    "spanish": "acogedor",
+    "italian": "accogliente"
+  },
+  {
+    "word": "crack",
+    "german": "Riss",
+    "spanish": "grieta",
+    "italian": "crepa"
+  },
+  {
+    "word": "crackdown",
+    "german": "Durchgreifen",
+    "spanish": "represión",
+    "italian": "repressione"
+  },
+  {
+    "word": "creaky",
+    "german": "knarrend",
+    "spanish": "crujiente",
+    "italian": "scricchiolante"
+  },
+  {
+    "word": "creamy",
+    "german": "cremig",
+    "spanish": "cremoso",
+    "italian": "cremoso"
+  },
+  {
+    "word": "creed",
+    "german": "Glaubensbekenntnis",
+    "spanish": "credo",
+    "italian": "credo"
+  },
+  {
+    "word": "crook",
+    "german": "Gauner",
+    "spanish": "estafador",
+    "italian": "imbroglione"
+  },
+  {
+    "word": "cuckold (desuet)",
+    "german": "Hahnrei",
+    "spanish": "cornudo",
+    "italian": "cornuto"
+  },
+  {
+    "word": "cull",
+    "german": "Keulung",
+    "spanish": "seleccionar",
+    "italian": "selezione"
+  },
+  {
+    "word": "cumbrous = cumbersome",
+    "german": "umständlich",
+    "spanish": "engorroso",
+    "italian": "ingombrante"
+  },
+  {
+    "word": "cunning (1)",
+    "german": "listig",
+    "spanish": "astuto",
+    "italian": "astuto"
+  },
+  {
+    "word": "cunning (2)",
+    "german": "Geschicklichkeit",
+    "spanish": "habilidad",
+    "italian": "abilità"
+  },
+  {
+    "word": "curb",
+    "german": "zügeln",
+    "spanish": "frenar",
+    "italian": "frenare"
+  },
+  {
+    "word": "daunting",
+    "german": "einschüchternd",
+    "spanish": "intimidante",
+    "italian": "scoraggiante"
+  },
+  {
+    "word": "dawn",
+    "german": "Morgendämmerung",
+    "spanish": "amanecer",
+    "italian": "alba"
+  },
+  {
+    "word": "deceit",
+    "german": "Betrug",
+    "spanish": "engaño",
+    "italian": "inganno"
+  },
+  {
+    "word": "devilishly",
+    "german": "teuflisch",
+    "spanish": "diabólicamente",
+    "italian": "diabolicamente"
+  },
+  {
+    "word": "dhow",
+    "german": "Dhau",
+    "spanish": "dhow",
+    "italian": "dhow"
+  },
+  {
+    "word": "dinghy",
+    "german": "Beiboot",
+    "spanish": "bote auxiliar",
+    "italian": "dinghy"
+  },
+  {
+    "word": "dire",
+    "german": "schrecklich",
+    "spanish": "terrible",
+    "italian": "terribile"
+  },
+  {
+    "word": "disbelievingly",
+    "german": "ungläubig",
+    "spanish": "con incredulidad",
+    "italian": "incredulo"
+  },
+  {
+    "word": "disembowel",
+    "german": "ausweiden",
+    "spanish": "destripar",
+    "italian": "sventrare"
+  },
+  {
+    "word": "disreputable",
+    "german": "unehrenhaft",
+    "spanish": "desacreditado",
+    "italian": "disonorevole"
+  },
+  {
+    "word": "dissent",
+    "german": "Dissens",
+    "spanish": "disentimiento",
+    "italian": "dissenso"
+  },
+  {
+    "word": "distrustful",
+    "german": "misstrauisch",
+    "spanish": "desconfiado",
+    "italian": "diffidente"
+  },
+  {
+    "word": "ditch",
+    "german": "Graben",
+    "spanish": "zanja",
+    "italian": "fossato"
+  },
+  {
+    "word": "domineering",
+    "german": "herrisch",
+    "spanish": "dominante",
+    "italian": "prepotente"
+  },
+  {
+    "word": "dreadful",
+    "german": "schrecklich",
+    "spanish": "terrible",
+    "italian": "terribile"
+  },
+  {
+    "word": "droppings",
+    "german": "Kot",
+    "spanish": "excrementos",
+    "italian": "escrementi"
+  },
+  {
+    "word": "drove",
+    "german": "Herde",
+    "spanish": "rebaño",
+    "italian": "mandria"
+  },
+  {
+    "word": "drowning",
+    "german": "Ertrinken",
+    "spanish": "ahogamiento",
+    "italian": "annegamento"
+  },
+  {
+    "word": "dud*",
+    "german": "Blindgänger",
+    "spanish": "fracaso",
+    "italian": "fallimento"
+  },
+  {
+    "word": "dumb",
+    "german": "dumm",
+    "spanish": "tonto",
+    "italian": "muto"
+  },
+  {
+    "word": "During slack periods",
+    "german": "In ruhigen Zeiten",
+    "spanish": "Durante los períodos de inactividad",
+    "italian": "Durante i periodi di calma"
+  },
+  {
+    "word": "egregious",
+    "german": "ungeheuerlich",
+    "spanish": "flagrante",
+    "italian": "egregio"
+  },
+  {
+    "word": "encumbrance",
+    "german": "Belastung",
+    "spanish": "estorbo",
+    "italian": "impedimento"
+  },
+  {
+    "word": "entertainment tax",
+    "german": "Vergnügungssteuer",
+    "spanish": "impuesto sobre espectáculos",
+    "italian": "tassa di intrattenimento"
+  },
+  {
+    "word": "entitlement",
+    "german": "Anspruch",
+    "spanish": "derecho",
+    "italian": "diritto"
+  },
+  {
+    "word": "far-flung",
+    "german": "weitläufig",
+    "spanish": "remoto",
+    "italian": "lontano"
+  },
+  {
+    "word": "fate",
+    "german": "Schicksal",
+    "spanish": "destino",
+    "italian": "destino"
+  },
+  {
+    "word": "fatuous",
+    "german": "albern",
+    "spanish": "fatuo",
+    "italian": "fatuo"
+  },
+  {
+    "word": "fault",
+    "german": "Fehler",
+    "spanish": "culpa",
+    "italian": "colpa"
+  },
+  {
+    "word": "felony",
+    "german": "Verbrechen",
+    "spanish": "delito grave",
+    "italian": "crimine"
+  },
+  {
+    "word": "fickleness",
+    "german": "Wankelmut",
+    "spanish": "inconstancia",
+    "italian": "incostanza"
+  },
+  {
+    "word": "fillip",
+    "german": "Ansporn",
+    "spanish": "estímulo",
+    "italian": "stimolo"
+  },
+  {
+    "word": "flagship",
+    "german": "Flaggschiff",
+    "spanish": "buque insignia",
+    "italian": "nave ammiraglia"
+  },
+  {
+    "word": "flaw",
+    "german": "Fehler",
+    "spanish": "defecto",
+    "italian": "difetto"
+  },
+  {
+    "word": "florid",
+    "german": "blühend",
+    "spanish": "florido",
+    "italian": "florido"
+  },
+  {
+    "word": "fluffy",
+    "german": "flauschig",
+    "spanish": "esponjoso",
+    "italian": "soffice"
+  },
+  {
+    "word": "footage",
+    "german": "Filmmaterial",
+    "spanish": "metraje",
+    "italian": "filmato"
+  },
+  {
+    "word": "formula",
+    "german": "Formel",
+    "spanish": "fórmula",
+    "italian": "formula"
+  },
+  {
+    "word": "forward",
+    "german": "vorwärts",
+    "spanish": "adelante",
+    "italian": "avanti"
+  },
+  {
+    "word": "franchise",
+    "german": "Franchise",
+    "spanish": "franquicia",
+    "italian": "franchising"
+  },
+  {
+    "word": "frantically",
+    "german": "fieberhaft",
+    "spanish": "frenéticamente",
+    "italian": "freneticamente"
+  },
+  {
+    "word": "fraught",
+    "german": "angespannt",
+    "spanish": "tenso",
+    "italian": "teso"
+  },
+  {
+    "word": "fray",
+    "german": "Gefecht",
+    "spanish": "refriega",
+    "italian": "mischia"
+  },
+  {
+    "word": "freak",
+    "german": "Freak",
+    "spanish": "fenómeno",
+    "italian": "fenomeno"
+  },
+  {
+    "word": "frenetic, frenzied",
+    "german": "frenetisch",
+    "spanish": "frenético",
+    "italian": "frenetico"
+  },
+  {
+    "word": "fudge",
+    "german": "beschönigen",
+    "spanish": "falsear",
+    "italian": "aggiustare"
+  },
+  {
+    "word": "fully-fledged",
+    "german": "vollwertig",
+    "spanish": "pleno",
+    "italian": "completo"
+  },
+  {
+    "word": "fulsome",
+    "german": "überschwänglich",
+    "spanish": "excesivo",
+    "italian": "eccessivo"
+  },
+  {
+    "word": "gangplank",
+    "german": "Gangway",
+    "spanish": "pasarela",
+    "italian": "passerella"
+  },
+  {
+    "word": "gasp",
+    "german": "Keuchen",
+    "spanish": "jadeo",
+    "italian": "ansimare"
+  },
+  {
+    "word": "get-together",
+    "german": "Treffen",
+    "spanish": "reunión",
+    "italian": "raduno"
+  },
+  {
+    "word": "ghastly",
+    "german": "grauenhaft",
+    "spanish": "espantoso",
+    "italian": "spaventoso"
+  },
+  {
+    "word": "gizmo**",
+    "german": "Gerät",
+    "spanish": "artilugio",
+    "italian": "aggeggio"
+  },
+  {
+    "word": "glazed",
+    "german": "glasiert",
+    "spanish": "glaseado",
+    "italian": "glassato"
+  },
+  {
+    "word": "glumly",
+    "german": "trübselig",
+    "spanish": "tristemente",
+    "italian": "tristemente"
+  },
+  {
+    "word": "greedy",
+    "german": "gierig",
+    "spanish": "codicioso",
+    "italian": "avido"
+  },
+  {
+    "word": "greenback",
+    "german": "Dollar",
+    "spanish": "billete verde",
+    "italian": "dollaro"
+  },
+  {
+    "word": "grief",
+    "german": "Trauer",
+    "spanish": "pena",
+    "italian": "dolore"
+  },
+  {
+    "word": "haltingly",
+    "german": "stockend",
+    "spanish": "vacilante",
+    "italian": "esitante"
+  },
+  {
+    "word": "harlot (obsolete word)",
+    "german": "Hure",
+    "spanish": "ramera",
+    "italian": "prostituta"
+  },
+  {
+    "word": "hazy",
+    "german": "neblig",
+    "spanish": "nebuloso",
+    "italian": "nebbioso"
+  },
+  {
+    "word": "housing estate",
+    "german": "Siedlung",
+    "spanish": "urbanización",
+    "italian": "complesso residenziale"
+  },
+  {
+    "word": "hub",
+    "german": "Drehscheibe",
+    "spanish": "centro",
+    "italian": "centro"
+  },
+  {
+    "word": "hue",
+    "german": "Farbton",
+    "spanish": "matiz",
+    "italian": "tonalità"
+  },
+  {
+    "word": "hurdle",
+    "german": "Hürde",
+    "spanish": "obstáculo",
+    "italian": "ostacolo"
+  },
+  {
+    "word": "husk",
+    "german": "Hülse",
+    "spanish": "cáscara",
+    "italian": "scorza"
+  },
+  {
+    "word": "in a heap",
+    "german": "in einem Haufen",
+    "spanish": "en un montón",
+    "italian": "in un mucchio"
+  },
+  {
+    "word": "in collusion with",
+    "german": "im Einverständnis mit",
+    "spanish": "en connivencia con",
+    "italian": "in combutta con"
+  },
+  {
+    "word": "in the throes of....",
+    "german": "im Kampf mit....",
+    "spanish": "en medio de....",
+    "italian": "in preda a...."
+  },
+  {
+    "word": "inbred",
+    "german": "angeboren",
+    "spanish": "innato",
+    "italian": "innato"
+  },
+  {
+    "word": "incidence",
+    "german": "Auftreten",
+    "spanish": "incidencia",
+    "italian": "incidenza"
+  },
+  {
+    "word": "indictment",
+    "german": "Anklage",
+    "spanish": "acusación",
+    "italian": "incriminazione"
+  },
+  {
+    "word": "ineffectual",
+    "german": "wirkungslos",
+    "spanish": "ineficaz",
+    "italian": "inefficace"
+  },
+  {
+    "word": "inept",
+    "german": "unfähig",
+    "spanish": "inepto",
+    "italian": "inetto"
+  },
+  {
+    "word": "inmate",
+    "german": "Insasse",
+    "spanish": "interno",
+    "italian": "detenuto"
+  },
+  {
+    "word": "jalopy",
+    "german": "Schrottkarre",
+    "spanish": "cacharro",
+    "italian": "carcassa"
+  },
+  {
+    "word": "jaunty",
+    "german": "munter",
+    "spanish": "alegre",
+    "italian": "spigliato"
+  },
+  {
+    "word": "jumble",
+    "german": "Durcheinander",
+    "spanish": "mezcla",
+    "italian": "miscuglio"
+  },
+  {
+    "word": "keep",
+    "german": "behalten",
+    "spanish": "guardar",
+    "italian": "mantenere"
+  },
+  {
+    "word": "knock-on effect",
+    "german": "Folgewirkung",
+    "spanish": "efecto dominó",
+    "italian": "effetto a catena"
+  },
+  {
+    "word": "lacklustre",
+    "german": "glanzlos",
+    "spanish": "sin brillo",
+    "italian": "opaco"
+  },
+  {
+    "word": "lane",
+    "german": "Gasse",
+    "spanish": "carril",
+    "italian": "corsia"
+  },
+  {
+    "word": "leafy",
+    "german": "laubreich",
+    "spanish": "frondoso",
+    "italian": "frondoso"
+  },
+  {
+    "word": "leg",
+    "german": "Bein",
+    "spanish": "pierna",
+    "italian": "gamba"
+  },
+  {
+    "word": "legacy",
+    "german": "Erbe",
+    "spanish": "legado",
+    "italian": "eredità"
+  },
+  {
+    "word": "lest",
+    "german": "damit nicht",
+    "spanish": "no sea que",
+    "italian": "per timore che"
+  },
+  {
+    "word": "limbo",
+    "german": "Schwebezustand",
+    "spanish": "limbo",
+    "italian": "limbo"
+  },
+  {
+    "word": "limp",
+    "german": "schlaff",
+    "spanish": "lacio",
+    "italian": "fiacco"
+  },
+  {
+    "word": "link-up",
+    "german": "Verbindung",
+    "spanish": "conexión",
+    "italian": "collegamento"
+  },
+  {
+    "word": "lo and behold",
+    "german": "siehe da",
+    "spanish": "he aquí",
+    "italian": "ecco"
+  },
+  {
+    "word": "longingly",
+    "german": "sehnsüchtig",
+    "spanish": "anhelante",
+    "italian": "desideroso"
+  },
+  {
+    "word": "loophole",
+    "german": "Schlupfloch",
+    "spanish": "laguna legal",
+    "italian": "scappatoia"
+  },
+  {
+    "word": "loopy",
+    "german": "verrückt",
+    "spanish": "loco",
+    "italian": "pazzo"
+  },
+  {
+    "word": "loth = loath",
+    "german": "widerwillig",
+    "spanish": "reacio",
+    "italian": "riluttante"
+  },
+  {
+    "word": "loutish",
+    "german": "rüpelhaft",
+    "spanish": "grosero",
+    "italian": "rozzo"
+  },
+  {
+    "word": "ludicrous",
+    "german": "lächerlich",
+    "spanish": "ridículo",
+    "italian": "ridicolo"
+  },
+  {
+    "word": "lukewarm",
+    "german": "lauwarm",
+    "spanish": "tibio",
+    "italian": "tiepido"
+  },
+  {
+    "word": "lunge",
+    "german": "Ausfall",
+    "spanish": "estocada",
+    "italian": "affondo"
+  },
+  {
+    "word": "lurch",
+    "german": "Taumeln",
+    "spanish": "tambaleo",
+    "italian": "sbandata"
+  },
+  {
+    "word": "lure",
+    "german": "Köder",
+    "spanish": "señuelo",
+    "italian": "esca"
+  },
+  {
+    "word": "maggot",
+    "german": "Made",
+    "spanish": "gusano",
+    "italian": "larva"
+  },
+  {
+    "word": "maverick",
+    "german": "Einzelgänger",
+    "spanish": "inconformista",
+    "italian": "anticonformista"
+  },
+  {
+    "word": "mayhem",
+    "german": "Chaos",
+    "spanish": "caos",
+    "italian": "caos"
+  },
+  {
+    "word": "mellowness",
+    "german": "Milde",
+    "spanish": "suavidad",
+    "italian": "dolcezza"
+  },
+  {
+    "word": "meltdown",
+    "german": "Zusammenbruch",
+    "spanish": "colapso",
+    "italian": "crollo"
+  },
+  {
+    "word": "mighty",
+    "german": "mächtig",
+    "spanish": "poderoso",
+    "italian": "potente"
+  },
+  {
+    "word": "mind-boggling*",
+    "german": "verblüffend",
+    "spanish": "alucinante",
+    "italian": "sbalorditivo"
+  },
+  {
+    "word": "minnow",
+    "german": "Elritze",
+    "spanish": "pececillo",
+    "italian": "alborella"
+  },
+  {
+    "word": "misdemeanour",
+    "german": "Vergehen",
+    "spanish": "delito menor",
+    "italian": "reato minore"
+  },
+  {
+    "word": "misfit",
+    "german": "Außenseiter",
+    "spanish": "inadaptado",
+    "italian": "disadattato"
+  },
+  {
+    "word": "moratorium",
+    "german": "Moratorium",
+    "spanish": "moratoria",
+    "italian": "moratoria"
+  },
+  {
+    "word": "nearby",
+    "german": "nahegelegen",
+    "spanish": "cercano",
+    "italian": "vicino"
+  },
+  {
+    "word": "nod",
+    "german": "Nicken",
+    "spanish": "asentir",
+    "italian": "cenno"
+  },
+  {
+    "word": "nursery rhyme",
+    "german": "Kinderreim",
+    "spanish": "canción de cuna",
+    "italian": "filastrocca"
+  },
+  {
+    "word": "odds-on",
+    "german": "wahrscheinlich",
+    "spanish": "muy probable",
+    "italian": "molto probabile"
+  },
+  {
+    "word": "ominous",
+    "german": "unheilvoll",
+    "spanish": "ominoso",
+    "italian": "minaccioso"
+  },
+  {
+    "word": "on the distaff side (dict.)",
+    "german": "mütterlicherseits",
+    "spanish": "por línea materna",
+    "italian": "per linea materna"
+  },
+  {
+    "word": "on the tannoy",
+    "german": "über Lautsprecher",
+    "spanish": "por el altavoz",
+    "italian": "all'altoparlante"
+  },
+  {
+    "word": "outcast",
+    "german": "Ausgestoßener",
+    "spanish": "paria",
+    "italian": "emarginato"
+  },
+  {
+    "word": "outlet",
+    "german": "Verkaufsstelle",
+    "spanish": "punto de venta",
+    "italian": "punto vendita"
+  },
+  {
+    "word": "outrage",
+    "german": "Empörung",
+    "spanish": "indignación",
+    "italian": "indignazione"
+  },
+  {
+    "word": "overhaul",
+    "german": "Überholung",
+    "spanish": "revisión",
+    "italian": "revisione"
+  },
+  {
+    "word": "overheads",
+    "german": "Gemeinkosten",
+    "spanish": "gastos generales",
+    "italian": "spese generali"
+  },
+  {
+    "word": "peacock",
+    "german": "Pfau",
+    "spanish": "pavo real",
+    "italian": "pavone"
+  },
+  {
+    "word": "petty criminal",
+    "german": "Kleinkrimineller",
+    "spanish": "delincuente de poca monta",
+    "italian": "piccolo criminale"
+  },
+  {
+    "word": "pittance",
+    "german": "Hungerlohn",
+    "spanish": "miseria",
+    "italian": "miseria"
+  },
+  {
+    "word": "plight",
+    "german": "Notlage",
+    "spanish": "situación difícil",
+    "italian": "situazione difficile"
+  },
+  {
+    "word": "ploy*",
+    "german": "List",
+    "spanish": "estratagema",
+    "italian": "stratagemma"
+  },
+  {
+    "word": "poacher",
+    "german": "Wilderer",
+    "spanish": "furtivo",
+    "italian": "bracconiere"
+  },
+  {
+    "word": "posturing",
+    "german": "Gehabe",
+    "spanish": "postura",
+    "italian": "atteggiamento"
+  },
+  {
+    "word": "pram",
+    "german": "Kinderwagen",
+    "spanish": "cochecito de bebé",
+    "italian": "carrozzina"
+  },
+  {
+    "word": "predawn???",
+    "german": "Vor-Morgendämmerung",
+    "spanish": "antes del amanecer",
+    "italian": "prima dell'alba"
+  },
+  {
+    "word": "premises",
+    "german": "Räumlichkeiten",
+    "spanish": "local",
+    "italian": "locali"
+  },
+  {
+    "word": "preserve",
+    "german": "bewahren",
+    "spanish": "preservar",
+    "italian": "preservare"
+  },
+  {
+    "word": "privet hedge",
+    "german": "Ligusterhecke",
+    "spanish": "seto de aligustre",
+    "italian": "siepe di ligustro"
+  },
+  {
+    "word": "prod",
+    "german": "Anstoß",
+    "spanish": "empujón",
+    "italian": "spinta"
+  },
+  {
+    "word": "profligate",
+    "german": "verschwenderisch",
+    "spanish": "pródigo",
+    "italian": "prodigio"
+  },
+  {
+    "word": "prosecutor",
+    "german": "Staatsanwalt",
+    "spanish": "fiscal",
+    "italian": "pubblico ministero"
+  },
+  {
+    "word": "pundit",
+    "german": "Experte",
+    "spanish": "experto",
+    "italian": "esperto"
+  },
+  {
+    "word": "punter",
+    "german": "Wetter",
+    "spanish": "apostador",
+    "italian": "scommettitore"
+  },
+  {
+    "word": "pushy=pushful",
+    "german": "aufdringlich",
+    "spanish": "insistente",
+    "italian": "insistente"
+  },
+  {
+    "word": "putative",
+    "german": "angeblich",
+    "spanish": "presunto",
+    "italian": "presunto"
+  },
+  {
+    "word": "quagmire",
+    "german": "Morast",
+    "spanish": "atolladero",
+    "italian": "pantano"
+  },
+  {
+    "word": "qualm",
+    "german": "Bedenken",
+    "spanish": "escrúpulo",
+    "italian": "rimorso"
+  },
+  {
+    "word": "quirky",
+    "german": "schrullig",
+    "spanish": "peculiar",
+    "italian": "eccentrico"
+  },
+  {
+    "word": "quoit",
+    "german": "Wurfring",
+    "spanish": "aro",
+    "italian": "anello"
+  },
+  {
+    "word": "rally (1)",
+    "german": "Kundgebung",
+    "spanish": "mitin",
+    "italian": "raduno"
+  },
+  {
+    "word": "rally (2)",
+    "german": "sammeln",
+    "spanish": "recuperar",
+    "italian": "riprendersi"
+  },
+  {
+    "word": "ramshackle",
+    "german": "baufällig",
+    "spanish": "destartalado",
+    "italian": "traballante"
+  },
+  {
+    "word": "rear",
+    "german": "hinterer",
+    "spanish": "trasero",
+    "italian": "posteriore"
+  },
+  {
+    "word": "reckless",
+    "german": "rücksichtslos",
+    "spanish": "temerario",
+    "italian": "temerario"
+  },
+  {
+    "word": "relentless",
+    "german": "unerbittlich",
+    "spanish": "implacable",
+    "italian": "implacabile"
+  },
+  {
+    "word": "remand home",
+    "german": "Jugendstrafanstalt",
+    "spanish": "centro de menores",
+    "italian": "centro di detenzione minorile"
+  },
+  {
+    "word": "resolve",
+    "german": "Entschluss",
+    "spanish": "resolución",
+    "italian": "risoluzione"
+  },
+  {
+    "word": "retreat",
+    "german": "Rückzug",
+    "spanish": "retirada",
+    "italian": "ritirata"
+  },
+  {
+    "word": "revulsion",
+    "german": "Abscheu",
+    "spanish": "repulsión",
+    "italian": "repulsione"
+  },
+  {
+    "word": "rift",
+    "german": "Spalt",
+    "spanish": "grieta",
+    "italian": "crepa"
+  },
+  {
+    "word": "roller",
+    "german": "Walze",
+    "spanish": "rodillo",
+    "italian": "rullo"
+  },
+  {
+    "word": "rout",
+    "german": "Niederlage",
+    "spanish": "derrota",
+    "italian": "rotta"
+  },
+  {
+    "word": "rumpus*",
+    "german": "Lärm",
+    "spanish": "alboroto",
+    "italian": "fracasso"
+  },
+  {
+    "word": "run-off",
+    "german": "Stichwahl",
+    "spanish": "segunda vuelta",
+    "italian": "ballottaggio"
+  },
+  {
+    "word": "ruthless",
+    "german": "rücksichtslos",
+    "spanish": "despiadado",
+    "italian": "spietato"
+  },
+  {
+    "word": "sabre rattling",
+    "german": "Säbelrasseln",
+    "spanish": "ruido de sables",
+    "italian": "dimostrazione di forza"
+  },
+  {
+    "word": "saviour",
+    "german": "Retter",
+    "spanish": "salvador",
+    "italian": "salvatore"
+  },
+  {
+    "word": "scare",
+    "german": "Schrecken",
+    "spanish": "susto",
+    "italian": "spavento"
+  },
+  {
+    "word": "scaremonger",
+    "german": "Angstmacher",
+    "spanish": "alarmista",
+    "italian": "allarmista"
+  },
+  {
+    "word": "scary",
+    "german": "gruselig",
+    "spanish": "aterrador",
+    "italian": "spaventoso"
+  },
+  {
+    "word": "scourge",
+    "german": "Geißel",
+    "spanish": "azote",
+    "italian": "flagello"
+  },
+  {
+    "word": "seal",
+    "german": "Siegel",
+    "spanish": "sello",
+    "italian": "sigillo"
+  },
+  {
+    "word": "seaside",
+    "german": "Küste",
+    "spanish": "costa",
+    "italian": "costa"
+  },
+  {
+    "word": "setback",
+    "german": "Rückschlag",
+    "spanish": "revés",
+    "italian": "battuta d'arresto"
+  },
+  {
+    "word": "shakiness",
+    "german": "Wackeligkeit",
+    "spanish": "inestabilidad",
+    "italian": "instabilità"
+  },
+  {
+    "word": "shaky",
+    "german": "wackelig",
+    "spanish": "inestable",
+    "italian": "traballante"
+  },
+  {
+    "word": "shambles",
+    "german": "Chaos",
+    "spanish": "desastre",
+    "italian": "disastro"
+  },
+  {
+    "word": "shed",
+    "german": "Schuppen",
+    "spanish": "cobertizo",
+    "italian": "capannone"
+  },
+  {
+    "word": "shipshape",
+    "german": "tadellos",
+    "spanish": "en perfecto orden",
+    "italian": "in perfetto ordine"
+  },
+  {
+    "word": "shoal",
+    "german": "Sandbank",
+    "spanish": "banco de arena",
+    "italian": "banco di sabbia"
+  },
+  {
+    "word": "shopping mall",
+    "german": "Einkaufszentrum",
+    "spanish": "centro comercial",
+    "italian": "centro commerciale"
+  },
+  {
+    "word": "shortish",
+    "german": "ziemlich kurz",
+    "spanish": "bastante corto",
+    "italian": "abbastanza corto"
+  },
+  {
+    "word": "showdown",
+    "german": "Showdown",
+    "spanish": "enfrentamiento",
+    "italian": "resa dei conti"
+  },
+  {
+    "word": "shuttle",
+    "german": "Shuttle",
+    "spanish": "lanzadera",
+    "italian": "navetta"
+  },
+  {
+    "word": "sieve",
+    "german": "Sieb",
+    "spanish": "tamiz",
+    "italian": "setaccio"
+  },
+  {
+    "word": "skull",
+    "german": "Schädel",
+    "spanish": "cráneo",
+    "italian": "cranio"
+  },
+  {
+    "word": "slender",
+    "german": "schlank",
+    "spanish": "delgado",
+    "italian": "snello"
+  },
+  {
+    "word": "slick",
+    "german": "glatt",
+    "spanish": "liso",
+    "italian": "liscio"
+  },
+  {
+    "word": "slime",
+    "german": "Schleim",
+    "spanish": "baba",
+    "italian": "melma"
+  },
+  {
+    "word": "smuggler",
+    "german": "Schmuggler",
+    "spanish": "contrabandista",
+    "italian": "contrabbandiere"
+  },
+  {
+    "word": "snag",
+    "german": "Hindernis",
+    "spanish": "obstáculo",
+    "italian": "ostacolo"
+  },
+  {
+    "word": "snap",
+    "german": "Schnappschuss",
+    "spanish": "chasquido",
+    "italian": "scatto"
+  },
+  {
+    "word": "snort",
+    "german": "Schnauben",
+    "spanish": "bufido",
+    "italian": "sbuffo"
+  },
+  {
+    "word": "snout",
+    "german": "Schnauze",
+    "spanish": "hocico",
+    "italian": "muso"
+  },
+  {
+    "word": "soothing",
+    "german": "beruhigend",
+    "spanish": "calmante",
+    "italian": "lenitivo"
+  },
+  {
+    "word": "sop",
+    "german": "Bestechungsgeld",
+    "spanish": "soborno",
+    "italian": "mazzetta"
+  },
+  {
+    "word": "sparkling",
+    "german": "funkelnd",
+    "spanish": "brillante",
+    "italian": "scintillante"
+  },
+  {
+    "word": "sporting chance",
+    "german": "faire Chance",
+    "spanish": "oportunidad deportiva",
+    "italian": "possibilità sportiva"
+  },
+  {
+    "word": "spree",
+    "german": "Streifzug",
+    "spanish": "juerga",
+    "italian": "baldoria"
+  },
+  {
+    "word": "spring",
+    "german": "Frühling",
+    "spanish": "primavera",
+    "italian": "primavera"
+  },
+  {
+    "word": "squatter",
+    "german": "Hausbesetzer",
+    "spanish": "ocupante ilegal",
+    "italian": "occupante abusivo"
+  },
+  {
+    "word": "squeak",
+    "german": "Quietschen",
+    "spanish": "chirrido",
+    "italian": "cigolio"
+  },
+  {
+    "word": "staid",
+    "german": "gesetzt",
+    "spanish": "serio",
+    "italian": "posato"
+  },
+  {
+    "word": "stain",
+    "german": "Fleck",
+    "spanish": "mancha",
+    "italian": "macchia"
+  },
+  {
+    "word": "starboard",
+    "german": "Steuerbord",
+    "spanish": "estribor",
+    "italian": "tribordo"
+  },
+  {
+    "word": "steward",
+    "german": "Steward",
+    "spanish": "mayordomo",
+    "italian": "steward"
+  },
+  {
+    "word": "stiff",
+    "german": "steif",
+    "spanish": "rígido",
+    "italian": "rigido"
+  },
+  {
+    "word": "stink",
+    "german": "Gestank",
+    "spanish": "hedor",
+    "italian": "puzza"
+  },
+  {
+    "word": "stodgy",
+    "german": "schwer",
+    "spanish": "pesado",
+    "italian": "pesante"
+  },
+  {
+    "word": "stoutly",
+    "german": "tapfer",
+    "spanish": "valientemente",
+    "italian": "coraggiosamente"
+  },
+  {
+    "word": "strain (1)",
+    "german": "Anstrengung",
+    "spanish": "tensión",
+    "italian": "tensione"
+  },
+  {
+    "word": "strain (2)",
+    "german": "belasten",
+    "spanish": "colar",
+    "italian": "filtrare"
+  },
+  {
+    "word": "strait",
+    "german": "Meerenge",
+    "spanish": "estrecho",
+    "italian": "stretto"
+  },
+  {
+    "word": "stricture",
+    "german": "Kritik",
+    "spanish": "crítica",
+    "italian": "critica"
+  },
+  {
+    "word": "stroppy**",
+    "german": "bockig",
+    "spanish": "gruñón",
+    "italian": "lunatico"
+  },
+  {
+    "word": "stuffy",
+    "german": "stickig",
+    "spanish": "sofocante",
+    "italian": "soffocante"
+  },
+  {
+    "word": "stunted",
+    "german": "verkümmert",
+    "spanish": "atrofiado",
+    "italian": "rachitico"
+  },
+  {
+    "word": "suitor",
+    "german": "Freier",
+    "spanish": "pretendiente",
+    "italian": "corteggiatore"
+  },
+  {
+    "word": "swathe",
+    "german": "Streifen",
+    "spanish": "franja",
+    "italian": "striscia"
+  },
+  {
+    "word": "sweetener",
+    "german": "Bestechung",
+    "spanish": "incentivo",
+    "italian": "incentivo"
+  },
+  {
+    "word": "tacky",
+    "german": "kitschig",
+    "spanish": "cursi",
+    "italian": "kitsch"
+  },
+  {
+    "word": "teat",
+    "german": "Zitze",
+    "spanish": "pezón",
+    "italian": "capezzolo"
+  },
+  {
+    "word": "the chink in the armour",
+    "german": "die Schwachstelle",
+    "spanish": "la debilidad",
+    "italian": "il punto debole"
+  },
+  {
+    "word": "the slums",
+    "german": "die Slums",
+    "spanish": "los barrios bajos",
+    "italian": "le baraccopoli"
+  },
+  {
+    "word": "thigh",
+    "german": "Oberschenkel",
+    "spanish": "muslo",
+    "italian": "coscia"
+  },
+  {
+    "word": "think-tank*",
+    "german": "Denkfabrik",
+    "spanish": "laboratorio de ideas",
+    "italian": "think tank"
+  },
+  {
+    "word": "thread",
+    "german": "Faden",
+    "spanish": "hilo",
+    "italian": "filo"
+  },
+  {
+    "word": "thumping**",
+    "german": "gewaltig",
+    "spanish": "estruendoso",
+    "italian": "fragoroso"
+  },
+  {
+    "word": "tidal wave",
+    "german": "Flutwelle",
+    "spanish": "ola gigante",
+    "italian": "onda di marea"
+  },
+  {
+    "word": "tiff",
+    "german": "Zank",
+    "spanish": "discusión",
+    "italian": "litigio"
+  },
+  {
+    "word": "to abide by",
+    "german": "sich halten an",
+    "spanish": "cumplir con",
+    "italian": "rispettare"
+  },
+  {
+    "word": "to abound in",
+    "german": "reich sein an",
+    "spanish": "abundar en",
+    "italian": "abbondare di"
+  },
+  {
+    "word": "to abscond (from)",
+    "german": "sich absetzen (von)",
+    "spanish": "fugarse (de)",
+    "italian": "darsi alla fuga (da)"
+  },
+  {
+    "word": "to absent oneself (from)",
+    "german": "sich fernhalten (von)",
+    "spanish": "ausentarse (de)",
+    "italian": "assentarsi (da)"
+  },
+  {
+    "word": "to accord with",
+    "german": "übereinstimmen mit",
+    "spanish": "estar de acuerdo con",
+    "italian": "concordare con"
+  },
+  {
+    "word": "to account for",
+    "german": "erklären",
+    "spanish": "explicar",
+    "italian": "spiegare"
+  },
+  {
+    "word": "to account to",
+    "german": "Rechenschaft ablegen",
+    "spanish": "dar cuenta a",
+    "italian": "rendere conto a"
+  },
+  {
+    "word": "to accuse (of)",
+    "german": "beschuldigen (wegen)",
+    "spanish": "acusar (de)",
+    "italian": "accusare (di)"
+  },
+  {
+    "word": "to accustom oneself to",
+    "german": "sich gewöhnen an",
+    "spanish": "acostumbrarse a",
+    "italian": "abituarsi a"
+  },
+  {
+    "word": "to accustomed to",
+    "german": "gewohnt sein an",
+    "spanish": "acostumbrado a",
+    "italian": "abituato a"
+  },
+  {
+    "word": "to acquaint with",
+    "german": "bekannt machen mit",
+    "spanish": "familiarizar con",
+    "italian": "familiarizzare con"
+  },
+  {
+    "word": "to act on/upon (1)",
+    "german": "einwirken auf",
+    "spanish": "actuar sobre",
+    "italian": "agire su"
+  },
+  {
+    "word": "to act for",
+    "german": "vertreten",
+    "spanish": "actuar por",
+    "italian": "agire per"
+  },
+  {
+    "word": "to act on/upon (2)",
+    "german": "auswirken auf",
+    "spanish": "influir en",
+    "italian": "influenzare"
+  },
+  {
+    "word": "to adapt (oneself) to",
+    "german": "sich anpassen an",
+    "spanish": "adaptarse a",
+    "italian": "adattarsi a"
+  },
+  {
+    "word": "to adapt to",
+    "german": "anpassen an",
+    "spanish": "adaptar a",
+    "italian": "adattare a"
+  },
+  {
+    "word": "to add in",
+    "german": "hinzufügen",
+    "spanish": "añadir",
+    "italian": "aggiungere"
+  },
+  {
+    "word": "to address oneself to",
+    "german": "sich wenden an",
+    "spanish": "dirigirse a",
+    "italian": "rivolgersi a"
+  },
+  {
+    "word": "to adhere to (1)",
+    "german": "festhalten an",
+    "spanish": "adherirse a",
+    "italian": "aderire a"
+  },
+  {
+    "word": "to adhere to (2)",
+    "german": "sich halten an",
+    "spanish": "cumplir con",
+    "italian": "rispettare"
+  },
+  {
+    "word": "to adjust (oneself) to",
+    "german": "sich einstellen auf",
+    "spanish": "ajustarse a",
+    "italian": "adattarsi a"
+  },
+  {
+    "word": "to admit of",
+    "german": "zulassen",
+    "spanish": "admitir",
+    "italian": "ammettere"
+  },
+  {
+    "word": "to advise on",
+    "german": "beraten über",
+    "spanish": "asesorar sobre",
+    "italian": "consigliare su"
+  },
+  {
+    "word": "to afflict with",
+    "german": "heimsuchen mit",
+    "spanish": "afligir con",
+    "italian": "affliggere con"
+  },
+  {
+    "word": "to agree (on/upon)",
+    "german": "sich einigen auf",
+    "spanish": "ponerse de acuerdo en",
+    "italian": "mettersi d'accordo su"
+  },
+  {
+    "word": "to agree with",
+    "german": "zustimmen",
+    "spanish": "estar de acuerdo con",
+    "italian": "essere d'accordo con"
+  },
+  {
+    "word": "to aim at (1)",
+    "german": "abzielen auf",
+    "spanish": "apuntar a",
+    "italian": "mirare a"
+  },
+  {
+    "word": "to aim at (2)",
+    "german": "anstreben",
+    "spanish": "aspirar a",
+    "italian": "aspirare a"
+  },
+  {
+    "word": "to alienate from",
+    "german": "entfremden von",
+    "spanish": "alienar de",
+    "italian": "alienare da"
+  },
+  {
+    "word": "to alight on",
+    "german": "landen auf",
+    "spanish": "posarse en",
+    "italian": "posarsi su"
+  },
+  {
+    "word": "to align (oneself) with",
+    "german": "sich ausrichten an",
+    "spanish": "alinearse con",
+    "italian": "allinearsi con"
+  },
+  {
+    "word": "to allot (to)",
+    "german": "zuteilen (an)",
+    "spanish": "asignar (a)",
+    "italian": "assegnare (a)"
+  },
+  {
+    "word": "to allow of",
+    "german": "zulassen",
+    "spanish": "permitir",
+    "italian": "permettere"
+  },
+  {
+    "word": "to ambush",
+    "german": "überfallen",
+    "spanish": "emboscar",
+    "italian": "tendere un'imboscata"
+  },
+  {
+    "word": "to amount to",
+    "german": "betragen",
+    "spanish": "ascender a",
+    "italian": "ammontare a"
+  },
+  {
+    "word": "to anger",
+    "german": "verärgern",
+    "spanish": "enfadar",
+    "italian": "far arrabbiare"
+  },
+  {
+    "word": "to answer for (1)",
+    "german": "verantwortlich sein für",
+    "spanish": "responder por",
+    "italian": "rispondere di"
+  },
+  {
+    "word": "to answer for (2)",
+    "german": "einstehen für",
+    "spanish": "garantizar",
+    "italian": "garantire"
+  },
+  {
+    "word": "to apologize (to) (for)",
+    "german": "sich entschuldigen (bei) (für)",
+    "spanish": "disculparse (con) (por)",
+    "italian": "scusarsi (con) (per)"
+  },
+  {
+    "word": "to appease",
+    "german": "beschwichtigen",
+    "spanish": "apaciguar",
+    "italian": "placare"
+  },
+  {
+    "word": "to appertain to",
+    "german": "gehören zu",
+    "spanish": "pertenecer a",
+    "italian": "appartenere a"
+  },
+  {
+    "word": "to apply (to)",
+    "german": "sich wenden (an)",
+    "spanish": "solicitar (a)",
+    "italian": "richiedere (a)"
+  },
+  {
+    "word": "to apply (to) (for)",
+    "german": "sich bewerben (bei) (um)",
+    "spanish": "solicitar (a) (para)",
+    "italian": "richiedere (a) (per)"
+  },
+  {
+    "word": "to apply oneself to",
+    "german": "sich widmen",
+    "spanish": "dedicarse a",
+    "italian": "dedicarsi a"
+  },
+  {
+    "word": "to apprise of",
+    "german": "in Kenntnis setzen von",
+    "spanish": "informar de",
+    "italian": "informare di"
+  },
+  {
+    "word": "to approach (about)",
+    "german": "sich wenden (wegen)",
+    "spanish": "acercarse (para)",
+    "italian": "avvicinarsi (per)"
+  },
+  {
+    "word": "to approve of (1)",
+    "german": "gutheißen",
+    "spanish": "aprobar",
+    "italian": "approvare"
+  },
+  {
+    "word": "to approve of (2)",
+    "german": "einverstanden sein mit",
+    "spanish": "estar de acuerdo con",
+    "italian": "essere d'accordo con"
+  },
+  {
+    "word": "to argue about",
+    "german": "streiten über",
+    "spanish": "discutir sobre",
+    "italian": "discutere su"
+  },
+  {
+    "word": "to argue against",
+    "german": "argumentieren gegen",
+    "spanish": "argumentar en contra de",
+    "italian": "argomentare contro"
+  },
+  {
+    "word": "to arise from",
+    "german": "entstehen aus",
+    "spanish": "surgir de",
+    "italian": "derivare da"
+  },
+  {
+    "word": "to arouse (from)",
+    "german": "aufwecken (aus)",
+    "spanish": "despertar (de)",
+    "italian": "svegliare (da)"
+  },
+  {
+    "word": "to arrange for",
+    "german": "veranlassen",
+    "spanish": "organizar",
+    "italian": "organizzare"
+  },
+  {
+    "word": "to ask (for)",
+    "german": "bitten (um)",
+    "spanish": "pedir (por)",
+    "italian": "chiedere (per)"
+  },
+  {
+    "word": "to ask (of)",
+    "german": "fragen (von)",
+    "spanish": "preguntar (a)",
+    "italian": "chiedere (a)"
+  },
+  {
+    "word": "to ask after",
+    "german": "sich erkundigen nach",
+    "spanish": "preguntar por",
+    "italian": "chiedere notizie di"
+  },
+  {
+    "word": "to ask out (to)",
+    "german": "ausführen (zu)",
+    "spanish": "invitar a salir (a)",
+    "italian": "invitare a uscire (a)"
+  },
+  {
+    "word": "to atone for",
+    "german": "büßen für",
+    "spanish": "expiar por",
+    "italian": "espiare per"
+  },
+  {
+    "word": "to back down",
+    "german": "zurückweichen",
+    "spanish": "retirarse",
+    "italian": "tirarsi indietro"
+  },
+  {
+    "word": "to bag",
+    "german": "einsacken",
+    "spanish": "embolsar",
+    "italian": "insaccare"
+  },
+  {
+    "word": "to bail out",
+    "german": "retten",
+    "spanish": "rescatar",
+    "italian": "salvare"
+  },
+  {
+    "word": "to balk at",
+    "german": "sich sträuben gegen",
+    "spanish": "resistirse a",
+    "italian": "opporsi a"
+  },
+  {
+    "word": "to bank on (1)",
+    "german": "sich verlassen auf",
+    "spanish": "contar con",
+    "italian": "contare su"
+  },
+  {
+    "word": "to bank on (2)",
+    "german": "hoffen auf",
+    "spanish": "esperar",
+    "italian": "sperare"
+  },
+  {
+    "word": "to bask in sbs favour",
+    "german": "sich in jds Gunst sonnen",
+    "spanish": "disfrutar del favor de alguien",
+    "italian": "godere del favore di qualcuno"
+  },
+  {
+    "word": "to bask in the sun",
+    "german": "sich in der Sonne sonnen",
+    "spanish": "tomar el sol",
+    "italian": "crogiolarsi al sole"
+  },
+  {
+    "word": "to be at loggerheads (with)",
+    "german": "sich in den Haaren liegen (mit)",
+    "spanish": "estar en desacuerdo (con)",
+    "italian": "essere in disaccordo (con)"
+  },
+  {
+    "word": "to be held back",
+    "german": "zurückgehalten werden",
+    "spanish": "ser retenido",
+    "italian": "essere trattenuto"
+  },
+  {
+    "word": "to be hooked on",
+    "german": "süchtig sein nach",
+    "spanish": "estar enganchado a",
+    "italian": "essere dipendente da"
+  },
+  {
+    "word": "to be poised",
+    "german": "bereit sein",
+    "spanish": "estar preparado",
+    "italian": "essere pronto"
+  },
+  {
+    "word": "to be rampant",
+    "german": "um sich greifen",
+    "spanish": "estar desenfrenado",
+    "italian": "essere dilagante"
+  },
+  {
+    "word": "to be stalled",
+    "german": "ins Stocken geraten",
+    "spanish": "estar estancado",
+    "italian": "essere bloccato"
+  },
+  {
+    "word": "to be tumbling down",
+    "german": "zusammenbrechen",
+    "spanish": "derrumbarse",
+    "italian": "crollare"
+  },
+  {
+    "word": "to beam out",
+    "german": "ausstrahlen",
+    "spanish": "emitir",
+    "italian": "irradiare"
+  },
+  {
+    "word": "to bear witness to sth.",
+    "german": "etw. bezeugen",
+    "spanish": "dar testimonio de algo",
+    "italian": "testimoniare qualcosa"
+  },
+  {
+    "word": "to beat the system",
+    "german": "das System austricksen",
+    "spanish": "burlar el sistema",
+    "italian": "aggirare il sistema"
+  },
+  {
+    "word": "to beckon",
+    "german": "winken",
+    "spanish": "llamar con la mano",
+    "italian": "fare cenno"
+  },
+  {
+    "word": "to befit",
+    "german": "sich schicken",
+    "spanish": "adecuarse",
+    "italian": "addirsi"
+  },
+  {
+    "word": "to befuddle",
+    "german": "verwirren",
+    "spanish": "aturdir",
+    "italian": "confondere"
+  },
+  {
+    "word": "to begrudge = to grudge",
+    "german": "missgönnen",
+    "spanish": "envidiar",
+    "italian": "invidiare"
+  },
+  {
+    "word": "to bemuse",
+    "german": "verblüffen",
+    "spanish": "desconcertar",
+    "italian": "sconcertare"
+  },
+  {
+    "word": "to beset",
+    "german": "bedrängen",
+    "spanish": "asediar",
+    "italian": "assediare"
+  },
+  {
+    "word": "to bespeak",
+    "german": "bezeugen",
+    "spanish": "revelar",
+    "italian": "rivelare"
+  },
+  {
+    "word": "to bestow (on/upon)",
+    "german": "verleihen (an)",
+    "spanish": "otorgar (a)",
+    "italian": "conferire (a)"
+  },
+  {
+    "word": "to betray",
+    "german": "verraten",
+    "spanish": "traicionar",
+    "italian": "tradire"
+  },
+  {
+    "word": "to beware of",
+    "german": "sich hüten vor",
+    "spanish": "cuidarse de",
+    "italian": "guardarsi da"
+  },
+  {
+    "word": "to bid (1)",
+    "german": "bieten",
+    "spanish": "pujar",
+    "italian": "offrire"
+  },
+  {
+    "word": "to bid (2)",
+    "german": "heißen",
+    "spanish": "ordenar",
+    "italian": "ordinare"
+  },
+  {
+    "word": "to bilk",
+    "german": "prellen",
+    "spanish": "estafar",
+    "italian": "imbrogliare"
+  },
+  {
+    "word": "to bind (to)",
+    "german": "binden (an)",
+    "spanish": "atar (a)",
+    "italian": "legare (a)"
+  },
+  {
+    "word": "to bite the bullet",
+    "german": "in den sauren Apfel beißen",
+    "spanish": "morder la bala",
+    "italian": "stringere i denti"
+  },
+  {
+    "word": "to blanch",
+    "german": "erbleichen",
+    "spanish": "blanquear",
+    "italian": "sbiancare"
+  },
+  {
+    "word": "to blanket",
+    "german": "überdecken",
+    "spanish": "cubrir",
+    "italian": "coprire"
+  },
+  {
+    "word": "to blast",
+    "german": "sprengen",
+    "spanish": "volar",
+    "italian": "far saltare in aria"
+  },
+  {
+    "word": "to blaze",
+    "german": "lodern",
+    "spanish": "arder",
+    "italian": "divampare"
+  },
+  {
+    "word": "to bleach",
+    "german": "bleichen",
+    "spanish": "decolorar",
+    "italian": "sbiancare"
+  },
+  {
+    "word": "to blend (in) with",
+    "german": "sich einfügen in",
+    "spanish": "mezclarse con",
+    "italian": "mescolarsi con"
+  },
+  {
+    "word": "to bless (with)",
+    "german": "segnen (mit)",
+    "spanish": "bendecir (con)",
+    "italian": "benedire (con)"
+  },
+  {
+    "word": "to blink",
+    "german": "blinzeln",
+    "spanish": "parpadear",
+    "italian": "battere le palpebre"
+  },
+  {
+    "word": "to blot out",
+    "german": "auslöschen",
+    "spanish": "borrar",
+    "italian": "cancellare"
+  },
+  {
+    "word": "to bludgeon",
+    "german": "niederknüppeln",
+    "spanish": "aporrear",
+    "italian": "colpire con un bastone"
+  },
+  {
+    "word": "to blunder",
+    "german": "patzen",
+    "spanish": "meter la pata",
+    "italian": "fare una gaffe"
+  },
+  {
+    "word": "to blunt",
+    "german": "abstumpfen",
+    "spanish": "embotar",
+    "italian": "smussare"
+  },
+  {
+    "word": "to board (1)",
+    "german": "einsteigen",
+    "spanish": "embarcar",
+    "italian": "imbarcarsi"
+  },
+  {
+    "word": "to board (2)",
+    "german": "verpflegen",
+    "spanish": "alojar",
+    "italian": "alloggiare"
+  },
+  {
+    "word": "to boast (of/about)",
+    "german": "prahlen (mit)",
+    "spanish": "presumir (de)",
+    "italian": "vantarsi (di)"
+  },
+  {
+    "word": "to boil down to",
+    "german": "sich reduzieren auf",
+    "spanish": "reducirse a",
+    "italian": "ridursi a"
+  },
+  {
+    "word": "to bolster",
+    "german": "stützen",
+    "spanish": "reforzar",
+    "italian": "rafforzare"
+  },
+  {
+    "word": "to bomb",
+    "german": "bomben",
+    "spanish": "bombardear",
+    "italian": "bombardare"
+  },
+  {
+    "word": "to book (in)",
+    "german": "buchen",
+    "spanish": "reservar",
+    "italian": "prenotare"
+  },
+  {
+    "word": "to boom",
+    "german": "boomen",
+    "spanish": "prosperar",
+    "italian": "prosperare"
+  },
+  {
+    "word": "to boot out",
+    "german": "hinauswerfen",
+    "spanish": "echar",
+    "italian": "cacciare"
+  },
+  {
+    "word": "to bore (with)",
+    "german": "langweilen (mit)",
+    "spanish": "aburrir (con)",
+    "italian": "annoiare (con)"
+  },
+  {
+    "word": "to boss about/around",
+    "german": "herumkommandieren",
+    "spanish": "mandar",
+    "italian": "comandare"
+  },
+  {
+    "word": "to botch",
+    "german": "verpfuschen",
+    "spanish": "estropear",
+    "italian": "rovinare"
+  },
+  {
+    "word": "to bother (about)",
+    "german": "sich kümmern (um)",
+    "spanish": "molestarse (por)",
+    "italian": "preoccuparsi (di)"
+  },
+  {
+    "word": "to bounce",
+    "german": "hüpfen",
+    "spanish": "rebotar",
+    "italian": "rimbalzare"
+  },
+  {
+    "word": "to bow (to)",
+    "german": "sich verbeugen (vor)",
+    "spanish": "inclinarse (ante)",
+    "italian": "inchinarsi (a)"
+  },
+  {
+    "word": "to branch out",
+    "german": "sich verzweigen",
+    "spanish": "diversificarse",
+    "italian": "diversificarsi"
+  },
+  {
+    "word": "to brand (as)",
+    "german": "bezeichnen (als)",
+    "spanish": "tildar (de)",
+    "italian": "definire (come)"
+  },
+  {
+    "word": "to brawl",
+    "german": "raufen",
+    "spanish": "pelear",
+    "italian": "azzuffarsi"
+  },
+  {
+    "word": "to breach",
+    "german": "brechen",
+    "spanish": "violar",
+    "italian": "violare"
+  },
+  {
+    "word": "to break down (1)",
+    "german": "zusammenbrechen",
+    "spanish": "averiarse",
+    "italian": "rompersi"
+  },
+  {
+    "word": "to break down (2)",
+    "german": "aufschlüsseln",
+    "spanish": "desglosar",
+    "italian": "analizzare"
+  },
+  {
+    "word": "to break in (1)",
+    "german": "einbrechen",
+    "spanish": "irrumpir",
+    "italian": "irrompere"
+  },
+  {
+    "word": "to break in (2)",
+    "german": "einfahren",
+    "spanish": "domar",
+    "italian": "domare"
+  },
+  {
+    "word": "to break off",
+    "german": "abbrechen",
+    "spanish": "romper",
+    "italian": "interrompere"
+  },
+  {
+    "word": "to break out",
+    "german": "ausbrechen",
+    "spanish": "estallar",
+    "italian": "scoppiare"
+  },
+  {
+    "word": "to break through",
+    "german": "durchbrechen",
+    "spanish": "atravesar",
+    "italian": "sfondare"
+  },
+  {
+    "word": "to break up",
+    "german": "sich trennen",
+    "spanish": "romper",
+    "italian": "rompersi"
+  },
+  {
+    "word": "to breed",
+    "german": "züchten",
+    "spanish": "criar",
+    "italian": "allevare"
+  },
+  {
+    "word": "to breeze through",
+    "german": "durchrasen",
+    "spanish": "superar con facilidad",
+    "italian": "superare con facilità"
+  },
+  {
+    "word": "to bribe",
+    "german": "bestechen",
+    "spanish": "sobornar",
+    "italian": "corrompere"
+  },
+  {
+    "word": "to bridle",
+    "german": "zäumen",
+    "spanish": "enfrenar",
+    "italian": "imbrigliare"
+  },
+  {
+    "word": "to bring about",
+    "german": "bewirken",
+    "spanish": "provocar",
+    "italian": "provocare"
+  },
+  {
+    "word": "to bring back",
+    "german": "zurückbringen",
+    "spanish": "devolver",
+    "italian": "riportare"
+  },
+  {
+    "word": "to bring down",
+    "german": "herunterbringen",
+    "spanish": "derribar",
+    "italian": "abbattere"
+  },
+  {
+    "word": "to bring forward",
+    "german": "vorbringen",
+    "spanish": "presentar",
+    "italian": "presentare"
+  },
+  {
+    "word": "to bring in",
+    "german": "einbringen",
+    "spanish": "ingresar",
+    "italian": "introdurre"
+  },
+  {
+    "word": "to bring off",
+    "german": "gelingen",
+    "spanish": "lograr",
+    "italian": "riuscire"
+  },
+  {
+    "word": "to bring on",
+    "german": "verursachen",
+    "spanish": "causar",
+    "italian": "causare"
+  },
+  {
+    "word": "to bring out",
+    "german": "herausbringen",
+    "spanish": "publicar",
+    "italian": "pubblicare"
+  },
+  {
+    "word": "to bring round (1)",
+    "german": "überzeugen",
+    "spanish": "convencer",
+    "italian": "convincere"
+  },
+  {
+    "word": "to bring round (2)",
+    "german": "wiederbeleben",
+    "spanish": "reanimar",
+    "italian": "rianimare"
+  },
+  {
+    "word": "to bring up",
+    "german": "erziehen",
+    "spanish": "criar",
+    "italian": "allevare"
+  },
+  {
+    "word": "to broach",
+    "german": "ansprechen",
+    "spanish": "abordar",
+    "italian": "affrontare"
+  },
+  {
+    "word": "to broaden",
+    "german": "erweitern",
+    "spanish": "ampliar",
+    "italian": "ampliare"
+  },
+  {
+    "word": "to browse",
+    "german": "stöbern",
+    "spanish": "navegar",
+    "italian": "navigare"
+  },
+  {
+    "word": "to brush aside",
+    "german": "beiseite schieben",
+    "spanish": "ignorar",
+    "italian": "ignorare"
+  },
+  {
+    "word": "to buckle",
+    "german": "sich wölben",
+    "spanish": "abrochar",
+    "italian": "allacciare"
+  },
+  {
+    "word": "to budge",
+    "german": "weichen",
+    "spanish": "ceder",
+    "italian": "cedere"
+  },
+  {
+    "word": "to bulge",
+    "german": "sich wölben",
+    "spanish": "hincharse",
+    "italian": "gonfiarsi"
+  },
+  {
+    "word": "to bully",
+    "german": "tyrannisieren",
+    "spanish": "intimidar",
+    "italian": "intimidire"
+  },
+  {
+    "word": "to bumble",
+    "german": "stümpern",
+    "spanish": "torpe",
+    "italian": "goffo"
+  },
+  {
+    "word": "to bump into",
+    "german": "zufällig treffen",
+    "spanish": "tropezar con",
+    "italian": "imbattersi in"
+  },
+  {
+    "word": "to buoy up",
+    "german": "aufmuntern",
+    "spanish": "animar",
+    "italian": "incoraggiare"
+  },
+  {
+    "word": "to burden (with)",
+    "german": "belasten (mit)",
+    "spanish": "cargar (con)",
+    "italian": "gravare (con)"
+  },
+  {
+    "word": "to burgeon",
+    "german": "aufblühen",
+    "spanish": "florecer",
+    "italian": "fiorire"
+  },
+  {
+    "word": "to burn down",
+    "german": "niederbrennen",
+    "spanish": "quemar por completo",
+    "italian": "bruciare completamente"
+  },
+  {
+    "word": "to burst into",
+    "german": "platzen",
+    "spanish": "irrumpir en",
+    "italian": "irrompere in"
+  },
+  {
+    "word": "to bury",
+    "german": "begraben",
+    "spanish": "enterrar",
+    "italian": "seppellire"
+  },
+  {
+    "word": "to butt in",
+    "german": "sich einmischen",
+    "spanish": "interrumpir",
+    "italian": "intromettersi"
+  },
+  {
+    "word": "to buttress",
+    "german": "stützen",
+    "spanish": "reforzar",
+    "italian": "rafforzare"
+  },
+  {
+    "word": "to buy up",
+    "german": "aufkaufen",
+    "spanish": "comprar todo",
+    "italian": "acquistare tutto"
+  },
+  {
+    "word": "to cajole",
+    "german": "beschwatzen",
+    "spanish": "halagar",
+    "italian": "lusingare"
+  },
+  {
+    "word": "to call (at)",
+    "german": "anrufen",
+    "spanish": "llamar",
+    "italian": "chiamare"
+  },
+  {
+    "word": "to call for",
+    "german": "erfordern",
+    "spanish": "exigir",
+    "italian": "richiedere"
+  },
+  {
+    "word": "to call off",
+    "german": "absagen",
+    "spanish": "cancelar",
+    "italian": "cancellare"
+  },
+  {
+    "word": "to call on",
+    "german": "besuchen",
+    "spanish": "visitar",
+    "italian": "visitare"
+  },
+  {
+    "word": "to calm down",
+    "german": "sich beruhigen",
+    "spanish": "calmarse",
+    "italian": "calmarsi"
+  },
+  {
+    "word": "to camouflage",
+    "german": "tarnen",
+    "spanish": "camuflar",
+    "italian": "camuffare"
+  },
+  {
+    "word": "to cap",
+    "german": "krönen",
+    "spanish": "coronar",
+    "italian": "coronare"
+  },
+  {
+    "word": "to capsize",
+    "german": "kentern",
+    "spanish": "volcar",
+    "italian": "capovolgersi"
+  },
+  {
+    "word": "to care for (1)",
+    "german": "sorgen für",
+    "spanish": "cuidar de",
+    "italian": "prendersi cura di"
+  },
+  {
+    "word": "to care for (2)",
+    "german": "mögen",
+    "spanish": "gustar",
+    "italian": "piacere"
+  },
+  {
+    "word": "to carry away",
+    "german": "hinreißen",
+    "spanish": "llevarse",
+    "italian": "trasportare"
+  },
+  {
+    "word": "to carry on",
+    "german": "fortsetzen",
+    "spanish": "continuar",
+    "italian": "continuare"
+  },
+  {
+    "word": "to carry out",
+    "german": "ausführen",
+    "spanish": "llevar a cabo",
+    "italian": "realizzare"
+  },
+  {
+    "word": "to carve",
+    "german": "schnitzen",
+    "spanish": "tallar",
+    "italian": "intagliare"
+  },
+  {
+    "word": "to cash in on",
+    "german": "Profit schlagen aus",
+    "spanish": "aprovecharse de",
+    "italian": "approfittare di"
+  },
+  {
+    "word": "to cast (1)",
+    "german": "werfen",
+    "spanish": "lanzar",
+    "italian": "lanciare"
+  },
+  {
+    "word": "to cast (2)",
+    "german": "besetzen",
+    "spanish": "elegir",
+    "italian": "scegliere"
+  },
+  {
+    "word": "to cast about/around",
+    "german": "sich umsehen",
+    "spanish": "buscar",
+    "italian": "cercare"
+  },
+  {
+    "word": "to cast off",
+    "german": "ablegen",
+    "spanish": "desprenderse de",
+    "italian": "liberarsi di"
+  },
+  {
+    "word": "to catch (up) with",
+    "german": "einholen",
+    "spanish": "alcanzar",
+    "italian": "raggiungere"
+  },
+  {
+    "word": "to catch on",
+    "german": "verstehen",
+    "spanish": "entender",
+    "italian": "capire"
+  },
+  {
+    "word": "to catch out",
+    "german": "überlisten",
+    "spanish": "pillar",
+    "italian": "cogliere in fallo"
+  },
+  {
+    "word": "to cater for",
+    "german": "sorgen für",
+    "spanish": "atender a",
+    "italian": "soddisfare"
+  },
+  {
+    "word": "to cave in",
+    "german": "nachgeben",
+    "spanish": "ceder",
+    "italian": "cedere"
+  },
+  {
+    "word": "to cease",
+    "german": "aufhören",
+    "spanish": "cesar",
+    "italian": "cessare"
+  },
+  {
+    "word": "to censure",
+    "german": "verurteilen",
+    "spanish": "censurar",
+    "italian": "censurare"
+  },
+  {
+    "word": "to chain",
+    "german": "anketten",
+    "spanish": "encadenar",
+    "italian": "incatenare"
+  },
+  {
+    "word": "to challenge",
+    "german": "herausfordern",
+    "spanish": "desafiar",
+    "italian": "sfidare"
+  },
+  {
+    "word": "to champion",
+    "german": "sich einsetzen für",
+    "spanish": "defender",
+    "italian": "difendere"
+  },
+  {
+    "word": "to chance upon",
+    "german": "zufällig stoßen auf",
+    "spanish": "encontrar por casualidad",
+    "italian": "imbattersi per caso in"
+  },
+  {
+    "word": "to change (into)",
+    "german": "sich verwandeln (in)",
+    "spanish": "cambiarse (en)",
+    "italian": "trasformarsi (in)"
+  },
+  {
+    "word": "to charge (with)",
+    "german": "beschuldigen (wegen)",
+    "spanish": "acusar (de)",
+    "italian": "accusare (di)"
+  },
+  {
+    "word": "to charge for",
+    "german": "berechnen für",
+    "spanish": "cobrar por",
+    "italian": "addebitare per"
+  },
+  {
+    "word": "to chase",
+    "german": "jagen",
+    "spanish": "perseguir",
+    "italian": "inseguire"
+  },
+  {
+    "word": "to chat",
+    "german": "plaudern",
+    "spanish": "charlar",
+    "italian": "chiacchierare"
+  },
+  {
+    "word": "to cheat",
+    "german": "betrügen",
+    "spanish": "engañar",
+    "italian": "imbrogliare"
+  },
+  {
+    "word": "to check (1)",
+    "german": "prüfen",
+    "spanish": "verificar",
+    "italian": "verificare"
+  },
+  {
+    "word": "to check (2)",
+    "german": "aufhalten",
+    "spanish": "detener",
+    "italian": "fermare"
+  },
+  {
+    "word": "to check in",
+    "german": "einchecken",
+    "spanish": "registrarse",
+    "italian": "registrarsi"
+  },
+  {
+    "word": "to check out",
+    "german": "auschecken",
+    "spanish": "retirarse",
+    "italian": "ritirarsi"
+  },
+  {
+    "word": "to cheer",
+    "german": "jubeln",
+    "spanish": "animar",
+    "italian": "rallegrare"
+  },
+  {
+    "word": "to chew",
+    "german": "kauen",
+    "spanish": "masticar",
+    "italian": "masticare"
+  },
+  {
+    "word": "to chill",
+    "german": "kühlen",
+    "spanish": "enfriar",
+    "italian": "raffreddare"
+  },
+  {
+    "word": "to chip",
+    "german": "abplatzen",
+    "spanish": "astillar",
+    "italian": "scheggiare"
+  },
+  {
+    "word": "to choke",
+    "german": "ersticken",
+    "spanish": "ahogar",
+    "italian": "soffocare"
+  },
+  {
+    "word": "to chop",
+    "german": "hacken",
+    "spanish": "cortar",
+    "italian": "tagliare"
+  },
+  {
+    "word": "to chuck",
+    "german": "werfen",
+    "spanish": "tirar",
+    "italian": "gettare"
+  },
+  {
+    "word": "to churn out",
+    "german": "am laufenden Band produzieren",
+    "spanish": "producir en masa",
+    "italian": "produrre in serie"
+  },
+  {
+    "word": "to circle",
+    "german": "umkreisen",
+    "spanish": "rodear",
+    "italian": "circondare"
+  },
+  {
+    "word": "to circumvent",
+    "german": "umgehen",
+    "spanish": "eludir",
+    "italian": "eludere"
+  },
+  {
+    "word": "to claim",
+    "german": "behaupten",
+    "spanish": "afirmar",
+    "italian": "affermare"
+  },
+  {
+    "word": "to clamp down on",
+    "german": "hart durchgreifen gegen",
+    "spanish": "tomar medidas enérgicas contra",
+    "italian": "reprimere con forza"
+  },
+  {
+    "word": "to clash",
+    "german": "zusammenstoßen",
+    "spanish": "chocar",
+    "italian": "scontrarsi"
+  },
+  {
+    "word": "to claw",
+    "german": "krallen",
+    "spanish": "arañar",
+    "italian": "graffiare"
+  },
+  {
+    "word": "to cleanse",
+    "german": "reinigen",
+    "spanish": "limpiar",
+    "italian": "pulire"
+  },
+  {
+    "word": "to clear (1)",
+    "german": "klären",
+    "spanish": "aclarar",
+    "italian": "chiarire"
+  },
+  {
+    "word": "to clear (2)",
+    "german": "abräumen",
+    "spanish": "despejar",
+    "italian": "sgomberare"
+  },
+  {
+    "word": "to clear up",
+    "german": "sich aufklären",
+    "spanish": "aclararse",
+    "italian": "chiarirsi"
+  },
+  {
+    "word": "to cling (to)",
+    "german": "sich klammern (an)",
+    "spanish": "aferrarse (a)",
+    "italian": "aggrapparsi (a)"
+  },
+  {
+    "word": "to clip",
+    "german": "abschneiden",
+    "spanish": "recortar",
+    "italian": "tagliare"
+  },
+  {
+    "word": "to clog",
+    "german": "verstopfen",
+    "spanish": "obstruir",
+    "italian": "intasare"
+  },
+  {
+    "word": "to cloak",
+    "german": "verhüllen",
+    "spanish": "encubrir",
+    "italian": "celare"
+  },
+  {
+    "word": "to clock",
+    "german": "stoppen",
+    "spanish": "registrar",
+    "italian": "registrare"
+  },
+  {
+    "word": "to clog",
+    "german": "verstopfen",
+    "spanish": "obstruir",
+    "italian": "intasare"
+  },
+  {
+    "word": "to cloak",
+    "german": "verhüllen",
+    "spanish": "encubrir",
+    "italian": "celare"
+  },
+  {
+    "word": "to clock",
+    "german": "stoppen",
+    "spanish": "registrar",
+    "italian": "registrare"
+  },
+  {
+    "word": "to close down",
+    "german": "schließen",
+    "spanish": "cerrar",
+    "italian": "chiudere"
+  },
+  {
+    "word": "to close in on",
+    "german": "sich nähern",
+    "spanish": "acercarse a",
+    "italian": "avvicinarsi a"
+  },
+  {
+    "word": "to cloud",
+    "german": "trüben",
+    "spanish": "nublar",
+    "italian": "offuscare"
+  },
+  {
+    "word": "to clutter",
+    "german": "verstopfen",
+    "spanish": "abarrotar",
+    "italian": "ingombrare"
+  },
+  {
+    "word": "to coach",
+    "german": "trainieren",
+    "spanish": "entrenar",
+    "italian": "allenare"
+  },
+  {
+    "word": "to coerce",
+    "german": "zwingen",
+    "spanish": "coaccionar",
+    "italian": "costringere"
+  },
+  {
+    "word": "to coincide",
+    "german": "zusammenfallen",
+    "spanish": "coincidir",
+    "italian": "coincidere"
+  },
+  {
+    "word": "to collapse",
+    "german": "zusammenbrechen",
+    "spanish": "derrumbarse",
+    "italian": "crollare"
+  },
+  {
+    "word": "to collide",
+    "german": "zusammenstoßen",
+    "spanish": "chocar",
+    "italian": "scontrarsi"
+  },
+  {
+    "word": "to comb",
+    "german": "kämmen",
+    "spanish": "peinar",
+    "italian": "pettinare"
+  },
+  {
+    "word": "to comfort",
+    "german": "trösten",
+    "spanish": "consolar",
+    "italian": "confortare"
+  },
+  {
+    "word": "to command",
+    "german": "befehlen",
+    "spanish": "mandar",
+    "italian": "comandare"
+  },
+  {
+    "word": "to commemorate",
+    "german": "gedenken",
+    "spanish": "conmemorar",
+    "italian": "commemorare"
+  },
+  {
+    "word": "to commence",
+    "german": "beginnen",
+    "spanish": "comenzar",
+    "italian": "cominciare"
+  },
+  {
+    "word": "to commend",
+    "german": "loben",
+    "spanish": "elogiar",
+    "italian": "elogiare"
+  },
+  {
+    "word": "to commit",
+    "german": "begehen",
+    "spanish": "cometer",
+    "italian": "commettere"
+  },
+  {
+    "word": "to compel",
+    "german": "zwingen",
+    "spanish": "obligar",
+    "italian": "costringere"
+  },
+  {
+    "word": "to comply (with)",
+    "german": "sich fügen (nach)",
+    "spanish": "cumplir (con)",
+    "italian": "rispettare (con)"
+  },
+  {
+    "word": "to compose",
+    "german": "verfassen",
+    "spanish": "componer",
+    "italian": "comporre"
+  },
+  {
+    "word": "to comprise",
+    "german": "umfassen",
+    "spanish": "comprender",
+    "italian": "comprendere"
+  },
+  {
+    "word": "to conceal",
+    "german": "verbergen",
+    "spanish": "ocultar",
+    "italian": "nascondere"
+  },
+  {
+    "word": "to concede",
+    "german": "zugeben",
+    "spanish": "conceder",
+    "italian": "concedere"
+  },
+  {
+    "word": "to conceive",
+    "german": "empfangen",
+    "spanish": "concebir",
+    "italian": "concepire"
+  },
+  {
+    "word": "to concentrate",
+    "german": "konzentrieren",
+    "spanish": "concentrar",
+    "italian": "concentrare"
+  },
+  {
+    "word": "to concern",
+    "german": "betreffen",
+    "spanish": "concernir",
+    "italian": "concernere"
+  },
+  {
+    "word": "to conclude",
+    "german": "schließen",
+    "spanish": "concluir",
+    "italian": "concludere"
+  },
+  {
+    "word": "to condemn",
+    "german": "verurteilen",
+    "spanish": "condenar",
+    "italian": "condannare"
+  },
+  {
+    "word": "to condone",
+    "german": "dulden",
+    "spanish": "perdonar",
+    "italian": "perdonare"
+  },
+  {
+    "word": "to conduct",
+    "german": "leiten",
+    "spanish": "dirigir",
+    "italian": "condurre"
+  },
+  {
+    "word": "to confer",
+    "german": "verleihen",
+    "spanish": "conferir",
+    "italian": "conferire"
+  },
+  {
+    "word": "to confess",
+    "german": "gestehen",
+    "spanish": "confesar",
+    "italian": "confessare"
+  },
+  {
+    "word": "to confine",
+    "german": "beschränken",
+    "spanish": "limitar",
+    "italian": "limitare"
+  },
+  {
+    "word": "to confirm",
+    "german": "bestätigen",
+    "spanish": "confirmar",
+    "italian": "confermare"
+  },
+  {
+    "word": "to confiscate",
+    "german": "beschlagnahmen",
+    "spanish": "confiscar",
+    "italian": "confiscare"
+  },
+  {
+    "word": "to conform",
+    "german": "entsprechen",
+    "spanish": "conformar",
+    "italian": "conformare"
+  },
+  {
+    "word": "to confront",
+    "german": "konfrontieren",
+    "spanish": "confrontar",
+    "italian": "confrontare"
+  },
+  {
+    "word": "to confuse",
+    "german": "verwirren",
+    "spanish": "confundir",
+    "italian": "confondere"
+  },
+  {
+    "word": "to congratulate",
+    "german": "gratulieren",
+    "spanish": "felicitar",
+    "italian": "congratulare"
+  },
+  {
+    "word": "to congregate",
+    "german": "versammeln",
+    "spanish": "congregar",
+    "italian": "radunare"
+  },
+  {
+    "word": "to conjure",
+    "german": "heraufbeschwören",
+    "spanish": "conjurar",
+    "italian": "evocare"
+  },
+  {
+    "word": "to connect",
+    "german": "verbinden",
+    "spanish": "conectar",
+    "italian": "connettere"
+  },
+  {
+    "word": "to conquer",
+    "german": "erobern",
+    "spanish": "conquistar",
+    "italian": "conquistare"
+  },
+  {
+    "word": "to consent",
+    "german": "zustimmen",
+    "spanish": "consentir",
+    "italian": "acconsentire"
+  },
+  {
+    "word": "to conserve",
+    "german": "erhalten",
+    "spanish": "conservar",
+    "italian": "conservare"
+  },
+  {
+    "word": "to consider",
+    "german": "betrachten",
+    "spanish": "considerar",
+    "italian": "considerare"
+  },
+  {
+    "word": "to consign",
+    "german": "übergeben",
+    "spanish": "consignar",
+    "italian": "consegnare"
+  },
+  {
+    "word": "to consist",
+    "german": "bestehen",
+    "spanish": "consistir",
+    "italian": "consistere"
+  },
+  {
+    "word": "to console",
+    "german": "trösten",
+    "spanish": "consolar",
+    "italian": "consolare"
+  },
+  {
+    "word": "to consolidate",
+    "german": "festigen",
+    "spanish": "consolidar",
+    "italian": "consolidare"
+  },
+  {
+    "word": "to conspire",
+    "german": "verschwören",
+    "spanish": "conspirar",
+    "italian": "cospirare"
+  },
+  {
+    "word": "to constitute",
+    "german": "darstellen",
+    "spanish": "constituir",
+    "italian": "constituire"
+  },
+  {
+    "word": "to constrain",
+    "german": "zwingen",
+    "spanish": "restringir",
+    "italian": "costringere"
+  },
+  {
+    "word": "to construct",
+    "german": "bauen",
+    "spanish": "construir",
+    "italian": "costruire"
+  },
+  {
+    "word": "to construe",
+    "german": "auslegen",
+    "spanish": "interpretar",
+    "italian": "interpretare"
+  },
+  {
+    "word": "to consult",
+    "german": "beraten",
+    "spanish": "consultar",
+    "italian": "consultare"
+  },
+  {
+    "word": "to consume",
+    "german": "konsumieren",
+    "spanish": "consumir",
+    "italian": "consumare"
+  },
+  {
+    "word": "to contact",
+    "german": "kontaktieren",
+    "spanish": "contactar",
+    "italian": "contattare"
+  },
+  {
+    "word": "to contain",
+    "german": "enthalten",
+    "spanish": "contener",
+    "italian": "contenere"
+  },
+  {
+    "word": "to contemplate",
+    "german": "betrachten",
+    "spanish": "contemplar",
+    "italian": "contemplare"
+  },
+  {
+    "word": "to contend",
+    "german": "behaupten",
+    "spanish": "sostener",
+    "italian": "sostenere"
+  },
+  {
+    "word": "to content",
+    "german": "zufriedenstellen",
+    "spanish": "contentar",
+    "italian": "contentare"
+  },
+  {
+    "word": "to contest",
+    "german": "bestreiten",
+    "spanish": "disputar",
+    "italian": "contestare"
+  },
+  {
+    "word": "to continue",
+    "german": "fortsetzen",
+    "spanish": "continuar",
+    "italian": "continuare"
+  },
+  {
+    "word": "to contract",
+    "german": "zusammenziehen",
+    "spanish": "contraer",
+    "italian": "contrarre"
+  },
+  {
+    "word": "to contradict",
+    "german": "widersprechen",
+    "spanish": "contradecir",
+    "italian": "contraddire"
+  },
+  {
+    "word": "to contribute",
+    "german": "beitragen",
+    "spanish": "contribuir",
+    "italian": "contribuire"
+  },
+  {
+    "word": "to contrive",
+    "german": "aushecken",
+    "spanish": "idear",
+    "italian": "ideare"
+  },
+  {
+    "word": "to control",
+    "german": "kontrollieren",
+    "spanish": "controlar",
+    "italian": "controllare"
+  },
+  {
+    "word": "to convene",
+    "german": "einberufen",
+    "spanish": "convocar",
+    "italian": "convocare"
+  },
+  {
+    "word": "to converge",
+    "german": "zusammenlaufen",
+    "spanish": "converger",
+    "italian": "convergere"
+  },
+  {
+    "word": "to converse",
+    "german": "sich unterhalten",
+    "spanish": "conversar",
+    "italian": "conversare"
+  },
+  {
+    "word": "to convert",
+    "german": "umwandeln",
+    "spanish": "convertir",
+    "italian": "convertire"
+  },
+  {
+    "word": "to convey",
+    "german": "vermitteln",
+    "spanish": "transmitir",
+    "italian": "trasmettere"
+  },
+  {
+    "word": "to convict",
+    "german": "überführen",
+    "spanish": "condenar",
+    "italian": "condannare"
+  },
+  {
+    "word": "to convince",
+    "german": "überzeugen",
+    "spanish": "convencer",
+    "italian": "convincere"
+  },
+  {
+    "word": "to cooperate",
+    "german": "zusammenarbeiten",
+    "spanish": "cooperar",
+    "italian": "cooperare"
+  },
+  {
+    "word": "to coordinate",
+    "german": "koordinieren",
+    "spanish": "coordinar",
+    "italian": "coordinare"
+  },
+  {
+    "word": "to cope",
+    "german": "bewältigen",
+    "spanish": "afrontar",
+    "italian": "far fronte"
+  },
+  {
+    "word": "to copy",
+    "german": "kopieren",
+    "spanish": "copiar",
+    "italian": "copiare"
+  },
+  {
+    "word": "to correct",
+    "german": "korrigieren",
+    "spanish": "corregir",
+    "italian": "correggere"
+  },
+  {
+    "word": "to correspond",
+    "german": "entsprechen",
+    "spanish": "corresponder",
+    "italian": "corrispondere"
+  },
+  {
+    "word": "to corroborate",
+    "german": "bestätigen",
+    "spanish": "corroborar",
+    "italian": "corroborare"
+  },
+  {
+    "word": "to corrupt",
+    "german": "verderben",
+    "spanish": "corromper",
+    "italian": "corrompere"
+  },
+  {
+    "word": "to cough",
+    "german": "husten",
+    "spanish": "toser",
+    "italian": "tossire"
+  },
+  {
+    "word": "to counsel",
+    "german": "beraten",
+    "spanish": "aconsejar",
+    "italian": "consigliare"
+  },
+  {
+    "word": "to count",
+    "german": "zählen",
+    "spanish": "contar",
+    "italian": "contare"
+  },
+  {
+    "word": "to counter",
+    "german": "entgegnen",
+    "spanish": "contrarrestar",
+    "italian": "contrastare"
+  },
+  {
+    "word": "to cover",
+    "german": "bedecken",
+    "spanish": "cubrir",
+    "italian": "coprire"
+  },
+  {
+    "word": "to crave",
+    "german": "sich sehnen",
+    "spanish": "anhelar",
+    "italian": "desiderare ardentemente"
+  },
+  {
+    "word": "to crawl",
+    "german": "kriechen",
+    "spanish": "arrastrarse",
+    "italian": "strisciare"
+  },
+  {
+    "word": "to credit",
+    "german": "glauben",
+    "spanish": "acreditar",
+    "italian": "credere"
+  },
+  {
+    "word": "to creep",
+    "german": "schleichen",
+    "spanish": "arrastrarse",
+    "italian": "strisciare"
+  },
+  {
+    "word": "to cripple",
+    "german": "verkrüppeln",
+    "spanish": "lisiar",
+    "italian": "paralizzare"
+  },
+  {
+    "word": "to criticise",
+    "german": "kritisieren",
+    "spanish": "criticar",
+    "italian": "criticare"
+  },
+  {
+    "word": "to crouch",
+    "german": "hocken",
+    "spanish": "agacharse",
+    "italian": "accovacciarsi"
+  },
+  {
+    "word": "to crown",
+    "german": "krönen",
+    "spanish": "coronar",
+    "italian": "incoronare"
+  },
+  {
+    "word": "to crush",
+    "german": "zerquetschen",
+    "spanish": "aplastar",
+    "italian": "schiacciare"
+  },
+  {
+    "word": "to cry",
+    "german": "weinen",
+    "spanish": "llorar",
+    "italian": "piangere"
+  },
+  {
+    "word": "to curb",
+    "german": "zügeln",
+    "spanish": "frenar",
+    "italian": "frenare"
+  },
+  {
+    "word": "to cure",
+    "german": "heilen",
+    "spanish": "curar",
+    "italian": "curare"
+  },
+  {
+    "word": "to curl",
+    "german": "sich kräuseln",
+    "spanish": "rizar",
+    "italian": "arricciare"
+  },
+  {
+    "word": "to curse",
+    "german": "verfluchen",
+    "spanish": "maldecir",
+    "italian": "maledire"
+  },
+  {
+    "word": "to curtail",
+    "german": "beschränken",
+    "spanish": "reducir",
+    "italian": "ridurre"
+  },
+  {
+    "word": "to cut",
+    "german": "schneiden",
+    "spanish": "cortar",
+    "italian": "tagliare"
+  },
+  {
+    "word": "to dab",
+    "german": "tupfen",
+    "spanish": "dar toques",
+    "italian": "tamponare"
+  },
+  {
+    "word": "to dabble",
+    "german": "pfuschen",
+    "spanish": "chapucear",
+    "italian": "dilettarsi"
+  },
+  {
+    "word": "to damage",
+    "german": "beschädigen",
+    "spanish": "dañar",
+    "italian": "danneggiare"
+  },
+  {
+    "word": "to damn",
+    "german": "verdammen",
+    "spanish": "condenar",
+    "italian": "dannare"
+  },
+  {
+    "word": "to dampen",
+    "german": "dämpfen",
+    "spanish": "humedecer",
+    "italian": "smorzare"
+  },
+  {
+    "word": "to dare",
+    "german": "wagen",
+    "spanish": "atreverse",
+    "italian": "osare"
+  },
+  {
+    "word": "to dash",
+    "german": "eilen",
+    "spanish": "correr",
+    "italian": "correre"
+  },
+  {
+    "word": "to dawn",
+    "german": "dämmern",
+    "spanish": "amanecer",
+    "italian": "albeggiare"
+  },
+  {
+    "word": "to dazzle",
+    "german": "blenden",
+    "spanish": "deslumbrar",
+    "italian": "abbagliare"
+  },
+  {
+    "word": "to deal",
+    "german": "handeln",
+    "spanish": "tratar",
+    "italian": "trattare"
+  },
+  {
+    "word": "to debate",
+    "german": "debattieren",
+    "spanish": "debatir",
+    "italian": "dibattere"
+  },
+  {
+    "word": "to decay",
+    "german": "verfallen",
+    "spanish": "decadencia",
+    "italian": "decadere"
+  },
+  {
+    "word": "to deceive",
+    "german": "täuschen",
+    "spanish": "engañar",
+    "italian": "ingannare"
+  },
+  {
+    "word": "to decide",
+    "german": "entscheiden",
+    "spanish": "decidir",
+    "italian": "decidere"
+  },
+  {
+    "word": "to decipher",
+    "german": "entziffern",
+    "spanish": "descifrar",
+    "italian": "decifrare"
+  },
+  {
+    "word": "to declare",
+    "german": "erklären",
+    "spanish": "declarar",
+    "italian": "dichiarare"
+  },
+  {
+    "word": "to decline",
+    "german": "ablehnen",
+    "spanish": "rechazar",
+    "italian": "rifiutare"
+  },
+  {
+    "word": "to decorate",
+    "german": "dekorieren",
+    "spanish": "decorar",
+    "italian": "decorare"
+  },
+  {
+    "word": "to deduce",
+    "german": "ableiten",
+    "spanish": "deducir",
+    "italian": "dedurre"
+  },
+  {
+    "word": "to deem",
+    "german": "halten für",
+    "spanish": "considerar",
+    "italian": "ritenere"
+  },
+  {
+    "word": "to defeat",
+    "german": "besiegen",
+    "spanish": "derrotar",
+    "italian": "sconfiggere"
+  },
+  {
+    "word": "to defend",
+    "german": "verteidigen",
+    "spanish": "defender",
+    "italian": "difendere"
+  },
+  {
+    "word": "to defer",
+    "german": "aufschieben",
+    "spanish": "aplazar",
+    "italian": "rinviare"
+  },
+  {
+    "word": "to define",
+    "german": "definieren",
+    "spanish": "definir",
+    "italian": "definire"
+  },
+  {
+    "word": "to defy",
+    "german": "trotzen",
+    "spanish": "desafiar",
+    "italian": "sfidare"
+  },
+  {
+    "word": "to delay",
+    "german": "verzögern",
+    "spanish": "retrasar",
+    "italian": "ritardare"
+  },
+  {
+    "word": "to deliberate",
+    "german": "beraten",
+    "spanish": "deliberar",
+    "italian": "deliberare"
+  },
+  {
+    "word": "to delight",
+    "german": "erfreuen",
+    "spanish": "deleitar",
+    "italian": "deliziare"
+  },
+  {
+    "word": "to deliver",
+    "german": "liefern",
+    "spanish": "entregar",
+    "italian": "consegnare"
+  },
+  {
+    "word": "to demand",
+    "german": "fordern",
+    "spanish": "exigir",
+    "italian": "esigere"
+  },
+  {
+    "word": "to demolish",
+    "german": "abreißen",
+    "spanish": "demoler",
+    "italian": "demolire"
+  },
+  {
+    "word": "to demonstrate",
+    "german": "demonstrieren",
+    "spanish": "demostrar",
+    "italian": "dimostrare"
+  },
+  {
+    "word": "to denote",
+    "german": "bezeichnen",
+    "spanish": "denotar",
+    "italian": "denotare"
+  },
+  {
+    "word": "to denounce",
+    "german": "anprangern",
+    "spanish": "denunciar",
+    "italian": "denunciare"
+  },
+  {
+    "word": "to deny",
+    "german": "leugnen",
+    "spanish": "negar",
+    "italian": "negare"
+  },
+  {
+    "word": "to depart",
+    "german": "abreisen",
+    "spanish": "partir",
+    "italian": "partire"
+  },
+  {
+    "word": "to depend",
+    "german": "abhängen",
+    "spanish": "depender",
+    "italian": "dipendere"
+  },
+  {
+    "word": "to deplore",
+    "german": "beklagen",
+    "spanish": "deplorar",
+    "italian": "deplorare"
+  },
+  {
+    "word": "to deposit",
+    "german": "einzahlen",
+    "spanish": "depositar",
+    "italian": "depositare"
+  },
+  {
+    "word": "to depreciate",
+    "german": "abwerten",
+    "spanish": "depreciar",
+    "italian": "deprezzare"
+  },
+  {
+    "word": "to deprive",
+    "german": "berauben",
+    "spanish": "privar",
+    "italian": "privare"
+  },
+  {
+    "word": "to derive",
+    "german": "ableiten",
+    "spanish": "derivar",
+    "italian": "derivare"
+  },
+  {
+    "word": "to descend",
+    "german": "absteigen",
+    "spanish": "descender",
+    "italian": "discendere"
+  },
+  {
+    "word": "to describe",
+    "german": "beschreiben",
+    "spanish": "describir",
+    "italian": "descrivere"
+  },
+  {
+    "word": "to desert",
+    "german": "verlassen",
+    "spanish": "abandonar",
+    "italian": "abbandonare"
+  },
+  {
+    "word": "to deserve",
+    "german": "verdienen",
+    "spanish": "merecer",
+    "italian": "meritare"
+  },
+  {
+    "word": "to designate",
+    "german": "bezeichnen",
+    "spanish": "designar",
+    "italian": "designare"
+  },
+  {
+    "word": "to desire",
+    "german": "wünschen",
+    "spanish": "desear",
+    "italian": "desiderare"
+  },
+  {
+    "word": "to desist",
+    "german": "unterlassen",
+    "spanish": "desistir",
+    "italian": "desistere"
+  },
+  {
+    "word": "to despair",
+    "german": "verzweifeln",
+    "spanish": "desesperar",
+    "italian": "disperare"
+  },
+  {
+    "word": "to despise",
+    "german": "verachten",
+    "spanish": "despreciar",
+    "italian": "disprezzare"
+  },
+  {
+    "word": "to destroy",
+    "german": "zerstören",
+    "spanish": "destruir",
+    "italian": "distruggere"
+  },
+  {
+    "word": "to detach",
+    "german": "lösen",
+    "spanish": "separar",
+    "italian": "separare"
+  },
+  {
+    "word": "to detect",
+    "german": "entdecken",
+    "spanish": "detectar",
+    "italian": "individuare"
+  },
+  {
+    "word": "to deter",
+    "german": "abschrecken",
+    "spanish": "disuadir",
+    "italian": "dissuadere"
+  },
+  {
+    "word": "to deteriorate",
+    "german": "verschlechtern",
+    "spanish": "deteriorar",
+    "italian": "deteriorare"
+  },
+  {
+    "word": "to determine",
+    "german": "bestimmen",
+    "spanish": "determinar",
+    "italian": "determinare"
+  },
+  {
+    "word": "to devastate",
+    "german": "verwüsten",
+    "spanish": "devastar",
+    "italian": "devastare"
+  },
+  {
+    "word": "to devise",
+    "german": "ausdenken",
+    "spanish": "idear",
+    "italian": "ideare"
+  },
+  {
+    "word": "to devote",
+    "german": "widmen",
+    "spanish": "dedicar",
+    "italian": "dedicare"
+  },
+  {
+    "word": "to devour",
+    "german": "verschlingen",
+    "spanish": "devorar",
+    "italian": "divorare"
+  },
+  {
+    "word": "to diagnose",
+    "german": "diagnostizieren",
+    "spanish": "diagnosticar",
+    "italian": "diagnosticare"
+  },
+  {
+    "word": "to dictate",
+    "german": "diktieren",
+    "spanish": "dictar",
+    "italian": "dettare"
+  },
+  {
+    "word": "to differ",
+    "german": "abweichen",
+    "spanish": "diferir",
+    "italian": "differire"
+  },
+  {
+    "word": "to differentiate",
+    "german": "unterscheiden",
+    "spanish": "diferenciar",
+    "italian": "differenziare"
+  },
+  {
+    "word": "to diffuse",
+    "german": "verbreiten",
+    "spanish": "difundir",
+    "italian": "diffondere"
+  },
+  {
+    "word": "to dig",
+    "german": "graben",
+    "spanish": "cavar",
+    "italian": "scavare"
+  },
+  {
+    "word": "to digest",
+    "german": "verdauen",
+    "spanish": "digerir",
+    "italian": "digerire"
+  },
+  {
+    "word": "to diminish",
+    "german": "verringern",
+    "spanish": "disminuir",
+    "italian": "diminuire"
+  },
+  {
+    "word": "to dip",
+    "german": "eintauchen",
+    "spanish": "sumergir",
+    "italian": "immergere"
+  },
+  {
+    "word": "to direct",
+    "german": "lenken",
+    "spanish": "dirigir",
+    "italian": "dirigere"
+  },
+  {
+    "word": "to disagree",
+    "german": "widersprechen",
+    "spanish": "discrepar",
+    "italian": "non essere d'accordo"
+  },
+  {
+    "word": "to disappear",
+    "german": "verschwinden",
+    "spanish": "desaparecer",
+    "italian": "sparire"
+  },
+  {
+    "word": "to disappoint",
+    "german": "enttäuschen",
+    "spanish": "decepcionar",
+    "italian": "deludere"
+  },
+  {
+    "word": "to disapprove",
+    "german": "missbilligen",
+    "spanish": "desaprobar",
+    "italian": "disapprovare"
+  },
+  {
+    "word": "to discard",
+    "german": "verwerfen",
+    "spanish": "descartar",
+    "italian": "scartare"
+  },
+  {
+    "word": "to discern",
+    "german": "erkennen",
+    "spanish": "discernir",
+    "italian": "discernere"
+  },
+  {
+    "word": "to discharge",
+    "german": "entlassen",
+    "spanish": "descargar",
+    "italian": "scaricare"
+  },
+  {
+    "word": "to disclose",
+    "german": "enthüllen",
+    "spanish": "revelar",
+    "italian": "rivelare"
+  },
+  {
+    "word": "to discompose",
+    "german": "verstören",
+    "spanish": "perturbar",
+    "italian": "turbare"
+  },
+  {
+    "word": "to disconcert",
+    "german": "verunsichern",
+    "spanish": "desconcertar",
+    "italian": "sconcertare"
+  },
+  {
+    "word": "to disconnect",
+    "german": "trennen",
+    "spanish": "desconectar",
+    "italian": "disconnettere"
+  },
+  {
+    "word": "to disconsolate",
+    "german": "trostlos",
+    "spanish": "desconsolado",
+    "italian": "sconsolato"
+  },
+  {
+    "word": "to discourage",
+    "german": "entmutigen",
+    "spanish": "desanimar",
+    "italian": "scoraggiare"
+  },
+  {
+    "word": "to discover",
+    "german": "entdecken",
+    "spanish": "descubrir",
+    "italian": "scoprire"
+  },
+  {
+    "word": "to discredit",
+    "german": "diskreditieren",
+    "spanish": "desacreditar",
+    "italian": "screditare"
+  },
+  {
+    "word": "to discriminate",
+    "german": "diskriminieren",
+    "spanish": "discriminar",
+    "italian": "discriminare"
+  },
+  {
+    "word": "to discuss",
+    "german": "diskutieren",
+    "spanish": "discutir",
+    "italian": "discutere"
+  },
+  {
+    "word": "to disdain",
+    "german": "verachten",
+    "spanish": "desdeñar",
+    "italian": "sdegnare"
+  },
+  {
+    "word": "to disentangle",
+    "german": "entwirren",
+    "spanish": "desenredar",
+    "italian": "districare"
+  },
+  {
+    "word": "to disfigure",
+    "german": "verunstalten",
+    "spanish": "desfigurar",
+    "italian": "sfigurare"
+  },
+  {
+    "word": "to dishearten",
+    "german": "entmutigen",
+    "spanish": "descorazonar",
+    "italian": "scoraggiare"
+  },
+  {
+    "word": "to disincline",
+    "german": "abgeneigt sein",
+    "spanish": "indispuesto",
+    "italian": "indisposto"
+  },
+  {
+    "word": "to dislike",
+    "german": "nicht mögen",
+    "spanish": "disgustar",
+    "italian": "non piacere"
+  },
+  {
+    "word": "to dismiss",
+    "german": "entlassen",
+    "spanish": "despedir",
+    "italian": "licenziare"
+  },
+  {
+    "word": "to disobey",
+    "german": "ungehorsam sein",
+    "spanish": "desobedecer",
+    "italian": "disobbedire"
+  },
+  {
+    "word": "to disown",
+    "german": "verleugnen",
+    "spanish": "renegar",
+    "italian": "rinnegare"
+  },
+  {
+    "word": "to disparage",
+    "german": "herabsetzen",
+    "spanish": "desprestigiar",
+    "italian": "denigrare"
+  },
+  {
+    "word": "to dispatch",
+    "german": "abfertigen",
+    "spanish": "despachar",
+    "italian": "spedire"
+  },
+  {
+    "word": "to dispel",
+    "german": "vertreiben",
+    "spanish": "disipar",
+    "italian": "dissipare"
+  },
+  {
+    "word": "to dispense",
+    "german": "verzichten",
+    "spanish": "prescindir",
+    "italian": "fare a meno"
+  },
+  {
+    "word": "to disperse",
+    "german": "zerstreuen",
+    "spanish": "dispersar",
+    "italian": "disperdere"
+  },
+  {
+    "word": "to displace",
+    "german": "verdrängen",
+    "spanish": "desplazar",
+    "italian": "spostare"
+  },
+  {
+    "word": "to display",
+    "german": "anzeigen",
+    "spanish": "mostrar",
+    "italian": "mostrare"
+  },
+  {
+    "word": "to displease",
+    "german": "missfallen",
+    "spanish": "disgustar",
+    "italian": "dispiacere"
+  },
+  {
+    "word": "to dispose",
+    "german": "verfügen",
+    "spanish": "disponer",
+    "italian": "disporre"
+  },
+  {
+    "word": "to disprove",
+    "german": "widerlegen",
+    "spanish": "refutar",
+    "italian": "confutare"
+  },
+  {
+    "word": "to dispute",
+    "german": "bestreiten",
+    "spanish": "disputar",
+    "italian": "contestare"
+  },
+  {
+    "word": "to disregard",
+    "german": "missachten",
+    "spanish": "ignorar",
+    "italian": "ignorare"
+  },
+  {
+    "word": "to disrupt",
+    "german": "stören",
+    "spanish": "interrumpir",
+    "italian": "interrompere"
+  },
+  {
+    "word": "to dissect",
+    "german": "sezieren",
+    "spanish": "diseccionar",
+    "italian": "sezionare"
+  },
+  {
+    "word": "to dissent",
+    "german": "abweichen",
+    "spanish": "disentir",
+    "italian": "dissentire"
+  },
+  {
+    "word": "to dissipate",
+    "german": "verschwenden",
+    "spanish": "disipar",
+    "italian": "dissipare"
+  },
+  {
+    "word": "to dissolve",
+    "german": "auflösen",
+    "spanish": "disolver",
+    "italian": "dissolvere"
+  },
+  {
+    "word": "to dissuade",
+    "german": "abraten",
+    "spanish": "disuadir",
+    "italian": "dissuadere"
+  },
+  {
+    "word": "to distort",
+    "german": "verzerren",
+    "spanish": "distorsionar",
+    "italian": "distorcere"
+  },
+  {
+    "word": "to distract",
+    "german": "ablenken",
+    "spanish": "distraer",
+    "italian": "distrarre"
+  },
+  {
+    "word": "to distribute",
+    "german": "verteilen",
+    "spanish": "distribuir",
+    "italian": "distribuire"
+  },
+  {
+    "word": "to disturb",
+    "german": "stören",
+    "spanish": "perturbar",
+    "italian": "disturbare"
+  },
+  {
+    "word": "to diverge",
+    "german": "abweichen",
+    "spanish": "divergir",
+    "italian": "divergere"
+  },
+  {
+    "word": "to divert",
+    "german": "umleiten",
+    "spanish": "desviar",
+    "italian": "deviare"
+  },
+  {
+    "word": "to divide",
+    "german": "teilen",
+    "spanish": "dividir",
+    "italian": "dividere"
+  },
+  {
+    "word": "to divulge",
+    "german": "preisgeben",
+    "spanish": "divulgar",
+    "italian": "divulgare"
+  },
+  {
+    "word": "to doze",
+    "german": "dösen",
+    "spanish": "dormitar",
+    "italian": "sonnecchiare"
+  },
+  {
+    "word": "to draft",
+    "german": "entwerfen",
+    "spanish": "redactar",
+    "italian": "redigere"
+  },
+  {
+    "word": "to drag",
+    "german": "ziehen",
+    "spanish": "arrastrar",
+    "italian": "trascinare"
+  },
+  {
+    "word": "to drain",
+    "german": "entleeren",
+    "spanish": "drenar",
+    "italian": "drenare"
+  },
+  {
+    "word": "to dramatize",
+    "german": "dramatisieren",
+    "spanish": "dramatizar",
+    "italian": "drammatizzare"
+  },
+  {
+    "word": "to draw",
+    "german": "zeichnen",
+    "spanish": "dibujar",
+    "italian": "disegnare"
+  },
+  {
+    "word": "to dread",
+    "german": "sich fürchten",
+    "spanish": "temer",
+    "italian": "temere"
+  },
+  {
+    "word": "to dream",
+    "german": "träumen",
+    "spanish": "soñar",
+    "italian": "sognare"
+  },
+  {
+    "word": "to drench",
+    "german": "durchnässen",
+    "spanish": "empapar",
+    "italian": "inzuppare"
+  },
+  {
+    "word": "to dress",
+    "german": "kleiden",
+    "spanish": "vestir",
+    "italian": "vestire"
+  },
+  {
+    "word": "to dribble",
+    "german": "tröpfeln",
+    "spanish": "gotear",
+    "italian": "sgocciolare"
+  },
+  {
+    "word": "to drift",
+    "german": "treiben",
+    "spanish": "derivar",
+    "italian": "andare alla deriva"
+  },
+  {
+    "word": "to drill",
+    "german": "bohren",
+    "spanish": "taladrar",
+    "italian": "trapanare"
+  },
+  {
+    "word": "to drink",
+    "german": "trinken",
+    "spanish": "beber",
+    "italian": "bere"
+  },
+  {
+    "word": "to drip",
+    "german": "tropfen",
+    "spanish": "gotear",
+    "italian": "gocciolare"
+  },
+  {
+    "word": "to drive",
+    "german": "fahren",
+    "spanish": "conducir",
+    "italian": "guidare"
+  },
+  {
+    "word": "to drone",
+    "german": "summen",
+    "spanish": "zumbar",
+    "italian": "ronzare"
+  },
+  {
+    "word": "to droop",
+    "german": "hängen",
+    "spanish": "caer",
+    "italian": "cadere"
+  },
+  {
+    "word": "to drop",
+    "german": "fallen lassen",
+    "spanish": "dejar caer",
+    "italian": "far cadere"
+  },
+  {
+    "word": "to drown",
+    "german": "ertrinken",
+    "spanish": "ahogarse",
+    "italian": "annegare"
+  },
+  {
+    "word": "to dub",
+    "german": "nennen",
+    "spanish": "apodar",
+    "italian": "soprannominare"
+  },
+  {
+    "word": "to duck",
+    "german": "ducken",
+    "spanish": "agacharse",
+    "italian": "abbassarsi"
+  },
+  {
+    "word": "to dull",
+    "german": "abstumpfen",
+    "spanish": "embotar",
+    "italian": "smussare"
+  },
+  {
+    "word": "to dump",
+    "german": "abladen",
+    "spanish": "verter",
+    "italian": "scaricare"
+  },
+  {
+    "word": "to dupe",
+    "german": "täuschen",
+    "spanish": "engañar",
+    "italian": "ingannare"
+  },
+  {
+    "word": "to duplicate",
+    "german": "verdoppeln",
+    "spanish": "duplicar",
+    "italian": "duplicare"
+  },
+  {
+    "word": "to dwell",
+    "german": "wohnen",
+    "spanish": "habitar",
+    "italian": "dimorare"
+  },
+  {
+    "word": "to dwindle",
+    "german": "schwinden",
+    "spanish": "disminuir",
+    "italian": "diminuire"
+  },
+  {
+    "word": "to earn",
+    "german": "verdienen",
+    "spanish": "ganar",
+    "italian": "guadagnare"
+  },
+  {
+    "word": "to ease",
+    "german": "erleichtern",
+    "spanish": "aliviar",
+    "italian": "alleviare"
+  },
+  {
+    "word": "to eat",
+    "german": "essen",
+    "spanish": "comer",
+    "italian": "mangiare"
+  },
+  {
+    "word": "to echo",
+    "german": "widerhallen",
+    "spanish": "hacer eco",
+    "italian": "echeggiare"
+  },
+  {
+    "word": "to eclipse",
+    "german": "verdunkeln",
+    "spanish": "eclipsar",
+    "italian": "eclissare"
+  },
+  {
+    "word": "to edit",
+    "german": "bearbeiten",
+    "spanish": "editar",
+    "italian": "modificare"
+  },
+  {
+    "word": "to educate",
+    "german": "erziehen",
+    "spanish": "educar",
+    "italian": "educare"
+  },
+  {
+    "word": "to eject",
+    "german": "ausstoßen",
+    "spanish": "expulsar",
+    "italian": "espellere"
+  },
+  {
+    "word": "to elaborate",
+    "german": "ausarbeiten",
+    "spanish": "elaborar",
+    "italian": "elaborare"
+  },
+  {
+    "word": "to elect",
+    "german": "wählen",
+    "spanish": "elegir",
+    "italian": "eleggere"
+  },
+  {
+    "word": "to elevate",
+    "german": "erhöhen",
+    "spanish": "elevar",
+    "italian": "elevare"
+  },
+  {
+    "word": "to elicit",
+    "german": "entlocken",
+    "spanish": "obtener",
+    "italian": "ottenere"
+  },
+  {
+    "word": "to eliminate",
+    "german": "beseitigen",
+    "spanish": "eliminar",
+    "italian": "eliminare"
+  },
+  {
+    "word": "to elongate",
+    "german": "verlängern",
+    "spanish": "alargar",
+    "italian": "allungare"
+  },
+  {
+    "word": "to elope",
+    "german": "durchbrennen",
+    "spanish": "escaparse",
+    "italian": "fuggire"
+  },
+  {
+    "word": "to elucidate",
+    "german": "erläutern",
+    "spanish": "aclarar",
+    "italian": "chiarire"
+  },
+  {
+    "word": "to elude",
+    "german": "entgehen",
+    "spanish": "eludir",
+    "italian": "eludere"
+  },
+  {
+    "word": "to embarrass",
+    "german": "blamieren",
+    "spanish": "avergonzar",
+    "italian": "imbarazzare"
+  },
+  {
+    "word": "to embed",
+    "german": "einbetten",
+    "spanish": "incrustar",
+    "italian": "incorporare"
+  },
+  {
+    "word": "to embellish",
+    "german": "ausschmücken",
+    "spanish": "embellecer",
+    "italian": "abbellire"
+  },
+  {
+    "word": "to embody",
+    "german": "verkörpern",
+    "spanish": "encarnar",
+    "italian": "incarnare"
+  },
+  {
+    "word": "to embrace",
+    "german": "umarmen",
+    "spanish": "abrazar",
+    "italian": "abbracciare"
+  },
+  {
+    "word": "to embroider",
+    "german": "sticken",
+    "spanish": "bordar",
+    "italian": "ricamare"
+  },
+  {
+    "word": "to emerge",
+    "german": "auftauchen",
+    "spanish": "emerger",
+    "italian": "emergere"
+  },
+  {
+    "word": "to emigrate",
+    "german": "auswandern",
+    "spanish": "emigrar",
+    "italian": "emigrare"
+  },
+  {
+    "word": "to emit",
+    "german": "ausstoßen",
+    "spanish": "emitir",
+    "italian": "emettere"
+  },
+  {
+    "word": "to emphasize",
+    "german": "betonen",
+    "spanish": "enfatizar",
+    "italian": "enfatizzare"
+  },
+  {
+    "word": "to employ",
+    "german": "beschäftigen",
+    "spanish": "emplear",
+    "italian": "impiegare"
+  },
+  {
+    "word": "to empower",
+    "german": "ermächtigen",
+    "spanish": "empoderar",
+    "italian": "dare potere"
+  },
+  {
+    "word": "to empty",
+    "german": "leeren",
+    "spanish": "vaciar",
+    "italian": "svuotare"
+  },
+  {
+    "word": "to enable",
+    "german": "ermöglichen",
+    "spanish": "habilitar",
+    "italian": "abilitare"
+  },
+  {
+    "word": "to enact",
+    "german": "erlassen",
+    "spanish": "promulgar",
+    "italian": "promulgare"
+  },
+  {
+    "word": "to encircle",
+    "german": "umkreisen",
+    "spanish": "rodear",
+    "italian": "circondare"
+  },
+  {
+    "word": "to enclose",
+    "german": "einschließen",
+    "spanish": "encerrar",
+    "italian": "chiudere"
+  },
+  {
+    "word": "to encompass",
+    "german": "umfassen",
+    "spanish": "abarcar",
+    "italian": "comprendere"
+  },
+  {
+    "word": "to encounter",
+    "german": "begegnen",
+    "spanish": "encontrar",
+    "italian": "incontrare"
+  },
+  {
+    "word": "to encourage",
+    "german": "ermutigen",
+    "spanish": "animar",
+    "italian": "incoraggiare"
+  },
+  {
+    "word": "to encroach",
+    "german": "eingreifen",
+    "spanish": "invadir",
+    "italian": "invadere"
+  },
+  {
+    "word": "to encumber",
+    "german": "belasten",
+    "spanish": "sobrecargar",
+    "italian": "gravare"
+  },
+  {
+    "word": "to end",
+    "german": "enden",
+    "spanish": "terminar",
+    "italian": "finire"
+  },
+  {
+    "word": "to endorse",
+    "german": "befürworten",
+    "spanish": "respaldar",
+    "italian": "appoggiare"
+  },
+  {
+    "word": "to endow",
+    "german": "ausstatten",
+    "spanish": "dotar",
+    "italian": "dotare"
+  },
+  {
+    "word": "to endure",
+    "german": "aushalten",
+    "spanish": "soportar",
+    "italian": "sopportare"
+  },
+  {
+    "word": "to enforce",
+    "german": "durchsetzen",
+    "spanish": "hacer cumplir",
+    "italian": "far rispettare"
+  },
+  {
+    "word": "to engage",
+    "german": "beschäftigen",
+    "spanish": "contratar",
+    "italian": "assumere"
+  },
+  {
+    "word": "to engender",
+    "german": "erzeugen",
+    "spanish": "engendrar",
+    "italian": "generare"
+  },
+  {
+    "word": "to engrave",
+    "german": "gravieren",
+    "spanish": "grabar",
+    "italian": "incidere"
+  },
+  {
+    "word": "to enhance",
+    "german": "verbessern",
+    "spanish": "mejorar",
+    "italian": "migliorare"
+  },
+  {
+    "word": "to enjoy",
+    "german": "genießen",
+    "spanish": "disfrutar",
+    "italian": "godere"
+  },
+  {
+    "word": "to enlarge",
+    "german": "vergrößern",
+    "spanish": "ampliar",
+    "italian": "ingrandire"
+  },
+  {
+    "word": "to enlighten",
+    "german": "aufklären",
+    "spanish": "iluminar",
+    "italian": "illuminare"
+  },
+  {
+    "word": "to enlist",
+    "german": "anwerben",
+    "spanish": "alistarse",
+    "italian": "arruolare"
+  },
+  {
+    "word": "to enrage",
+    "german": "in Wut versetzen",
+    "spanish": "enfurecer",
+    "italian": "infuriare"
+  },
+  {
+    "word": "to enrich",
+    "german": "bereichern",
+    "spanish": "enriquecer",
+    "italian": "arricchire"
+  },
+  {
+    "word": "to enroll",
+    "german": "einschreiben",
+    "spanish": "inscribir",
+    "italian": "iscrivere"
+  },
+  {
+    "word": "to ensue",
+    "german": "folgen",
+    "spanish": "seguir",
+    "italian": "seguire"
+  },
+  {
+    "word": "to ensure",
+    "german": "sicherstellen",
+    "spanish": "asegurar",
+    "italian": "assicurare"
+  },
+  {
+    "word": "to entail",
+    "german": "mit sich bringen",
+    "spanish": "implicar",
+    "italian": "comportare"
+  },
+  {
+    "word": "to enter",
+    "german": "eintreten",
+    "spanish": "entrar",
+    "italian": "entrare"
+  },
+  {
+    "word": "to entertain",
+    "german": "unterhalten",
+    "spanish": "entretener",
+    "italian": "intrattenere"
+  },
+  {
+    "word": "to enthrall",
+    "german": "fesseln",
+    "spanish": "cautivar",
+    "italian": "affascinare"
+  },
+  {
+    "word": "to entice",
+    "german": "anlocken",
+    "spanish": "atraer",
+    "italian": "attirare"
+  },
+  {
+    "word": "to entitle",
+    "german": "berechtigen",
+    "spanish": "titular",
+    "italian": "intitolare"
+  },
+  {
+    "word": "to entreat",
+    "german": "bitten",
+    "spanish": "rogar",
+    "italian": "supplicare"
+  },
+  {
+    "word": "to entrust",
+    "german": "anvertrauen",
+    "spanish": "confiar",
+    "italian": "affidare"
+  },
+  {
+    "word": "to envelop",
+    "german": "einhüllen",
+    "spanish": "envolver",
+    "italian": "avvolgere"
+  },
+  {
+    "word": "to envision",
+    "german": "sich vorstellen",
+    "spanish": "imaginar",
+    "italian": "immaginare"
+  },
+  {
+    "word": "to equal",
+    "german": "gleichen",
+    "spanish": "igualar",
+    "italian": "eguagliare"
+  },
+  {
+    "word": "to equate",
+    "german": "gleichsetzen",
+    "spanish": "equiparar",
+    "italian": "equiparare"
+  },
+  {
+    "word": "to equip",
+    "german": "ausrüsten",
+    "spanish": "equipar",
+    "italian": "attrezzare"
+  },
+  {
+    "word": "to eradicate",
+    "german": "ausrotten",
+    "spanish": "erradicar",
+    "italian": "sradicare"
+  },
+  {
+    "word": "to erode",
+    "german": "abtragen",
+    "spanish": "erosionar",
+    "italian": "erodere"
+  },
+  {
+    "word": "to erupt",
+    "german": "ausbrechen",
+    "spanish": "erupcionar",
+    "italian": "eruttare"
+  },
+  {
+    "word": "to escalate",
+    "german": "eskalieren",
+    "spanish": "escalar",
+    "italian": "escalare"
+  },
+  {
+    "word": "to escape",
+    "german": "entkommen",
+    "spanish": "escapar",
+    "italian": "fuggire"
+  },
+  {
+    "word": "to escort",
+    "german": "begleiten",
+    "spanish": "escoltar",
+    "italian": "scortare"
+  },
+  {
+    "word": "to establish",
+    "german": "gründen",
+    "spanish": "establecer",
+    "italian": "stabilire"
+  },
+  {
+    "word": "to estimate",
+    "german": "schätzen",
+    "spanish": "estimar",
+    "italian": "stimare"
+  },
+  {
+    "word": "to estrange",
+    "german": "entfremden",
+    "spanish": "alejar",
+    "italian": "allontanare"
+  },
+  {
+    "word": "to evacuate",
+    "german": "evakuieren",
+    "spanish": "evacuar",
+    "italian": "evacuare"
+  },
+  {
+    "word": "to evade",
+    "german": "ausweichen",
+    "spanish": "evadir",
+    "italian": "evadere"
+  },
+  {
+    "word": "to evaluate",
+    "german": "bewerten",
+    "spanish": "evaluar",
+    "italian": "valutare"
+  },
+  {
+    "word": "to evaporate",
+    "german": "verdampfen",
+    "spanish": "evaporar",
+    "italian": "evaporare"
+  },
+  {
+    "word": "to even",
+    "german": "ausgleichen",
+    "spanish": "igualar",
+    "italian": "pareggiare"
+  },
+  {
+    "word": "to evidence",
+    "german": "belegen",
+    "spanish": "evidenciar",
+    "italian": "dimostrare"
+  },
+  {
+    "word": "to evict",
+    "german": "räumen",
+    "spanish": "desalojar",
+    "italian": "sfrattare"
+  },
+  {
+    "word": "to evoke",
+    "german": "hervorrufen",
+    "spanish": "evocar",
+    "italian": "evocare"
+  },
+  {
+    "word": "to evolve",
+    "german": "entwickeln",
+    "spanish": "evolucionar",
+    "italian": "evolvere"
+  },
+  {
+    "word": "to exacerbate",
+    "german": "verschlimmern",
+    "spanish": "exacerbar",
+    "italian": "esacerbare"
+  },
+  {
+    "word": "to examine",
+    "german": "untersuchen",
+    "spanish": "examinar",
+    "italian": "esaminare"
+  },
+  {
+    "word": "to excavate",
+    "german": "ausgraben",
+    "spanish": "excavar",
+    "italian": "scavare"
+  },
+  {
+    "word": "to exceed",
+    "german": "übertreffen",
+    "spanish": "exceder",
+    "italian": "superare"
+  },
+  {
+    "word": "to excel",
+    "german": "hervorragend sein",
+    "spanish": "sobresalir",
+    "italian": "eccellere"
+  },
+  {
+    "word": "to except",
+    "german": "ausnehmen",
+    "spanish": "exceptuar",
+    "italian": "escludere"
+  },
+  {
+    "word": "to exchange",
+    "german": "austauschen",
+    "spanish": "intercambiar",
+    "italian": "scambiare"
+  },
+  {
+    "word": "to excite",
+    "german": "begeistern",
+    "spanish": "excitar",
+    "italian": "eccitare"
+  },
+  {
+    "word": "to exclaim",
+    "german": "ausrufen",
+    "spanish": "exclamar",
+    "italian": "esclamare"
+  },
+  {
+    "word": "to exclude",
+    "german": "ausschließen",
+    "spanish": "excluir",
+    "italian": "escludere"
+  },
+  {
+    "word": "to excrete",
+    "german": "ausscheiden",
+    "spanish": "excretar",
+    "italian": "escrementi"
+  },
+  {
+    "word": "to excuse",
+    "german": "entschuldigen",
+    "spanish": "disculpar",
+    "italian": "scusare"
+  },
+  {
+    "word": "to execute",
+    "german": "ausführen",
+    "spanish": "ejecutar",
+    "italian": "eseguire"
+  },
+  {
+    "word": "to exemplify",
+    "german": "veranschaulichen",
+    "spanish": "ejemplificar",
+    "italian": "esemplificare"
+  },
+  {
+    "word": "to exert",
+    "german": "ausüben",
+    "spanish": "ejercer",
+    "italian": "esercitare"
+  },
+  {
+    "word": "to exhale",
+    "german": "ausatmen",
+    "spanish": "exhalar",
+    "italian": "esalare"
+  },
+  {
+    "word": "to exhaust",
+    "german": "erschöpfen",
+    "spanish": "agotar",
+    "italian": "esaurire"
+  },
+  {
+    "word": "to exhibit",
+    "german": "ausstellen",
+    "spanish": "exhibir",
+    "italian": "esporre"
+  },
+  {
+    "word": "to exhilarate",
+    "german": "begeistern",
+    "spanish": "exhilarar",
+    "italian": "esaltare"
+  },
+  {
+    "word": "to exist",
+    "german": "existieren",
+    "spanish": "existir",
+    "italian": "esistere"
+  },
+  {
+    "word": "to exit",
+    "german": "verlassen",
+    "spanish": "salir",
+    "italian": "uscire"
+  },
+  {
+    "word": "to exonerate",
+    "german": "entlasten",
+    "spanish": "exonerar",
+    "italian": "scagionare"
+  },
+  {
+    "word": "to expand",
+    "german": "ausdehnen",
+    "spanish": "expandir",
+    "italian": "espandere"
+  },
+  {
+    "word": "to expect",
+    "german": "erwarten",
+    "spanish": "esperar",
+    "italian": "aspettarsi"
+  },
+  {
+    "word": "to expedite",
+    "german": "beschleunigen",
+    "spanish": "agilizar",
+    "italian": "accelerare"
+  },
+  {
+    "word": "to expel",
+    "german": "ausstoßen",
+    "spanish": "expulsar",
+    "italian": "espellere"
+  },
+  {
+    "word": "to expend",
+    "german": "ausgeben",
+    "spanish": "gastar",
+    "italian": "spendere"
+  },
+  {
+    "word": "to experience",
+    "german": "erleben",
+    "spanish": "experimentar",
+    "italian": "sperimentare"
+  },
+  {
+    "word": "to experiment",
+    "german": "experimentieren",
+    "spanish": "experimentar",
+    "italian": "sperimentare"
+  },
+  {
+    "word": "to expire",
+    "german": "ablaufen",
+    "spanish": "expirar",
+    "italian": "scadere"
+  },
+  {
+    "word": "to explain",
+    "german": "erklären",
+    "spanish": "explicar",
+    "italian": "spiegare"
+  },
+  {
+    "word": "to explore",
+    "german": "erforschen",
+    "spanish": "explorar",
+    "italian": "esplorare"
+  },
+  {
+    "word": "to export",
+    "german": "exportieren",
+    "spanish": "exportar",
+    "italian": "esportare"
+  },
+  {
+    "word": "to expose",
+    "german": "aussetzen",
+    "spanish": "exponer",
+    "italian": "esporre"
+  },
+  {
+    "word": "to expound",
+    "german": "auslegen",
+    "spanish": "exponer",
+    "italian": "esporre"
+  },
+  {
+    "word": "to express",
+    "german": "ausdrücken",
+    "spanish": "expresar",
+    "italian": "esprimere"
+  },
+  {
+    "word": "to extend",
+    "german": "verlängern",
+    "spanish": "extender",
+    "italian": "estendere"
+  },
+  {
+    "word": "to extol",
+    "german": "preisen",
+    "spanish": "ensalzar",
+    "italian": "esaltare"
+  },
+  {
+    "word": "to extract",
+    "german": "extrahieren",
+    "spanish": "extraer",
+    "italian": "estrarre"
+  },
+  {
+    "word": "to extrapolate",
+    "german": "extrapolieren",
+    "spanish": "extrapolar",
+    "italian": "estrapolare"
+  },
+  {
+    "word": "to fabricate",
+    "german": "fälschen",
+    "spanish": "fabricar",
+    "italian": "fabbricare"
+  },
+  {
+    "word": "to face",
+    "german": "gegenüberstehen",
+    "spanish": "encarar",
+    "italian": "affrontare"
+  },
+  {
+    "word": "to facilitate",
+    "german": "erleichtern",
+    "spanish": "facilitar",
+    "italian": "facilitare"
+  },
+  {
+    "word": "to fade",
+    "german": "verblassen",
+    "spanish": "desvanecerse",
+    "italian": "svanire"
+  },
+  {
+    "word": "to fail",
+    "german": "scheitern",
+    "spanish": "fallar",
+    "italian": "fallire"
+  },
+  {
+    "word": "to faint",
+    "german": "ohnmächtig werden",
+    "spanish": "desmayarse",
+    "italian": "svenire"
+  },
+  {
+    "word": "to fall",
+    "german": "fallen",
+    "spanish": "caer",
+    "italian": "cadere"
+  },
+  {
+    "word": "to falter",
+    "german": "schwanken",
+    "spanish": "vacilar",
+    "italian": "vacillare"
+  },
+  {
+    "word": "to fancy",
+    "german": "sich vorstellen",
+    "spanish": "imaginar",
+    "italian": "immaginare"
+  },
+  {
+    "word": "to fascinate",
+    "german": "faszinieren",
+    "spanish": "fascinar",
+    "italian": "affascinare"
+  },
+  {
+    "word": "to fashion",
+    "german": "formen",
+    "spanish": "modelar",
+    "italian": "modellare"
+  },
+  {
+    "word": "to fasten",
+    "german": "befestigen",
+    "spanish": "atar",
+    "italian": "fissare"
+  },
+  {
+    "word": "to favor",
+    "german": "bevorzugen",
+    "spanish": "favorecer",
+    "italian": "favorire"
+  },
+  {
+    "word": "to fear",
+    "german": "fürchten",
+    "spanish": "temer",
+    "italian": "temere"
+  },
+  {
+    "word": "to feature",
+    "german": "aufweisen",
+    "spanish": "presentar",
+    "italian": "presentare"
+  },
+  {
+    "word": "to feed",
+    "german": "füttern",
+    "spanish": "alimentar",
+    "italian": "nutrire"
+  },
+  {
+    "word": "to feel",
+    "german": "fühlen",
+    "spanish": "sentir",
+    "italian": "sentire"
+  },
+  {
+    "word": "to feign",
+    "german": "vortäuschen",
+    "spanish": "fingir",
+    "italian": "fingere"
+  },
+  {
+    "word": "to fend",
+    "german": "abwehren",
+    "spanish": "defenderse",
+    "italian": "difendersi"
+  },
+  {
+    "word": "to ferment",
+    "german": "gären",
+    "spanish": "fermentar",
+    "italian": "fermentare"
+  },
+  {
+    "word": "to fetch",
+    "german": "holen",
+    "spanish": "ir a buscar",
+    "italian": "andare a prendere"
+  },
+  {
+    "word": "to fight",
+    "german": "kämpfen",
+    "spanish": "luchar",
+    "italian": "combattere"
+  },
+  {
+    "word": "to figure",
+    "german": "glauben",
+    "spanish": "figurar",
+    "italian": "immaginare"
+  },
+  {
+    "word": "to file",
+    "german": "ablegen",
+    "spanish": "archivar",
+    "italian": "archiviare"
+  },
+  {
+    "word": "to fill",
+    "german": "füllen",
+    "spanish": "llenar",
+    "italian": "riempire"
+  },
+  {
+    "word": "to film",
+    "german": "filmen",
+    "spanish": "filmar",
+    "italian": "filmare"
+  },
+  {
+    "word": "to filter",
+    "german": "filtern",
+    "spanish": "filtrar",
+    "italian": "filtrare"
+  },
+  {
+    "word": "to find",
+    "german": "finden",
+    "spanish": "encontrar",
+    "italian": "trovare"
+  },
+  {
+    "word": "to finish",
+    "german": "beenden",
+    "spanish": "terminar",
+    "italian": "finire"
+  },
+  {
+    "word": "to fire",
+    "german": "feuern",
+    "spanish": "disparar",
+    "italian": "sparare"
+  },
+  {
+    "word": "to fit",
+    "german": "passen",
+    "spanish": "encajar",
+    "italian": "adattarsi"
+  },
+  {
+    "word": "to fix",
+    "german": "reparieren",
+    "spanish": "arreglar",
+    "italian": "aggiustare"
+  },
+  {
+    "word": "to flag",
+    "german": "kennzeichnen",
+    "spanish": "señalar",
+    "italian": "segnalare"
+  },
+  {
+    "word": "to flap",
+    "german": "flattern",
+    "spanish": "aleta",
+    "italian": "battere"
+  },
+  {
+    "word": "to flash",
+    "german": "blitzen",
+    "spanish": "destellar",
+    "italian": "lampeggiare"
+  },
+  {
+    "word": "to flatter",
+    "german": "schmeicheln",
+    "spanish": "halagar",
+    "italian": "lusingare"
+  },
+  {
+    "word": "to flee",
+    "german": "fliehen",
+    "spanish": "huir",
+    "italian": "fuggire"
+  },
+  {
+    "word": "to fling",
+    "german": "schleudern",
+    "spanish": "arrojar",
+    "italian": "scagliare"
+  },
+  {
+    "word": "to float",
+    "german": "schwimmen",
+    "spanish": "flotar",
+    "italian": "galleggiare"
+  },
+  {
+    "word": "to flock",
+    "german": "strömen",
+    "spanish": "reunirse",
+    "italian": "radunarsi"
+  },
+  {
+    "word": "to flow",
+    "german": "fließen",
+    "spanish": "fluir",
+    "italian": "scorrere"
+  },
+  {
+    "word": "to fluctuate",
+    "german": "schwanken",
+    "spanish": "fluctuar",
+    "italian": "fluttuare"
+  },
+  {
+    "word": "to flush",
+    "german": "erröten",
+    "spanish": "sonrojar",
+    "italian": "arrossire"
+  },
+  {
+    "word": "to fly",
+    "german": "fliegen",
+    "spanish": "volar",
+    "italian": "volare"
+  },
+  {
+    "word": "to focus",
+    "german": "fokussieren",
+    "spanish": "enfocar",
+    "italian": "focalizzare"
+  },
+  {
+    "word": "to fold",
+    "german": "falten",
+    "spanish": "doblar",
+    "italian": "piegare"
+  },
+  {
+    "word": "to follow",
+    "german": "folgen",
+    "spanish": "seguir",
+    "italian": "seguire"
+  },
+  {
+    "word": "to fool",
+    "german": "narren",
+    "spanish": "engañar",
+    "italian": "ingannare"
+  },
+  {
+    "word": "to forbid",
+    "german": "verbieten",
+    "spanish": "prohibir",
+    "italian": "proibire"
+  },
+  {
+    "word": "to force",
+    "german": "zwingen",
+    "spanish": "forzar",
+    "italian": "forzare"
+  },
+  {
+    "word": "to forecast",
+    "german": "vorhersagen",
+    "spanish": "pronosticar",
+    "italian": "prevedere"
+  },
+  {
+    "word": "to forego",
+    "german": "verzichten",
+    "spanish": "renunciar",
+    "italian": "rinunciare"
+  },
+  {
+    "word": "to foretell",
+    "german": "vorhersagen",
+    "spanish": "predecir",
+    "italian": "predire"
+  },
+  {
+    "word": "to forget",
+    "german": "vergessen",
+    "spanish": "olvidar",
+    "italian": "dimenticare"
+  },
+  {
+    "word": "to forgive",
+    "german": "vergeben",
+    "spanish": "perdonar",
+    "italian": "perdonare"
+  },
+  {
+    "word": "to forgo",
+    "german": "verzichten",
+    "spanish": "renunciar a",
+    "italian": "rinunciare a"
+  },
+  {
+    "word": "to form",
+    "german": "bilden",
+    "spanish": "formar",
+    "italian": "formare"
+  },
+  {
+    "word": "to formulate",
+    "german": "formulieren",
+    "spanish": "formular",
+    "italian": "formulare"
+  },
+  {
+    "word": "to forsake",
+    "german": "verlassen",
+    "spanish": "abandonar",
+    "italian": "abbandonare"
+  },
+  {
+    "word": "to fortify",
+    "german": "befestigen",
+    "spanish": "fortificar",
+    "italian": "fortificare"
+  },
+  {
+    "word": "to forward",
+    "german": "weiterleiten",
+    "spanish": "reenviar",
+    "italian": "inoltrare"
+  },
+  {
+    "word": "to foster",
+    "german": "fördern",
+    "spanish": "fomentar",
+    "italian": "promuovere"
+  },
+  {
+    "word": "to foul",
+    "german": "beschmutzen",
+    "spanish": "ensuciar",
+    "italian": "sporcare"
+  },
+  {
+    "word": "to found",
+    "german": "gründen",
+    "spanish": "fundar",
+    "italian": "fondare"
+  },
+  {
+    "word": "to fracture",
+    "german": "brechen",
+    "spanish": "fracturar",
+    "italian": "fratturare"
+  },
+  {
+    "word": "to frame",
+    "german": "rahmen",
+    "spanish": "enmarcar",
+    "italian": "incorniciare"
+  },
+  {
+    "word": "to freeze",
+    "german": "frieren",
+    "spanish": "congelar",
+    "italian": "congelare"
+  },
+  {
+    "word": "to frequent",
+    "german": "häufig besuchen",
+    "spanish": "frecuentar",
+    "italian": "frequentare"
+  },
+  {
+    "word": "to frighten",
+    "german": "erschrecken",
+    "spanish": "asustar",
+    "italian": "spaventare"
+  },
+  {
+    "word": "to frown",
+    "german": "die Stirn runzeln",
+    "spanish": "fruncir el ceño",
+    "italian": "aggrottare le sopracciglia"
+  },
+  {
+    "word": "to frustrate",
+    "german": "frustrieren",
+    "spanish": "frustrar",
+    "italian": "frustrare"
+  },
+  {
+    "word": "to fulfil",
+    "german": "erfüllen",
+    "spanish": "cumplir",
+    "italian": "adempiere"
+  },
+  {
+    "word": "to fume",
+    "german": "qualmen",
+    "spanish": "humear",
+    "italian": "fumare"
+  },
+  {
+    "word": "to function",
+    "german": "funktionieren",
+    "spanish": "funcionar",
+    "italian": "funzionare"
+  },
+  {
+    "word": "to furnish",
+    "german": "möblieren",
+    "spanish": "amueblar",
+    "italian": "arredare"
+  },
+  {
+    "word": "to gain",
+    "german": "gewinnen",
+    "spanish": "ganar",
+    "italian": "guadagnare"
+  },
+  {
+    "word": "to gallop",
+    "german": "galoppieren",
+    "spanish": "galopar",
+    "italian": "galoppare"
+  },
+  {
+    "word": "to galvanize",
+    "german": "elektrisieren",
+    "spanish": "galvanizar",
+    "italian": "galvanizzare"
+  },
+  {
+    "word": "to gamble",
+    "german": "spielen",
+    "spanish": "apostar",
+    "italian": "giocare d'azzardo"
+  },
+  {
+    "word": "to gape",
+    "german": "gaffen",
+    "spanish": "boquiabierto",
+    "italian": "ammirare"
+  },
+  {
+    "word": "to garner",
+    "german": "sammeln",
+    "spanish": "reunir",
+    "italian": "raccogliere"
+  },
+  {
+    "word": "to garnish",
+    "german": "garnieren",
+    "spanish": "adornar",
+    "italian": "guarnire"
+  },
+  {
+    "word": "to gasp",
+    "german": "keuchen",
+    "spanish": "jadear",
+    "italian": "ansimare"
+  },
+  {
+    "word": "to gather",
+    "german": "sammeln",
+    "spanish": "reunir",
+    "italian": "raccogliere"
+  },
+  {
+    "word": "to gaze",
+    "german": "starren",
+    "spanish": "mirar fijamente",
+    "italian": "fissare"
+  },
+  {
+    "word": "to gear",
+    "german": "anpassen",
+    "spanish": "equipar",
+    "italian": "preparare"
+  },
+  {
+    "word": "to generate",
+    "german": "erzeugen",
+    "spanish": "generar",
+    "italian": "generare"
+  },
+  {
+    "word": "to germinate",
+    "german": "keimen",
+    "spanish": "germinar",
+    "italian": "germogliare"
+  },
+  {
+    "word": "to gesture",
+    "german": "gestikulieren",
+    "spanish": "gesticular",
+    "italian": "gesticolare"
+  },
+  {
+    "word": "to get",
+    "german": "bekommen",
+    "spanish": "obtener",
+    "italian": "ottenere"
+  },
+  {
+    "word": "to gild",
+    "german": "vergolden",
+    "spanish": "dorar",
+    "italian": "dorare"
+  },
+  {
+    "word": "to give",
+    "german": "geben",
+    "spanish": "dar",
+    "italian": "dare"
+  },
+  {
+    "word": "to glance",
+    "german": "blicken",
+    "spanish": "echar un vistazo",
+    "italian": "dare un'occhiata"
+  },
+  {
+    "word": "to glare",
+    "german": "starren",
+    "spanish": "mirar fijamente",
+    "italian": "guardare torvo"
+  },
+  {
+    "word": "to gleam",
+    "german": "schimmern",
+    "spanish": "brillar",
+    "italian": "luccicare"
+  },
+  {
+    "word": "to glide",
+    "german": "gleiten",
+    "spanish": "deslizarse",
+    "italian": "scivolare"
+  },
+  {
+    "word": "to glimpse",
+    "german": "erblicken",
+    "spanish": "vislumbrar",
+    "italian": "intravedere"
+  },
+  {
+    "word": "to glisten",
+    "german": "glänzen",
+    "spanish": "brillar",
+    "italian": "brillare"
+  },
+  {
+    "word": "to glitter",
+    "german": "glitzern",
+    "spanish": "brillar",
+    "italian": "scintillare"
+  },
+  {
+    "word": "to gloat",
+    "german": "schadenfroh sein",
+    "spanish": "regodearse",
+    "italian": "godere"
+  },
+  {
+    "word": "to glorify",
+    "german": "verherrlichen",
+    "spanish": "glorificar",
+    "italian": "glorificare"
+  },
+  {
+    "word": "to glow",
+    "german": "glühen",
+    "spanish": "brillar",
+    "italian": "brillare"
+  },
+  {
+    "word": "to gnaw",
+    "german": "nagen",
+    "spanish": "roer",
+    "italian": "rosicchiare"
+  },
+  {
+    "word": "to go",
+    "german": "gehen",
+    "spanish": "ir",
+    "italian": "andare"
+  },
+  {
+    "word": "to gorge",
+    "german": "schlemmen",
+    "spanish": "atiborrarse",
+    "italian": "abbuffarsi"
+  },
+  {
+    "word": "to govern",
+    "german": "regieren",
+    "spanish": "gobernar",
+    "italian": "governare"
+  },
+  {
+    "word": "to grab",
+    "german": "greifen",
+    "spanish": "agarrar",
+    "italian": "afferrare"
+  },
+  {
+    "word": "to grade",
+    "german": "bewerten",
+    "spanish": "calificar",
+    "italian": "valutare"
+  },
+  {
+    "word": "to graduate",
+    "german": "abschließen",
+    "spanish": "graduarse",
+    "italian": "laurearsi"
+  },
+  {
+    "word": "to grant",
+    "german": "gewähren",
+    "spanish": "conceder",
+    "italian": "concedere"
+  },
+  {
+    "word": "to grasp",
+    "german": "begreifen",
+    "spanish": "comprender",
+    "italian": "capire"
+  },
+  {
+    "word": "to grate",
+    "german": "reiben",
+    "spanish": "rallar",
+    "italian": "grattugiare"
+  },
+  {
+    "word": "to gratify",
+    "german": "befriedigen",
+    "spanish": "gratificar",
+    "italian": "gratificare"
+  },
+  {
+    "word": "to graze",
+    "german": "weiden",
+    "spanish": "pastar",
+    "italian": "pascolare"
+  },
+  {
+    "word": "to greet",
+    "german": "grüßen",
+    "spanish": "saludar",
+    "italian": "salutare"
+  },
+  {
+    "word": "to grieve",
+    "german": "trauern",
+    "spanish": "afligirse",
+    "italian": "addolorarsi"
+  },
+  {
+    "word": "to grind",
+    "german": "mahlen",
+    "spanish": "moler",
+    "italian": "macinare"
+  },
+  {
+    "word": "to grip",
+    "german": "festhalten",
+    "spanish": "agarrar",
+    "italian": "stringere"
+  },
+  {
+    "word": "to groan",
+    "german": "stöhnen",
+    "spanish": "gemir",
+    "italian": "gemere"
+  },
+  {
+    "word": "to groom",
+    "german": "pflegen",
+    "spanish": "acicalar",
+    "italian": "toelettare"
+  },
+  {
+    "word": "to grope",
+    "german": "tasten",
+    "spanish": "tantear",
+    "italian": "brancolare"
+  },
+  {
+    "word": "to ground",
+    "german": "erden",
+    "spanish": "aterrizar",
+    "italian": "atterrare"
+  },
+  {
+    "word": "to grow",
+    "german": "wachsen",
+    "spanish": "crecer",
+    "italian": "crescere"
+  },
+  {
+    "word": "to grumble",
+    "german": "murren",
+    "spanish": "quejarse",
+    "italian": "lamentarsi"
+  },
+  {
+    "word": "to guarantee",
+    "german": "garantieren",
+    "spanish": "garantizar",
+    "italian": "garantire"
+  },
+  {
+    "word": "to guard",
+    "german": "bewachen",
+    "spanish": "guardar",
+    "italian": "proteggere"
+  },
+  {
+    "word": "to guess",
+    "german": "raten",
+    "spanish": "adivinar",
+    "italian": "indovinare"
+  },
+  {
+    "word": "to guide",
+    "german": "führen",
+    "spanish": "guiar",
+    "italian": "guidare"
+  },
+  {
+    "word": "to gulp",
+    "german": "schlucken",
+    "spanish": "tragar",
+    "italian": "inghiottire"
+  },
+  {
+    "word": "to gush",
+    "german": "sprudeln",
+    "spanish": "brotar",
+    "italian": "sgorgare"
+  },
+  {
+    "word": "to gut",
+    "german": "ausweiden",
+    "spanish": "destripar",
+    "italian": "sviscerare"
+  },
+  {
+    "word": "to gyrate",
+    "german": "kreisen",
+    "spanish": "girar",
+    "italian": "girare"
+  },
+  {
+    "word": "to habituate",
+    "german": "gewöhnen",
+    "spanish": "habituar",
+    "italian": "abituare"
+  },
+  {
+    "word": "to hack",
+    "german": "hacken",
+    "spanish": "cortar",
+    "italian": "tagliare"
+  },
+  {
+    "word": "to hail",
+    "german": "herbeirufen",
+    "spanish": "llamar",
+    "italian": "chiamare"
+  },
+  {
+    "word": "to halt",
+    "german": "anhalten",
+    "spanish": "detener",
+    "italian": "fermarsi"
+  },
+  {
+    "word": "to hammer",
+    "german": "hämmern",
+    "spanish": "martillar",
+    "italian": "martellare"
+  },
+  {
+    "word": "to hamper",
+    "german": "behindern",
+    "spanish": "dificultar",
+    "italian": "ostacolare"
+  },
+  {
+    "word": "to hand",
+    "german": "reichen",
+    "spanish": "entregar",
+    "italian": "consegnare"
+  },
+  {
+    "word": "to handle",
+    "german": "handhaben",
+    "spanish": "manejar",
+    "italian": "gestire"
+  },
+  {
+    "word": "to hang",
+    "german": "hängen",
+    "spanish": "colgar",
+    "italian": "appendere"
+  },
+  {
+    "word": "to happen",
+    "german": "geschehen",
+    "spanish": "suceder",
+    "italian": "succedere"
+  },
+  {
+    "word": "to harass",
+    "german": "belästigen",
+    "spanish": "acosar",
+    "italian": "molestare"
+  },
+  {
+    "word": "to harbor",
+    "german": "bergen",
+    "spanish": "albergar",
+    "italian": "ospitare"
+  },
+  {
+    "word": "to harden",
+    "german": "härten",
+    "spanish": "endurecer",
+    "italian": "indurire"
+  },
+  {
+    "word": "to harm",
+    "german": "schaden",
+    "spanish": "dañar",
+    "italian": "danneggiare"
+  },
+  {
+    "word": "to harness",
+    "german": "nutzbar machen",
+    "spanish": "aprovechar",
+    "italian": "sfruttare"
+  },
+  {
+    "word": "to harry",
+    "german": "drangsalieren",
+    "spanish": "acosar",
+    "italian": "tormentare"
+  },
+  {
+    "word": "to harvest",
+    "german": "ernten",
+    "spanish": "cosechar",
+    "italian": "raccogliere"
+  },
+  {
+    "word": "to hasten",
+    "german": "beschleunigen",
+    "spanish": "apresurar",
+    "italian": "affrettare"
+  },
+  {
+    "word": "to hate",
+    "german": "hassen",
+    "spanish": "odiar",
+    "italian": "odiare"
+  },
+  {
+    "word": "to haunt",
+    "german": "heimsuchen",
+    "spanish": "rondar",
+    "italian": "ossessionare"
+  },
+  {
+    "word": "to have",
+    "german": "haben",
+    "spanish": "tener",
+    "italian": "avere"
+  },
+  {
+    "word": "to hawk",
+    "german": "feilbieten",
+    "spanish": "vender",
+    "italian": "vendere"
+  },
+  {
+    "word": "to heal",
+    "german": "heilen",
+    "spanish": "curar",
+    "italian": "guarire"
+  },
+  {
+    "word": "to heap",
+    "german": "anhäufen",
+    "spanish": "amontonar",
+    "italian": "ammucchiare"
+  },
+  {
+    "word": "to hear",
+    "german": "hören",
+    "spanish": "oír",
+    "italian": "sentire"
+  },
+  {
+    "word": "to heat",
+    "german": "heizen",
+    "spanish": "calentar",
+    "italian": "riscaldare"
+  },
+  {
+    "word": "to heave",
+    "german": "heben",
+    "spanish": "levantar",
+    "italian": "sollevare"
+  },
+  {
+    "word": "to heed",
+    "german": "beachten",
+    "spanish": "prestar atención",
+    "italian": "prestare attenzione"
+  },
+  {
+    "word": "to ignite",
+    "german": "entzünden",
+    "spanish": "encender",
+    "italian": "accendere"
+  },
+  {
+    "word": "to instill",
+    "german": "einflößen",
+    "spanish": "inculcar",
+    "italian": "infondere"
+  },
+  {
+    "word": "to irk",
+    "german": "ärgern",
+    "spanish": "molestar",
+    "italian": "irritare"
+  },
+  {
+    "word": "to jostle",
+    "german": "drängeln",
+    "spanish": "empujar",
+    "italian": "spintonare"
+  },
+  {
+    "word": "to junk",
+    "german": "wegwerfen",
+    "spanish": "desechar",
+    "italian": "buttare via"
+  },
+  {
+    "word": "to kick up a fuss",
+    "german": "Aufhebens machen",
+    "spanish": "armar un escándalo",
+    "italian": "fare storie"
+  },
+  {
+    "word": "to lap up",
+    "german": "auflecken",
+    "spanish": "beber con deleite",
+    "italian": "bere avidamente"
+  },
+  {
+    "word": "to laud",
+    "german": "loben",
+    "spanish": "alabar",
+    "italian": "lodare"
+  },
+  {
+    "word": "to launder",
+    "german": "waschen",
+    "spanish": "lavar",
+    "italian": "lavare"
+  },
+  {
+    "word": "to leach",
+    "german": "auslaugen",
+    "spanish": "filtrar",
+    "italian": "filtrare"
+  },
+  {
+    "word": "to lead up to",
+    "german": "hinführen zu",
+    "spanish": "conducir a",
+    "italian": "portare a"
+  },
+  {
+    "word": "to leap",
+    "german": "springen",
+    "spanish": "saltar",
+    "italian": "saltare"
+  },
+  {
+    "word": "to leave off",
+    "german": "aufhören",
+    "spanish": "dejar de",
+    "italian": "smettere di"
+  },
+  {
+    "word": "to linger",
+    "german": "verweilen",
+    "spanish": "persistir",
+    "italian": "indugiare"
+  },
+  {
+    "word": "to linger on",
+    "german": "weiterbestehen",
+    "spanish": "perdurar",
+    "italian": "perdurare"
+  },
+  {
+    "word": "to litter",
+    "german": "vermüllen",
+    "spanish": "tirar basura",
+    "italian": "gettare rifiuti"
+  },
+  {
+    "word": "to live off/on",
+    "german": "leben von",
+    "spanish": "vivir de",
+    "italian": "vivere di"
+  },
+  {
+    "word": "to lock away/up (in)",
+    "german": "einsperren",
+    "spanish": "encerrar",
+    "italian": "rinchiudere"
+  },
+  {
+    "word": "to lock up (in)",
+    "german": "einsperren",
+    "spanish": "encerrar",
+    "italian": "rinchiudere"
+  },
+  {
+    "word": "to loll",
+    "german": "faulenzen",
+    "spanish": "holgazanear",
+    "italian": "oziare"
+  },
+  {
+    "word": "to lug",
+    "german": "schleppen",
+    "spanish": "arrastrar",
+    "italian": "trascinare"
+  },
+  {
+    "word": "to make great strides",
+    "german": "große Fortschritte machen",
+    "spanish": "dar grandes pasos",
+    "italian": "fare grandi progressi"
+  },
+  {
+    "word": "to make one’s/sb’s mind up",
+    "german": "sich/jemanden entscheiden",
+    "spanish": "decidirse/decidir a alguien",
+    "italian": "decidersi/far decidere qualcuno"
+  },
+  {
+    "word": "to mate",
+    "german": "sich paaren",
+    "spanish": "aparearse",
+    "italian": "accoppiarsi"
+  },
+  {
+    "word": "to meander",
+    "german": "schlendern",
+    "spanish": "vagar",
+    "italian": "vagare"
+  },
+  {
+    "word": "to meddle",
+    "german": "sich einmischen",
+    "spanish": "entrometerse",
+    "italian": "immischiarsi"
+  },
+  {
+    "word": "to mess up",
+    "german": "verpfuschen",
+    "spanish": "estropear",
+    "italian": "rovinare"
+  },
+  {
+    "word": "to mingle with",
+    "german": "sich mischen mit",
+    "spanish": "mezclarse con",
+    "italian": "mescolarsi con"
+  },
+  {
+    "word": "to mire",
+    "german": "versumpfen",
+    "spanish": "empantanar",
+    "italian": "impantanare"
+  },
+  {
+    "word": "to mop",
+    "german": "aufwischen",
+    "spanish": "fregar",
+    "italian": "pulire con lo straccio"
+  },
+  {
+    "word": "to mow down",
+    "german": "niedermähen",
+    "spanish": "abatir",
+    "italian": "falciare"
+  },
+  {
+    "word": "to muster",
+    "german": "aufbringen",
+    "spanish": "reunir",
+    "italian": "radunare"
+  },
+  {
+    "word": "to nod",
+    "german": "nicken",
+    "spanish": "asentir",
+    "italian": "annuire"
+  },
+  {
+    "word": "to notch up",
+    "german": "erzielen",
+    "spanish": "conseguir",
+    "italian": "ottenere"
+  },
+  {
+    "word": "to nudge",
+    "german": "anstupsen",
+    "spanish": "dar un codazo",
+    "italian": "spingere leggermente"
+  },
+  {
+    "word": "to nurse",
+    "german": "pflegen",
+    "spanish": "cuidar",
+    "italian": "curare"
+  },
+  {
+    "word": "to outstrip",
+    "german": "übertreffen",
+    "spanish": "superar",
+    "italian": "superare"
+  },
+  {
+    "word": "to overhaul",
+    "german": "überholen",
+    "spanish": "revisar",
+    "italian": "revisionare"
+  },
+  {
+    "word": "to oversee",
+    "german": "überwachen",
+    "spanish": "supervisar",
+    "italian": "sorvegliare"
+  },
+  {
+    "word": "to pave the way (for)",
+    "german": "den Weg ebnen (für)",
+    "spanish": "allanar el camino (para)",
+    "italian": "spianare la strada (a)"
+  },
+  {
+    "word": "to pepper with",
+    "german": "mit etwas überhäufen",
+    "spanish": "acribillar con",
+    "italian": "tempestare di"
+  },
+  {
+    "word": "to pin down",
+    "german": "festnageln",
+    "spanish": "precisar",
+    "italian": "definire con precisione"
+  },
+  {
+    "word": "to placate",
+    "german": "beschwichtigen",
+    "spanish": "aplacar",
+    "italian": "placare"
+  },
+  {
+    "word": "to pledge",
+    "german": "versprechen",
+    "spanish": "prometer",
+    "italian": "promettere"
+  },
+  {
+    "word": "to plug",
+    "german": "verstopfen",
+    "spanish": "taponar",
+    "italian": "tappare"
+  },
+  {
+    "word": "to plummet",
+    "german": "abstürzen",
+    "spanish": "caer en picada",
+    "italian": "precipitare"
+  },
+  {
+    "word": "to ply",
+    "german": "ausüben",
+    "spanish": "ejercer",
+    "italian": "esercitare"
+  },
+  {
+    "word": "to pounce",
+    "german": "sich stürzen",
+    "spanish": "abalanzarse",
+    "italian": "balzare"
+  },
+  {
+    "word": "to pour forth/out",
+    "german": "ausgießen",
+    "spanish": "verter",
+    "italian": "versare"
+  },
+  {
+    "word": "to preclude",
+    "german": "ausschließen",
+    "spanish": "impedir",
+    "italian": "precludere"
+  },
+  {
+    "word": "to preside (over)",
+    "german": "den Vorsitz führen (über)",
+    "spanish": "presidir (sobre)",
+    "italian": "presiedere (a)"
+  },
+  {
+    "word": "to press charges against somebody",
+    "german": "Anzeige gegen jemanden erstatten",
+    "spanish": "presentar cargos contra alguien",
+    "italian": "sporgere denuncia contro qualcuno"
+  },
+  {
+    "word": "to prop up",
+    "german": "stützen",
+    "spanish": "apuntalar",
+    "italian": "sostenere"
+  },
+  {
+    "word": "to pull off",
+    "german": "schaffen",
+    "spanish": "lograr",
+    "italian": "portare a termine"
+  },
+  {
+    "word": "to puncture",
+    "german": "durchstechen",
+    "spanish": "pinchar",
+    "italian": "forare"
+  },
+  {
+    "word": "to push through",
+    "german": "durchsetzen",
+    "spanish": "sacar adelante",
+    "italian": "far passare"
+  },
+  {
+    "word": "to put off",
+    "german": "verschieben",
+    "spanish": "posponer",
+    "italian": "rimandare"
+  },
+  {
+    "word": "to put on",
+    "german": "anziehen",
+    "spanish": "ponerse",
+    "italian": "indossare"
+  },
+  {
+    "word": "to put out",
+    "german": "löschen",
+    "spanish": "apagar",
+    "italian": "spegnere"
+  },
+  {
+    "word": "to put through",
+    "german": "durchstellen",
+    "spanish": "pasar",
+    "italian": "mettere in comunicazione"
+  },
+  {
+    "word": "to quash",
+    "german": "niederwerfen",
+    "spanish": "anular",
+    "italian": "annullare"
+  },
+  {
+    "word": "to rage",
+    "german": "wüten",
+    "spanish": "enfurecerse",
+    "italian": "infuriare"
+  },
+  {
+    "word": "to rebuke (sb for sth.)",
+    "german": "jemanden für etwas rügen",
+    "spanish": "reprender a alguien por algo",
+    "italian": "rimproverare qualcuno per qualcosa"
+  },
+  {
+    "word": "to relieve",
+    "german": "erleichtern",
+    "spanish": "aliviar",
+    "italian": "alleviare"
+  },
+  {
+    "word": "to rescind",
+    "german": "aufheben",
+    "spanish": "rescindir",
+    "italian": "rescindere"
+  },
+  {
+    "word": "to resign",
+    "german": "zurücktreten",
+    "spanish": "renunciar",
+    "italian": "dimettersi"
+  },
+  {
+    "word": "to resort",
+    "german": "zurückgreifen",
+    "spanish": "recurrir",
+    "italian": "ricorrere"
+  },
+  {
+    "word": "to resume",
+    "german": "wiederaufnehmen",
+    "spanish": "reanudar",
+    "italian": "riprendere"
+  },
+  {
+    "word": "to revamp",
+    "german": "erneuern",
+    "spanish": "renovar",
+    "italian": "rinnovare"
+  },
+  {
+    "word": "to ride",
+    "german": "reiten",
+    "spanish": "montar",
+    "italian": "cavalcare"
+  },
+  {
+    "word": "to rile*",
+    "german": "reizen",
+    "spanish": "irritar",
+    "italian": "irritare"
+  },
+  {
+    "word": "to ripple",
+    "german": "kräuseln",
+    "spanish": "ondear",
+    "italian": "increspare"
+  },
+  {
+    "word": "to roar",
+    "german": "brüllen",
+    "spanish": "rugir",
+    "italian": "ruggire"
+  },
+  {
+    "word": "to run the gauntlet",
+    "german": "Spießruten laufen",
+    "spanish": "pasar la prueba",
+    "italian": "passare la prova"
+  },
+  {
+    "word": "to scoff at",
+    "german": "spotten über",
+    "spanish": "burlarse de",
+    "italian": "deridere"
+  },
+  {
+    "word": "to scold",
+    "german": "schelten",
+    "spanish": "regañar",
+    "italian": "sgridare"
+  },
+  {
+    "word": "to scour",
+    "german": "scheuern",
+    "spanish": "fregar",
+    "italian": "strofinare"
+  },
+  {
+    "word": "to scramble for",
+    "german": "sich drängen um",
+    "spanish": "luchar por",
+    "italian": "affrettarsi a prendere"
+  },
+  {
+    "word": "to scrap",
+    "german": "verschrotten",
+    "spanish": "desechar",
+    "italian": "rottamare"
+  },
+  {
+    "word": "to scupper",
+    "german": "vereiteln",
+    "spanish": "hundir",
+    "italian": "affondare"
+  },
+  {
+    "word": "to scuttle",
+    "german": "versenken",
+    "spanish": "hundir",
+    "italian": "affondare"
+  },
+  {
+    "word": "to search",
+    "german": "suchen",
+    "spanish": "buscar",
+    "italian": "cercare"
+  },
+  {
+    "word": "to set up",
+    "german": "aufbauen",
+    "spanish": "establecer",
+    "italian": "istituire"
+  },
+  {
+    "word": "to shell out",
+    "german": "hinblättern",
+    "spanish": "desembolsar",
+    "italian": "sborsare"
+  },
+  {
+    "word": "to shoot up",
+    "german": "in die Höhe schießen",
+    "spanish": "dispararse",
+    "italian": "impennarsi"
+  },
+  {
+    "word": "to show over",
+    "german": "herumführen",
+    "spanish": "mostrar",
+    "italian": "mostrare"
+  },
+  {
+    "word": "to shrug off",
+    "german": "abtun",
+    "spanish": "restarle importancia",
+    "italian": "ignorare"
+  },
+  {
+    "word": "to shuffle",
+    "german": "mischen",
+    "spanish": "barajar",
+    "italian": "mescolare"
+  },
+  {
+    "word": "to shut up",
+    "german": "schweigen",
+    "spanish": "callarse",
+    "italian": "tacere"
+  },
+  {
+    "word": "to sift out",
+    "german": "aussortieren",
+    "spanish": "separar",
+    "italian": "selezionare"
+  },
+  {
+    "word": "to sink/fall into oblivion",
+    "german": "in Vergessenheit geraten",
+    "spanish": "caer en el olvido",
+    "italian": "cadere nell'oblio"
+  },
+  {
+    "word": "to sire",
+    "german": "zeugen",
+    "spanish": "engendrar",
+    "italian": "generare"
+  },
+  {
+    "word": "to skid",
+    "german": "schleudern",
+    "spanish": "patinar",
+    "italian": "slittare"
+  },
+  {
+    "word": "to skirt",
+    "german": "umgehen",
+    "spanish": "bordear",
+    "italian": "aggirare"
+  },
+  {
+    "word": "to slap",
+    "german": "schlagen",
+    "spanish": "abofetear",
+    "italian": "schiaffeggiare"
+  },
+  {
+    "word": "to slash",
+    "german": "aufschlitzen",
+    "spanish": "acuchillar",
+    "italian": "tagliare"
+  },
+  {
+    "word": "to slip in/into",
+    "german": "hineinschlüpfen",
+    "spanish": "deslizarse dentro",
+    "italian": "infilarsi"
+  },
+  {
+    "word": "to snip",
+    "german": "abschneiden",
+    "spanish": "recortar",
+    "italian": "tagliare"
+  },
+  {
+    "word": "to soothe",
+    "german": "beruhigen",
+    "spanish": "calmar",
+    "italian": "calmare"
+  },
+  {
+    "word": "to spark",
+    "german": "auslösen",
+    "spanish": "desencadenar",
+    "italian": "scatenare"
+  },
+  {
+    "word": "to spark off",
+    "german": "auslösen",
+    "spanish": "desencadenar",
+    "italian": "scatenare"
+  },
+  {
+    "word": "to speak off- the-cuff",
+    "german": "aus dem Stegreif sprechen",
+    "spanish": "hablar improvisadamente",
+    "italian": "parlare a braccio"
+  },
+  {
+    "word": "to spin",
+    "german": "drehen",
+    "spanish": "girar",
+    "italian": "girare"
+  },
+  {
+    "word": "to spin off",
+    "german": "abspalten",
+    "spanish": "derivar",
+    "italian": "derivare"
+  },
+  {
+    "word": "to spite",
+    "german": "ärgern",
+    "spanish": "despechar",
+    "italian": "dispetto"
+  },
+  {
+    "word": "to spook",
+    "german": "erschrecken",
+    "spanish": "asustar",
+    "italian": "spaventare"
+  },
+  {
+    "word": "to spur",
+    "german": "antreiben",
+    "spanish": "estimular",
+    "italian": "stimolare"
+  },
+  {
+    "word": "to squeeze in/into",
+    "german": "hineinzwängen",
+    "spanish": "apretujar",
+    "italian": "strizzare"
+  },
+  {
+    "word": "to squirm",
+    "german": "sich winden",
+    "spanish": "retorcerse",
+    "italian": "contorcersi"
+  },
+  {
+    "word": "to squirt",
+    "german": "spritzen",
+    "spanish": "chorrear",
+    "italian": "spruzzare"
+  },
+  {
+    "word": "to stalk",
+    "german": "stalken",
+    "spanish": "acechar",
+    "italian": "pedinare"
+  },
+  {
+    "word": "to stall",
+    "german": "verzögern",
+    "spanish": "retrasar",
+    "italian": "ritardare"
+  },
+  {
+    "word": "to stand eyeball-to-eyeball with sb.",
+    "german": "jemandem gegenüberstehen",
+    "spanish": "encararse con alguien",
+    "italian": "affrontare qualcuno faccia a faccia"
+  },
+  {
+    "word": "to stash*",
+    "german": "verstecken",
+    "spanish": "esconder",
+    "italian": "nascondere"
+  },
+  {
+    "word": "to stave off",
+    "german": "abwehren",
+    "spanish": "evitar",
+    "italian": "evitare"
+  },
+  {
+    "word": "to step in",
+    "german": "eingreifen",
+    "spanish": "intervenir",
+    "italian": "intervenire"
+  },
+  {
+    "word": "to step up",
+    "german": "verstärken",
+    "spanish": "intensificar",
+    "italian": "intensificare"
+  },
+  {
+    "word": "to stir",
+    "german": "rühren",
+    "spanish": "remover",
+    "italian": "mescolare"
+  },
+  {
+    "word": "to stoke up (with)",
+    "german": "anheizen (mit)",
+    "spanish": "avivar (con)",
+    "italian": "alimentare (con)"
+  },
+  {
+    "word": "to streak",
+    "german": "rasen",
+    "spanish": "correr a gran velocidad",
+    "italian": "sfrecciare"
+  },
+  {
+    "word": "to strike",
+    "german": "schlagen",
+    "spanish": "golpear",
+    "italian": "colpire"
+  },
+  {
+    "word": "to strip",
+    "german": "entkleiden",
+    "spanish": "despojar",
+    "italian": "spogliare"
+  },
+  {
+    "word": "to strut (about)",
+    "german": "stolzieren",
+    "spanish": "pavonearse",
+    "italian": "pavoneggiarsi"
+  },
+  {
+    "word": "to subside",
+    "german": "nachlassen",
+    "spanish": "disminuir",
+    "italian": "diminuire"
+  },
+  {
+    "word": "to suckle",
+    "german": "stillen",
+    "spanish": "amamantar",
+    "italian": "allattare"
+  },
+  {
+    "word": "to sweep",
+    "german": "fegen",
+    "spanish": "barrer",
+    "italian": "spazzare"
+  },
+  {
+    "word": "to tackle",
+    "german": "angehen",
+    "spanish": "abordar",
+    "italian": "affrontare"
+  },
+  {
+    "word": "to take fright",
+    "german": "erschrecken",
+    "spanish": "asustarse",
+    "italian": "spaventarsi"
+  },
+  {
+    "word": "to take in",
+    "german": "aufnehmen",
+    "spanish": "asimilar",
+    "italian": "assimilare"
+  },
+  {
+    "word": "to take it on the chin",
+    "german": "einstecken",
+    "spanish": "encajar",
+    "italian": "incassare"
+  },
+  {
+    "word": "to take off",
+    "german": "abheben",
+    "spanish": "despegar",
+    "italian": "decollare"
+  },
+  {
+    "word": "to tamper with",
+    "german": "manipulieren",
+    "spanish": "manipular",
+    "italian": "manomettere"
+  },
+  {
+    "word": "to tap (for)",
+    "german": "anzapfen (für)",
+    "spanish": "extraer (para)",
+    "italian": "attingere (per)"
+  },
+  {
+    "word": "to taper off",
+    "german": "auslaufen",
+    "spanish": "disminuir gradualmente",
+    "italian": "diminuire gradualmente"
+  },
+  {
+    "word": "to tear down",
+    "german": "abreißen",
+    "spanish": "demoler",
+    "italian": "demolire"
+  },
+  {
+    "word": "to tear up",
+    "german": "zerreißen",
+    "spanish": "romper en pedazos",
+    "italian": "fare a pezzi"
+  },
+  {
+    "word": "to teem with",
+    "german": "wimmeln von",
+    "spanish": "abundar en",
+    "italian": "pullulare di"
+  },
+  {
+    "word": "to teeter on the edge",
+    "german": "am Rande des Abgrunds stehen",
+    "spanish": "tambalearse al borde",
+    "italian": "vacillare sull'orlo"
+  },
+  {
+    "word": "to thrive",
+    "german": "gedeihen",
+    "spanish": "prosperar",
+    "italian": "prosperare"
+  },
+  {
+    "word": "to topple",
+    "german": "umstürzen",
+    "spanish": "derribar",
+    "italian": "rovesciare"
+  },
+  {
+    "word": "to tout",
+    "german": "anpreisen",
+    "spanish": "promocionar",
+    "italian": "promuovere"
+  },
+  {
+    "word": "to trample",
+    "german": "zertrampeln",
+    "spanish": "pisotear",
+    "italian": "calpestare"
+  },
+  {
+    "word": "to tread carefully",
+    "german": "vorsichtig vorgehen",
+    "spanish": "andar con cuidado",
+    "italian": "procedere con cautela"
+  },
+  {
+    "word": "to try",
+    "german": "versuchen",
+    "spanish": "intentar",
+    "italian": "provare"
+  },
+  {
+    "word": "to tuck up (in bed)",
+    "german": "zudecken (im Bett)",
+    "spanish": "arropadar (en la cama)",
+    "italian": "rimboccare le coperte (a letto)"
+  },
+  {
+    "word": "to tug across, along, away etc",
+    "german": "ziehen über, entlang, weg usw.",
+    "spanish": "tirar a través, a lo largo, lejos etc.",
+    "italian": "tirare attraverso, lungo, via ecc."
+  },
+  {
+    "word": "to turn things around",
+    "german": "das Blatt wenden",
+    "spanish": "dar la vuelta a las cosas",
+    "italian": "ribaltare la situazione"
+  },
+  {
+    "word": "to turn up one’s nose (at)",
+    "german": "die Nase rümpfen (über)",
+    "spanish": "arrugar la nariz (a)",
+    "italian": "arricciare il naso (a)"
+  },
+  {
+    "word": "to tweak",
+    "german": "optimieren",
+    "spanish": "ajustar",
+    "italian": "ottimizzare"
+  },
+  {
+    "word": "to undermine",
+    "german": "untergraben",
+    "spanish": "socavar",
+    "italian": "minare"
+  },
+  {
+    "word": "to underscore",
+    "german": "unterstreichen",
+    "spanish": "subrayar",
+    "italian": "sottolineare"
+  },
+  {
+    "word": "to unravel",
+    "german": "aufdröseln",
+    "spanish": "desentrañar",
+    "italian": "svelare"
+  },
+  {
+    "word": "to unshackle",
+    "german": "befreien",
+    "spanish": "liberar",
+    "italian": "liberare"
+  },
+  {
+    "word": "to usher in",
+    "german": "einläuten",
+    "spanish": "inaugurar",
+    "italian": "inaugurare"
+  },
+  {
+    "word": "to veil",
+    "german": "verschleiern",
+    "spanish": "velar",
+    "italian": "velare"
+  },
+  {
+    "word": "to vie",
+    "german": "wetteifern",
+    "spanish": "competir",
+    "italian": "competere"
+  },
+  {
+    "word": "to vow",
+    "german": "schwören",
+    "spanish": "jurar",
+    "italian": "giurare"
+  },
+  {
+    "word": "to wane",
+    "german": "abnehmen",
+    "spanish": "menguar",
+    "italian": "calare"
+  },
+  {
+    "word": "to ward off",
+    "german": "abwehren",
+    "spanish": "repeler",
+    "italian": "respingere"
+  },
+  {
+    "word": "to wash off",
+    "german": "abwaschen",
+    "spanish": "lavar",
+    "italian": "lavare via"
+  },
+  {
+    "word": "to wedge",
+    "german": "einklemmen",
+    "spanish": "encajar",
+    "italian": "incastrare"
+  },
+  {
+    "word": "to weed out",
+    "german": "aussortieren",
+    "spanish": "eliminar",
+    "italian": "eliminare"
+  },
+  {
+    "word": "to weep",
+    "german": "weinen",
+    "spanish": "llorar",
+    "italian": "piangere"
+  },
+  {
+    "word": "to whisk",
+    "german": "verquirlen",
+    "spanish": "batir",
+    "italian": "frullare"
+  },
+  {
+    "word": "to win over (to)",
+    "german": "gewinnen (für)",
+    "spanish": "convencer (a)",
+    "italian": "convincere (a)"
+  },
+  {
+    "word": "to wipe out",
+    "german": "auslöschen",
+    "spanish": "aniquilar",
+    "italian": "annientare"
+  },
+  {
+    "word": "to worship",
+    "german": "anbeten",
+    "spanish": "adorar",
+    "italian": "adorare"
+  },
+  {
+    "word": "to wrangle (about/over)",
+    "german": "streiten (über)",
+    "spanish": "discutir (sobre)",
+    "italian": "litigare (su)"
+  },
+  {
+    "word": "to wrestle with",
+    "german": "ringen mit",
+    "spanish": "luchar con",
+    "italian": "lottare con"
+  },
+  {
+    "word": "to write off",
+    "german": "abschreiben",
+    "spanish": "dar por perdido",
+    "italian": "considerare perso"
+  },
+  {
+    "word": "toffee",
+    "german": "Toffee",
+    "spanish": "caramelo toffee",
+    "italian": "toffee"
+  },
+  {
+    "word": "torso",
+    "german": "Torso",
+    "spanish": "torso",
+    "italian": "torso"
+  },
+  {
+    "word": "trail",
+    "german": "Spur",
+    "spanish": "rastro",
+    "italian": "sentiero"
+  },
+  {
+    "word": "trap",
+    "german": "Falle",
+    "spanish": "trampa",
+    "italian": "trappola"
+  },
+  {
+    "word": "trash heap",
+    "german": "Müllhaufen",
+    "spanish": "montón de basura",
+    "italian": "mucchio di spazzatura"
+  },
+  {
+    "word": "trifling",
+    "german": "unbedeutend",
+    "spanish": "insignificante",
+    "italian": "insignificante"
+  },
+  {
+    "word": "trinket",
+    "german": "Schmuckstück",
+    "spanish": "baratija",
+    "italian": "ninnolo"
+  },
+  {
+    "word": "trough",
+    "german": "Trog",
+    "spanish": "abrevadero",
+    "italian": "abbeveratoio"
+  },
+  {
+    "word": "turmoil",
+    "german": "Aufruhr",
+    "spanish": "agitación",
+    "italian": "tumulto"
+  },
+  { "word": "turnip", "german": "Rübe", "spanish": "nabo", "italian": "rapa" },
+  {
+    "word": "twist",
+    "german": "Drehung",
+    "spanish": "giro",
+    "italian": "torsione"
+  },
+  {
+    "word": "unblushingly",
+    "german": "unverschämt",
+    "spanish": "descaradamente",
+    "italian": "sfacciatamente"
+  },
+  {
+    "word": "undaunted",
+    "german": "unerschrocken",
+    "spanish": "impávido",
+    "italian": "imperterrito"
+  },
+  {
+    "word": "undeniable",
+    "german": "unleugbar",
+    "spanish": "indiscutible",
+    "italian": "innegabile"
+  },
+  {
+    "word": "underwear",
+    "german": "Unterwäsche",
+    "spanish": "ropa interior",
+    "italian": "biancheria intima"
+  },
+  {
+    "word": "unrelenting",
+    "german": "unnachgiebig",
+    "spanish": "implacable",
+    "italian": "implacabile"
+  },
+  {
+    "word": "unrest",
+    "german": "Unruhe",
+    "spanish": "disturbios",
+    "italian": "disordini"
+  },
+  {
+    "word": "unruly",
+    "german": "ungehorsam",
+    "spanish": "indisciplinado",
+    "italian": "indisciplinato"
+  },
+  {
+    "word": "unseemly",
+    "german": "unanständig",
+    "spanish": "indecoroso",
+    "italian": "indecente"
+  },
+  {
+    "word": "untamed",
+    "german": "ungezähmt",
+    "spanish": "salvaje",
+    "italian": "selvaggio"
+  },
+  { "word": "up", "german": "oben", "spanish": "arriba", "italian": "su" },
+  {
+    "word": "uppermost",
+    "german": "oberste",
+    "spanish": "supremo",
+    "italian": "sommo"
+  },
+  {
+    "word": "utter",
+    "german": "äußern",
+    "spanish": "pronunciar",
+    "italian": "pronunciare"
+  },
+  {
+    "word": "vapidity",
+    "german": "Geistlosigkeit",
+    "spanish": "vaciedad",
+    "italian": "vacuità"
+  },
+  {
+    "word": "vulture",
+    "german": "Geier",
+    "spanish": "buitre",
+    "italian": "avvoltoio"
+  },
+  { "word": "wad", "german": "Bündel", "spanish": "fajo", "italian": "pacco" },
+  {
+    "word": "wager",
+    "german": "Wette",
+    "spanish": "apuesta",
+    "italian": "scommessa"
+  },
+  {
+    "word": "ward",
+    "german": "Station",
+    "spanish": "sala",
+    "italian": "reparto"
+  },
+  {
+    "word": "warhead",
+    "german": "Sprengkopf",
+    "spanish": "cabeza nuclear",
+    "italian": "testata nucleare"
+  },
+  {
+    "word": "water table",
+    "german": "Grundwasserspiegel",
+    "spanish": "capa freática",
+    "italian": "falda acquifera"
+  },
+  {
+    "word": "wavering",
+    "german": "schwankend",
+    "spanish": "vacilante",
+    "italian": "vacillante"
+  },
+  {
+    "word": "weakling",
+    "german": "Schwächling",
+    "spanish": "débil",
+    "italian": "debole"
+  },
+  {
+    "word": "weird",
+    "german": "seltsam",
+    "spanish": "raro",
+    "italian": "strano"
+  },
+  {
+    "word": "well-attended",
+    "german": "gut besucht",
+    "spanish": "concurrido",
+    "italian": "affollato"
+  },
+  {
+    "word": "whim",
+    "german": "Laune",
+    "spanish": "capricho",
+    "italian": "capriccio"
+  },
+  {
+    "word": "wink",
+    "german": "Zwinkern",
+    "spanish": "guiño",
+    "italian": "occhiolino"
+  },
+  {
+    "word": "wishy-washy",
+    "german": "fadenscheinig",
+    "spanish": "indeciso",
+    "italian": "indeciso"
+  },
+  {
+    "word": "wit",
+    "german": "Witz",
+    "spanish": "ingenio",
+    "italian": "ingegno"
+  },
+  {
+    "word": "wizard",
+    "german": "Zauberer",
+    "spanish": "mago",
+    "italian": "mago"
+  },
+  {
+    "word": "woe",
+    "german": "Wehe",
+    "spanish": "aflicción",
+    "italian": "dolore"
+  },
+  {
+    "word": "woefully",
+    "german": "jämmerlich",
+    "spanish": "lamentablemente",
+    "italian": "lamentevolmente"
+  },
+  { "word": "wrath", "german": "Zorn", "spanish": "ira", "italian": "ira" },
+  {
+    "word": "wretched",
+    "german": "elend",
+    "spanish": "desdichado",
+    "italian": "miserabile"
+  }
+]

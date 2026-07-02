@@ -1,0 +1,1509 @@
+[{
+  "_id": {
+    "$oid": "68107aa76696990919b87b33"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "L'abito non fa il monaco",
+  "definition": "L'aparenza spesso è ingannevole e illusoria. Sotto un abito dimesso possiamo trovare un cuore generoso e un animo nobile, mentre l'eleganza o il lusso di un abbigliamento può nascondere orgoglio e disonestà",
+  "tema": null,
+  "keywords": [
+    "abito",
+    "monaco"
+  ],
+  "translations": {
+    "fr": "l'habit ne fait pas le moine",
+    "en": "The cowl does not make the monk",
+    "es": "El hábito no hace al monje",
+    "de": "Der Mantel macht keinen Mönch"
+  },
+  "date_entry": {
+    "$date": "1999-02-14T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b34"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi troppo abbraccia nulla stringe",
+  "definition": "I desideri esagerati difficilmente potranno essere soddisfatti. Chi comincia con il poco farà lunga strada; chi vuole presto e tutto resterà in \"panne\" lungo la strada die suoi  sogni",
+  "tema": null,
+  "keywords": [
+    "abbraciare",
+    "stringere"
+  ],
+  "translations": {
+    "fr": "Qui trop embrasse mal étreint",
+    "en": "Grasp all, lose all",
+    "es": "Quien mucho abarca, poco aprieta",
+    "de": "Wer zu viel umarmt, hält nichts"
+  },
+  "date_entry": {
+    "$date": "1999-02-14T00:00:00.000Z"
+  },
+  "random_number": 267,
+  "counter": 0,
+  "cumul": 4
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b35"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi accetta per piacere paga per dovere",
+  "definition": "Accettare un dono, un favore, una cortesia, ci impegna a restituirli..con gli interessi, appena si presentarà l'occasione.",
+  "tema": null,
+  "keywords": [
+    "accettare",
+    "dono"
+  ],
+  "translations": {
+    "fr": "Qui accepte par plaisir paie par devoir",
+    "en": "Who accepts by pleasure pays by duty",
+    "es": "Quien acepta por placer paga por deber",
+    "de": "Wer aus Vergnügen annimmt, zahlt aus Pflicht"
+  },
+  "date_entry": {
+    "$date": "1999-02-16T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b36"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi tace acconsente",
+  "definition": "Quando in una discussione non prendiamo una netta posizione è come se fossimo d'accordo sulla tesi proposta.Il proverbio viene usato anche per spingere qualcuno a chiarire la propria posizione a favore o contro oppure a chiudere una questione, quando si s",
+  "tema": null,
+  "keywords": [
+    "acconsentire",
+    "tacere"
+  ],
+  "translations": {
+    "fr": "Qui ne dit mot, consent",
+    "en": "Silence gives consent",
+    "es": "El que no dice nada, da su consentimiento",
+    "de": "Schweigen ist Zustimmung"
+
+
+  },
+  "date_entry": {
+    "$date": "1999-02-16T00:00:00.000Z"
+  },
+  "random_number": 353,
+  "counter": 0,
+  "cumul": 3
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b37"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi non si contenta del poco non sarà mai rico",
+  "definition": "La moderazione nei desideri facilita la loro soddisfazione; l'essagerazione la rende oltremodo difficile.",
+  "tema": null,
+  "keywords": [
+    "accontentarsi",
+    "contentarsi"
+  ],
+  "translations": {
+    "fr": "Qui ne se contente pas de peu ne sera jamais riche",
+    "en": "He who is not satisfied with little will never be rich",
+    "es": "Quien no se contenta con poco nunca será rico",
+    "de": "Wer nicht mit wenig zufrieden ist, wird nie reich sein"
+  },
+  "date_entry": {
+    "$date": "1999-02-17T00:00:00.000Z"
+  },
+  "random_number": 145,
+  "counter": 0,
+  "cumul": 3
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b38"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi s'accontenta è morto",
+  "definition": "Essere soddisfatti per un traguardo raggiunto è un bene; ma ci sono altri traguardi che ci aspettano; operare nelle giusta direzione è stimolante, è vitale per noi uomini; rimanere inerti e per sempre paghi..è la morte",
+  "tema": null,
+  "keywords": [
+    "accontentarsi",
+    "morte"
+  ],
+  "translations": {
+    "fr": "Qui se contente est mort",
+    "en": "He who is content is dead",
+    "es": "Quien se contenta está muerto",
+    "de": "Wer zufrieden ist, ist tot"
+  },
+  "date_entry": {
+    "$date": "1999-02-17T00:00:00.000Z"
+  },
+  "random_number": 290,
+  "counter": 0,
+  "cumul": 3
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b39"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Meglio un accordo magro che una sentenza grassa",
+  "definition": "È preferibile cercare un accordo conveniente per ambedue le parti, accettando le eventuali perdite, piuttosto che impegolarsi in una lunga lite, senza la sicurezza della vittoria finale.",
+  "tema": null,
+  "keywords": [
+    "accordo",
+    "sentenza"
+  ],
+  "translations": {
+    "fr": "Mieux vaut un accord maigre qu'une sentence grasse",
+    "en": "Better a lean agreement than a fat sentence",
+    "es": "Mejor un acuerdo magro que una sentencia gorda",
+    "de": "Besser ein dünnes Einvernehmen als ein dickes Urteil"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-18T00:00:00.000Z"
+  },
+  "random_number": 8,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b3a"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Quando si mettono d'accordo, le formiche possono trasportare un elefante.",
+  "definition": "L'unione fa la forza",
+  "tema": null,
+  "keywords": [
+    "accordo",
+    "formiche"
+  ],
+  "translations": {
+    "fr": "Quand elles s'accordent, les fourmis peuvent transporter un éléphant.",
+    "en": "When they agree, the ants can carry an elephant.",
+    "es": "Cuando se ponen de acuerdo, las hormigas pueden transportar un elefante.",
+    "de": "Wenn sie übereinstimmen, können die Ameisen einen Elefant tragen."
+  },
+  "date_entry": {
+    "$date": "1999-02-18T00:00:00.000Z"
+  },
+  "random_number": 388,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b3b"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Acqua di maggio: pane per tutto l'anno",
+  "definition": "Le piogge di maggio sono benefiche per i seminati",
+  "tema": null,
+  "keywords": [
+    "acqua",
+    "maggio"
+  ],
+  "translations": {
+    "fr": "Pluie de mai : pain pour toute l'année",
+    "en": "May rain: bread for the whole year",
+    "es": "Lluvia de mayo: pan para todo el año",
+    "de": "Mai Regen: Brot für das ganze Jahr"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-18T00:00:00.000Z"
+  },
+  "random_number": 560,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b3c"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Acqua passata non macina più",
+  "definition": "Certi sentimenti, comportamenti o azioni, che in altri tempi avevano per noi valore, con l'andar del tempo hanno attenuato la loro carica dirompente perdendola del tutto. Quindi è inutile ripensare al passato che non torna più.",
+  "tema": null,
+  "keywords": [
+    "acqua",
+    "macinare"
+  ],
+  "translations": {
+    "fr": "Le temps perdu ne se rattrape jamais",
+    "en": "Let bygones be bygones",
+    "de": "Was verlorene Zeit ist, kann nicht mehr zurückgewonnen werden"
+  },
+  "date_entry": {
+    "$date": "1999-02-18T00:00:00.000Z"
+  },
+  "random_number": 29,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b3d"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Ad ogni gran sete ogni acqua è buona",
+  "definition": "Nela necessità naturali ogni cosa serve; nella vita sociale ogni aiuto, consiglio, suggerimento dato nel bisogno può essere un sollievo.",
+  "tema": null,
+  "keywords": [
+    "acqua",
+    "sete"
+  ],
+  "translations": {
+    "fr": "À grande soif toute eau est bonne",
+    "en": "At great thirst, every water is good",
+    "es": "En la gran sed, cualquier agua es buena",
+    "de": "Bei großer Durst ist jedes Wasser gut"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 27,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b3e"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "La prima acqua è quella che bagna",
+  "definition": "È il primo contatto con una realtà dolorosa che ci fa soffrire di più. Il primo impatto con una disgrazia, con un avvenimiento spiacevole viene riccordato sempre, anche se poi ci si abitua.",
+  "tema": null,
+  "keywords": [],
+  "translations": {
+    "fr": "La première eau est celle qui mouille",
+    "en": "The first water is the one that wets",
+    "es": "La primera agua es la que moja",
+    "de": "Das erste Wasser ist das, das nass macht"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 511,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b3f"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Non prendere l'acqua col paniere",
+  "definition": "(Si tira l'acqua dal pozzo col secchio e non col paniere che la farebbe disperdere tutta)\nOpera giudiziosamente, usando i mezzi più efficaci ed opportuni per raggiungere l'obiettivo.",
+  "tema": "Non portar l'acqua nel vaglio",
+  "keywords": [],
+  "translations": {
+    "fr": "Ne prends pas l'eau avec le panier",
+    "en": "Don't take the water with the basket",
+    "es": "No tomes el agua con la canasta",
+    "de": "Nimm das Wasser nicht mit dem Korb"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 675,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b40"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Acquista e non dire niente; sposati e dillo a tutti",
+  "definition": "L'acquisto di un bene materiale può causare invidia e scatenare interessi; partecipare il propio matrimonio significa voler transmettere la propia felicità agli altri.",
+  "tema": null,
+  "keywords": [
+    "acquistare",
+    "sposarsi"
+  ],
+  "translations": {
+    "fr": "Achète et ne dis rien ; marie-toi et dis-le à tout le monde",
+    "en": "Buy and say nothing; marry and tell everyone",
+    "es": "Compra y no digas nada; casa y dile a todos",
+    "de": "Kaufe und sage nichts; heirate und erzähle es allen"
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 509,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b41"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi non arrischia non acquista",
+  "definition": "Il rischio fa parte integrante di ogni negozio o affare.",
+  "tema": null,
+  "keywords": [
+    "acquistare",
+    "arrischiare"
+  ],
+  "translations": {
+    "fr": "Qui ne risque rien n'acquiert rien",
+    "en": "He who risks nothing gains nothing",
+    "es": "Quien no arriesga nada, no gana nada",
+    "de": "Wer nichts riskiert, gewinnt nichts"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 355,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b42"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Affare divulgato è mezzo rovinato",
+  "definition": "No definition",
+  "tema": null,
+  "keywords": [
+    "affare"
+  ],
+  "translations": {
+    "fr": "L'affaire révélée est moitié ruinée",
+    "en": "A revealed deal is half ruined",
+    "es": "Un trato revelado está medio arruinado",
+    "de": "Ein enthüllter Deal ist zur Hälfte zerstört"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 658,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b43"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Gli affari sono affari",
+  "definition": "È il motto degli operatori finanziari e commerciali che hanno come scopo delle loro attività soltanto il lucro.",
+  "tema": null,
+  "keywords": [
+    "affare"
+  ],
+  "translations": {
+    "fr": "Les affaires sont les affaires",
+    "en": "Business is business",
+    "es": "Los negocios son los negocios",
+    "de": "Geschäft ist Geschäft"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 187,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b44"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Aiutati mentre puoi",
+  "definition": "Mentre hai tempo, salute e possibilità economiche, cerca di realizzare quanto ti sei prefisso, senza dilazionare.",
+  "tema": null,
+  "keywords": [
+    "aiutare"
+  ],
+  "translations": {
+    "fr": "Aide-toi tant que tu le peux",
+    "en": "Help yourself while you can",
+    "es": "Ayúdate mientras puedas",
+    "de": "Hilf dir selbst, solange du kannst"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 663,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b45"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "A sè l'aiuto nega, chi ad altri il nega\nChi ad altri nega aiuto, a sè lo nega",
+  "definition": "La solidarietà verso gli altri si reflette su di noi in bene; la nostra insensibilità ai bisogni degli altri si riversa su di noi rendendoci gretti e meschini.",
+  "tema": null,
+  "keywords": [
+    "aiuto"
+  ],
+  "translations": {
+    "fr": "Celui qui refuse son aide aux autres se la refuse à lui-même",
+    "en": "He who refuses help to others refuses it to himself",
+    "es": "Quien niega ayuda a los demás, se la niega a sí mismo",
+    "de": "Wer anderen hilft, hilft sich selbst"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 381,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b46"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Ad albero caduto, ognuno accorre e fa legna",
+  "definition": "Chi decade economicamente perdendo il suo prestigio è oggetto di angherie, di soprusi e di derisioni da parte di chi gode della sua sventura e ne approfitta cinicamente.",
+  "tema": null,
+  "keywords": [
+    "albero",
+    "fegna"
+  ],
+  "translations": {
+    "fr": "Quand l'arbre est tombé, chacun court et fait du bois",
+    "en": "When the tree falls, everyone runs to cut wood",
+    "es": "Cuando el árbol cae, todos corren a cortar leña",
+    "de": "Wenn der Baum fällt, rennen alle, um Holz zu sägen"
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b47"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "L'albero buono ha più radici",
+  "definition": "Le radici danno solidità all'albero; più sono ramificate più lo sostengono.Gli uomini buoni hanno una grande forza d'animo con la quale affrontano le avvers\nGli uomini buoni hanno una grande forza d'animo con la quale affrontano le avversità serenamente.",
+  "tema": null,
+  "keywords": [
+    "albero"
+  ],
+  "translations": {
+    "fr": "L'arbre bon a plus de racines",
+    "en": "The good tree has more roots",
+    "es": "El árbol bueno tiene más raíces",
+    "de": "Der gute Baum hat mehr Wurzeln"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 693,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b48"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "L'albero como cresce così resta.",
+  "definition": "Le buone abitudini si prendono fin dai primi anni. È molto difficile cambiarle da adulti; esse ci seguiranno per tutta la vita.",
+  "tema": null,
+  "keywords": [
+    "albero"
+  ],
+  "translations": {
+    "fr": "L'arbre pousse comme il restera",
+    "en": "The tree grows as it will remain",
+    "es": "El árbol crece como se quedará",
+    "de": "Der Baum wächst, wie er bleiben wird"
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 353,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b49"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "L'albero mentre è piccolo si raddrizza.",
+  "definition": "(Gli alberelli si possono ancora raddrizzare perché sono teneri, ma quando diventano alberi ogni sforzo sarà vano.)\nUm bambino somiglia ad una tenera pianticella bisognosa di sostegno.",
+  "tema": null,
+  "keywords": [
+    "albero",
+    "raddrizzare"
+  ],
+  "translations": {
+    "fr": "L'arbre se redresse quand il est encore petit",
+    "en": "The tree straightens while it is small",
+    "es": "El árbol se endereza mientras es pequeño",
+    "de": "Der Baum richtet sich aus, während er klein ist"
+
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 607,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b4a"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "L'albero vecchio son si piega.",
+  "definition": "I vecchi non cambiano carattere e modo di vita.",
+  "tema": null,
+  "keywords": [
+    "albero",
+    "piegare"
+  ],
+  "translations": {
+    "fr": "L'arbre vieux se plie",
+    "en": "The old tree bends",
+    "es": "El árbol viejo se dobla",
+    "de": "Der alte Baum beugt sich"
+  },
+  "date_entry": {
+    "$date": "1999-02-20T00:00:00.000Z"
+  },
+  "random_number": 475,
+  "counter": 0,
+  "cumul": 1
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b4b"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi s'accontenta gode",
+  "definition": "Godere per la posizione raggiunta procura una grande soddisfazione interiore. Agognare sempre nuove mete irraggiungibili può causare turbamento, ansia e infelicità.",
+  "tema": null,
+  "keywords": [
+    "accontentarsi"
+  ],
+  "translations": {
+    "fr": "Contentement passe richesse",
+    "en": "A contented mind is a perpetual feast",
+    "es": "Una mente contenta es un festín perpetuo",
+    "de": "Ein zufriedener Geist ist ein ewiges Fest"
+
+  },
+  "date_entry": {
+    "$date": "2005-04-02T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b4c"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Meglio un cattivo accordo che una buona lite",
+  "definition": "L'unione armonica d'idee, d'intenti, di sentimenti e di affetti può far miracoli in qualsiasi campo dell'azione umana.",
+  "tema": null,
+  "keywords": [
+    "accordo",
+    "lite"
+  ],
+  "translations": {
+    "fr": "Mieux vaut un mauvais accord qu'un bon procès",
+    "en": "Better a lean agreement than a fat sentence",
+    "es": "Mejor un acuerdo magro que una buena pelea",
+    "de": "Besser ein schmaler Vertrag als ein fetter Urteil"
+
+  },
+  "date_entry": {
+    "$date": "2005-04-02T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b4d"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Le acqua chete rovinano i ponti",
+  "definition": "Spesso, sotto un'apparente serenità, negli uomini si nascondono malizia, cattiveria, volontà di affermazione che esplodono al momento opportuno, causando danni a volte irreparabili.",
+  "tema": null,
+  "keywords": [
+    "acqua",
+    "ponti"
+  ],
+  "translations": {
+    "fr": "Méfiez-vous de l'eau qui dort.Il n'est pire eau que l'eau qui dort.",
+    "en": "Still waters run deep",
+    "es": "Agua que no has de beber, déjala correr",
+    "de": "Stille Wasser laufen tief"
+  },
+  "date_entry": {
+    "$date": "2005-04-02T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b4e"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Sotto l'acqua fame, sotto la neve pane",
+  "definition": "= le piogge continue e abbondanti d'inverno danneggiano i seminati; la neve, invece, li copre col suo manto bianco riparandoli dal gelo.",
+  "tema": null,
+  "keywords": [
+    "acqua",
+    "neve"
+  ],
+  "translations": {
+    "fr": "L'eau donne la faim, la neige le pain.",
+    "en": "When the water is scarce, the snow is bread.",
+    "es": "Cuando el agua es escasa, la nieve es pan.",
+    "de": "Wenn das Wasser knapp ist, ist die Schnee das Brot."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-03T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b4f"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi acquista il superfluo spesso vende il necessario",
+  "definition": "= chi mon si sa limitare nelle spese finirà col perdere tutto",
+  "tema": null,
+  "keywords": [
+    "acquistare",
+    "necesario"
+  ],
+  "translations": {
+    "fr": "Qui achète le superflu vend souvent le nécessaire",
+    "en": "He who buys the superfluous often sells the necessary",
+    "es": "Quien compra lo superfluo a menudo vende lo necesario",
+    "de": "Wer das Überflüssige kauft, verkauft oft das Notwendige"
+
+  },
+  "date_entry": {
+    "$date": "2005-04-03T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b50"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Albero che non fa frutto, taglialo dalle radici",
+  "definition": "Il frutto rivela la bontà di un albero. Le opere rivelano l´operosità umana.",
+  "tema": null,
+  "keywords": [
+    "albero",
+    "frutto"
+  ],
+  "translations": {
+    "fr": "L'arbre qui ne donne pas de fruit, coupez-le aux racines.",
+    "en": "An unfruitful tree should be cut down at the roots.",
+    "es": "Un árbol que no da fruto, córtalo por las raíces.",
+    "de": "Ein unfruchtbarer Baum sollte an den Wurzeln abgeschnitten werden."
+  },
+  "date_entry": {
+    "$date": "2005-04-03T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b51"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Albero in mezzo alla strada, chi passa lo scuote",
+  "definition": "= Ciò che è sulla strada appartiene a chi passa.",
+  "tema": "Chi semina sulla strada, stanca i buoi e perde la semenza",
+  "keywords": [],
+  "translations": {
+    "fr": "Un arbre qui ne donne pas de fruit, coupe-le à la racine",
+    "en": "An unfruitful tree should be cut down at the roots.",
+    "es": "Un árbol que no da fruto, córtalo por las raíces.",
+    "de": "Ein unfruchtbarer Baum sollte an den Wurzeln abgeschnitten werden."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-03T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b52"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "L'albero si conosce dal frutto",
+  "definition": "Anche l'uomo si riconosce dai suoi frutti che sono le sue opere.",
+  "tema": null,
+  "keywords": [],
+  "translations": {
+    "fr": "C'est au fruit qu'on connaît l'arbre.",
+    "en": "You will know the tree by its fruit.",
+    "es": "Se conoce el árbol por su fruto.",
+    "de": "Man erkennt den Baum an seinen Früchten."
+  },
+  "date_entry": {
+    "$date": "2005-04-03T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b53"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Per un giorno di allegrezza mille di scontentezza",
+  "definition": "A volte una gioia o un piacere sono scontati amaramente e per lungo tempo",
+  "tema": "Per un dì di gioa, se ne ha mille di noia",
+  "keywords": [
+    "allegrezza",
+    "scontentezza"
+  ],
+  "translations": {
+    "fr": "Pour un jour de joie, mille jours de mécontentement",
+    "en": "For one day of joy, a thousand days of discontent",
+    "es": "Por un día de alegría, mil días de descontento",
+    "de": "Für einen Tag der Freude, tausend Tage der Unzufriedenheit"
+
+  },
+  "date_entry": {
+    "$date": "2005-04-04T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b54"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Quando l'allegrezza è in casa la disgrazia è dietro la porta",
+  "definition": "Spesso il dolore subentra alla gioia. Il tono del proverbio è fatalistico e nella realtà non c'è nessuna connessione logica di causa-effetto.",
+  "tema": "A maggior felicità minor fede",
+  "keywords": [
+    "allegrezza",
+    "disgrazia"
+  ],
+  "translations": {
+    "fr": "Quand la joie est dans la maison, la malchance est derrière la porte.",
+    "en": "When joy is in the house, misfortune is behind the door.",
+    "es": "Cuando la alegría está en la casa, la desgracia está detrás de la puerta.",
+    "de": "Wenn Freude im Haus ist, ist Unglück hinter der Tür."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-04T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b55"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Gente allegra il Ciel (Dio) l'aiuta",
+  "definition": "La giovalità e la serenità dello spirito attirano simpatia, amicizia ed appoggio; inoltre ci spingono ad operare con solerzia e ci rendono forti contro le avversità e i disinganni della vita.",
+  "tema": null,
+  "keywords": [
+    "allegro",
+    "Dio"
+  ],
+  "translations": {
+    "fr": "Gaieté porte bonheur.",
+    "en": "Cheerfulness brings happiness.",
+    "es": "La alegría trae felicidad.",
+    "de": "Fröhlichkeit bringt Glück."
+  },
+  "date_entry": {
+    "$date": "2005-04-04T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b56"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Infelice chi ha bisogno degli altri",
+  "definition": "È una dichiarazione di scetticismo sul valore della solidarietà umana. Il mondo, per andare avanti, ha bisogno ancora di pioneri che segnino la strada da percorrere, pagando di persona con generosità e con altruismo.",
+  "tema": "Non c'è peggior minestra di quella die frati.",
+  "keywords": [
+    "altri",
+    "infelice"
+  ],
+  "translations": {
+    "fr": "Malheureux celui qui a besoin des autres",
+    "en": "Unhappy is the one who needs others",
+    "es": "Infeliz es el que necesita de los demás",
+    "de": "Unglücklich ist der, der von anderen abhängt"
+
+  },
+  "date_entry": {
+    "$date": "2005-04-04T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b57"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Una volta che sei diventato maestro in una cosa, diventa subito allievo in un'altra.",
+  "definition": "Come al cuore è concesso il riposo, così non concediamo soste alle nostre capacità intellettive ed operative.",
+  "tema": null,
+  "keywords": [
+    "maestro",
+    "allievo"
+  ],
+  "translations": {
+    "fr": "Une fois que tu es devenu maître en une chose, deviens immédiatement élève en une autre.",
+    "en": "Once you have become a master in one thing, you become a student in another.",
+    "es": "Una vez que has llegado a ser maestro en algo, te conviertes en alumno en otra cosa.",
+    "de": "Sobald du ein Meister in etwas geworden bist, wirst du sofort ein Schüler in etwas anderem."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-04T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b58"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Amare e non essere amato è tempo perso.",
+  "definition": "L'amore vero richiede il contraccambio; se questo manca, l'amore non è altro che una fiamma destinata a spegnersi o a bruciare inutilmente..con molto fumo e niente..arrosto.",
+  "tema": null,
+  "keywords": [
+    "amare",
+    "tempo"
+  ],
+  "translations": {
+    "fr": "Aimer et ne pas être aimé est perdre du temps.",
+    "en": "To love and not to be loved is to waste time.",
+    "es": "Amar y no ser amado es perder el tiempo.",
+    "de": "Lieben und nicht geliebt werden ist Zeitverschwendung."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-04T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b59"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Amato non sarai, se a te solo penserai.",
+  "definition": "L'egoismo ci allontana dagli altri e ci rende aridi.",
+  "tema": null,
+  "keywords": [
+    "amare"
+  ],
+  "translations": {
+    "fr": "Celui qui n'aime pas les autres ne sera pas aimé.",
+    "en": "The one who does not love others will not be loved.",
+    "es": "El que no ama a los demás no será amado.",
+    "de": "Derjenige, der andere nicht liebt, wird nicht geliebt werden."
+  },
+  "date_entry": {
+    "$date": "2005-04-04T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b5a"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi ama l'albero, ama la rana.",
+  "definition": "Chi vuol bene ad una persona deve anche accettare i suoi familiari e l'ambiente in cui vivono.",
+  "tema": null,
+  "keywords": [
+    "amare",
+    "albero"
+  ],
+  "translations": {
+    "fr": "Celui qui aime l'arbre, aime la grenouille.",
+    "en": "He who loves the tree, loves the frog.",
+    "es": "El que ama el árbol, ama la rana.",
+    "de": "Wer den Baum liebt, liebt den Frosch."
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b5b"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi vuol essere amato convien che ami.",
+  "definition": "L'amore richiede reciprocità, non può vivere in solitudine.",
+  "tema": null,
+  "keywords": [
+    "amare"
+  ],
+  "translations": {
+    "fr": "Celui qui veut être aimé doit aimer.",
+    "en": "He who wants to be loved must love.",
+    "es": "El que quiere ser amado debe amar.",
+    "de": "Wer geliebt werden will, muss lieben."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b5c"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Non è degno d'essere amato chi non ama.",
+  "definition": "Non è meritevole di essere amato chi non ricambia l'amore. Non possiamo, d'altra parte, imporre ad altri un sentimento che non provano.",
+  "tema": null,
+  "keywords": [
+    "amare"
+  ],
+  "translations": {
+    "fr": "Celui qui n'aime pas les autres ne sera pas aimé.",
+    "en": "He who does not love others will not be loved.",
+    "es": "El que no ama a los demás no será amado.",
+    "de": "Derjenige, der andere nicht liebt, wird nicht geliebt werden."
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b5d"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Tanto più si ama, meno si conosce",
+  "definition": "L'amore non tiene conto die piccoli difetti della persona amata.",
+  "tema": null,
+  "keywords": [
+    "amare"
+  ],
+  "translations": {
+    "fr": "Plus on aime, moins on connaît.",
+    "en": "The more you love, the less you know.",
+    "es": "Cuanto más amas, menos conoces.",
+    "de": "Je mehr man liebt, desto weniger weiß man."
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b5e"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Dove c'é radicata la malizia non può mai allignare l'amicizia.",
+  "definition": "L'amicizia non può prosperare dove c'è malizia. Il rapporto amichevole è fondato sulla trasparenza, sulla sincerità reciproca ed esclude ogni doppiezza, inganno, falsità.",
+  "tema": null,
+  "keywords": [
+    "amicizia"
+  ],
+  "translations": {
+    "fr": "Dans la maison où règne la malice, l'amitié ne peut jamais fleurir.",
+    "en": "In the house where malice reigns, friendship can never flourish.",
+    "es": "En la casa donde reina la malicia, la amistad nunca puede florecer.",
+    "de": "In der Wohnung, wo Bosheit herrscht, kann Freundschaft nie blühen."
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b5f"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Ama l'amico tuo col vizio suo.",
+  "definition": "È un invito ad accettare gli amici come sono, con i loro difetti e le loro limitazioni, come li abbiamo anche noi.",
+  "tema": null,
+  "keywords": [
+    "amicizia"
+  ],
+  "translations": {
+    "fr": "Aime ton ami avec ses défauts.",
+    "en": "Love your friend with their faults.",
+    "es": "Ama a tu amigo con sus defectos.",
+    "de": "Liebe deinen Freund mit seinen Fehlern."
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b60"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Amico di ventura, molto briga e poco dura.",
+  "definition": "Le amicizie fatte nei viaggi, cioè di passaggio, sono fiammate che durano poco perché passeggere.",
+  "tema": null,
+  "keywords": [
+    "amicizia"
+  ],
+  "translations": {
+    "fr": "Ami de passage, beaucoup de peine et peu de durabilité.",
+    "en": "A friend of the road, much trouble and little durability.",
+    "es": "Un amigo de paso, muchas dificultades y poca durabilidad.",
+    "de": "Ein Freund der Straße, viel Mühe und wenig Haltbarkeit."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b61"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Amico vicino vale più di un parente lontano.",
+  "definition": "Un amico che sta vicino a noi è da preferirsi ad un parente lontano, che nel bisogno non può aiutarci. La vicinanza favorisce e nutre il rapporto umano.",
+  "tema": "Meglio un prossimo vicino che un lontano cugino.",
+  "keywords": [
+    "amicizia",
+    "parente"
+  ],
+  "translations": {
+    "fr": "L'ami proche vaut plus qu'un parent éloigné.",
+    "en": "A close friend is worth more than a distant relative.",
+    "es": "Un amigo cercano vale más que un pariente lejano.",
+    "de": "Ein näherer Freund ist wertvoller als ein entfernter Verwandter."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b62"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Buono è l'amico, buono è il parente ma trista quella casa dove non si trova niente.",
+  "definition": "La miseria in una casa non può essere sostituita né dalla buona volontà dell'amico né dalla disponibilità occasionale dei parenti. È una fonte di infelicità che dovrebbe essere eliminata con altri mezzi.",
+  "tema": null,
+  "keywords": [
+    "amicizia"
+  ],
+  "translations": {
+    "fr": "Un ami bon, un parent bon, mais malheureuse est la maison où il n'y a rien.",
+    "en": "A good friend, a good relative, but unhappy is the house where there is nothing.",
+    "es": "Un buen amigo, un buen pariente, pero infeliz es la casa donde no se encuentra nada.",
+    "de": "Ein guter Freund, ein guter Verwandter, aber unglücklich ist das Haus, wo nichts zu finden ist."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-07T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b63"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Dalla casa del lavoro miseria e malinconia scappano.",
+  "definition": "Chi è intento al suo lavoro non ha tempo di essere melanconico e, col tempo, riuscirà ad avere una buona situazione economica.",
+  "tema": null,
+  "keywords": [
+    "lavoro"
+  ],
+  "translations": {
+    "fr": "Dans la maison où règne la misère et la mélancolie, les gens du travail s'échappent.",
+    "en": "From the house of work, misery and melancholy escape.",
+    "es": "De la casa del trabajo, la miseria y la melancolía huyen.",
+    "de": "Aus dem Haus des Arbeitens fliehen Armut und Melancholie."
+  },
+  "date_entry": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b64"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Il lavoro ti insegnerà a lavorare.",
+  "definition": "L'esercizio di una attività è palestra di addestramento.",
+  "tema": null,
+  "keywords": [
+    "lavoro"
+  ],
+  "translations": {
+    "fr": "Le travail t'apprendra à travailler.",
+    "en": "Work will teach you to work.",
+    "es": "El trabajo te enseñará a trabajar.",
+    "de": "Arbeit wird dich lehren zu arbeiten."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b65"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Un buon lavoro vale due patrimoni.",
+  "definition": "Un mestiere, una professione ben retribuiti valgono più dei beni che si possiedono.",
+  "tema": null,
+  "keywords": [
+    "lavoro"
+  ],
+  "translations": {
+    "fr": "Un bon travail vaut deux patrimoines.",
+    "en": "A good job is worth two fortunes.",
+    "es": "Un buen trabajo vale dos patrimonios.",
+    "de": "Ein guter Job ist wert zwei Schätzen."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b66"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi d'estate non lavora nell'inverno perde la coda.",
+  "definition": "È un invito alla previdenza.",
+  "tema": null,
+  "keywords": [
+    "lavorare"
+  ],
+  "translations": {
+    "fr": "Celui qui ne travaille pas en été perd la queue en hiver.",
+    "en": "He who does not work in summer loses his tail in winter.",
+    "es": "Quien no trabaja en verano pierde la cola en invierno.",
+    "de": "Wer im Sommer nicht arbeitet, verliert im Winter seinen Schwanz."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b67"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi ha lavorato vuol essere pagato.",
+  "definition": "Ogni lavoro deve essere retribuito degnamente",
+  "tema": null,
+  "keywords": [
+    "lavorare"
+  ],
+  "translations": {
+    "fr": "Celui qui a travaillé veut être payé.",
+    "en": "He who has worked wants to be paid.",
+    "es": "Quien ha trabajado quiere ser pagado.",
+    "de": "Wer gearbeitet hat, will bezahlt werden."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b68"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Chi vuol riposare convien lavorare",
+  "definition": "L'onesto guadagno è legato all'onesto lavoro.",
+  "tema": null,
+  "keywords": [
+    "lavorare"
+  ],
+  "translations": {
+    "fr": "Celui qui veut se reposer doit travailler.",
+    "en": "He who wants to rest must work.",
+    "es": "Quien quiere descansar debe trabajar.",
+    "de": "Wer ruhen will, muss arbeiten."
+
+  },
+  "date_entry": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa76696990919b87b69"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "Il primo mezzo per acquistare è lavorare",
+  "definition": "Il lavoro è la fonte primaria del reddito con cui si possono acquistare i beni necessari alla vita.",
+  "tema": null,
+  "keywords": [
+    "lavorare"
+  ],
+  "translations": {
+    "fr": "Le travail est le premier moyen d'acquérir.",
+    "en": "Work is the first means of acquiring.",
+    "es": "El trabajo es el primer medio para adquirir.",
+    "de": "Arbeit ist das erste Mittel des Erwerbs."
+  },
+  "date_entry": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+},
+{
+  "_id": {
+    "$oid": "68107aa86696990919b87b6a"
+  },
+  "language_id": {
+    "$oid": "67bed42569a3680a95974aab"
+  },
+  "proverb": "L'uomo fu creato per lavorare come l'uccello per volare.",
+  "definition": "",
+  "tema": null,
+  "keywords": [
+    "lavorare"
+  ],
+  "translations": {
+    "fr": "L'homme a été créé pour travailler comme l'oiseau pour voler.",
+    "en": "No man is born into the world, whose work is not born with him.",
+    "es": "El hombre fue creado para trabajar como el pájaro para volar.",
+    "de": "Der Mensch wurde zum Arbeiten geschaffen, wie der Vogel zum Fliegen."
+  },
+  "date_entry": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "random_number": 0,
+  "counter": 0,
+  "cumul": 0
+}]

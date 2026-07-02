@@ -1,0 +1,604 @@
+[
+  {
+    "first_image": "/fruits/apfel.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Apple" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Manzana" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mela" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Apfel" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Pomme" }
+    ],
+    "category": "fruits"
+  },
+  {
+    "first_image": "/fruits/birne.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Pear" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Pera" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Pera" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Birne" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Poire" }
+    ],
+    "category": "fruits"
+  },
+  {
+    "first_image": "/fruits/quitte.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Quince" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Membrillo" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Cotogna" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Quitte" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Coing" }
+    ],
+    "category": "fruits"
+  },
+  {
+    "first_image": "/fruits/nashi_birne.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Nashi Pear" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Pera Nashi" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Pera Nashi" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Nashi-Birne" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Poire Nashi" }
+    ],
+    "category": "fruits"
+  },
+  {
+    "first_image": "/fruits/mispel.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Medlar" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Níspero" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Nespola" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Mispel" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Néflier" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/kirsche.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Cherry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Cereza" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Ciliegia" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Kirsche" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Cerise" }
+    ],
+    "category": "fruits"
+  },
+  {
+    "first_image": "/fruits/pflaume.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Plum" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Ciruela" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Prugna" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Pflaume" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Prune" }
+    ],
+    "category": "fruits"
+  },
+  {
+    "first_image": "/fruits/pfirsich.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Peach" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Durazno" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Pesca" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Pfirsich" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Pêche" }
+    ],
+    "category": "fruits"
+  },
+  {
+    "first_image": "/fruits/nektarine.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Nectarine" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Nectarina" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Nettarina" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Nektarine" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Nectarine" }
+    ],
+    "category": "fruits"
+  },
+  {
+    "first_image": "/fruits/aprikose.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Apricot" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Albaricoque" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Albicocca" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Aprikose" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Abricot" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/mirabelle.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Mirabelle Plum" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Ciruela Mirabel" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mirabella" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Mirabelle" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Mirabelle" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/zwetschge.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Damson" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Ciruela Damasco" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Susina" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Zwetschge" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Prune de Damas" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/erdbeere.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Strawberry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Fresa" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Fragola" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Erdbeere" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Fraise" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/himbeere.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Raspberry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Frambuesa" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Lampone" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Himbeere" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Framboise" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/brombeere.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Blackberry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Mora" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mora" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Brombeere" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Mûre" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/heidelbeere.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Blueberry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Arándano azul" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mirtillo" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Heidelbeere" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Myrtille" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/johannisbeere.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Currant" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Grosella" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Ribes" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Johannisbeere" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Groseille" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/stachelbeere.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Gooseberry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Grosella espinosa" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Uva spina" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Stachelbeere" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Groseille à maquereau" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/cranberry.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Cranberry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Arándano rojo" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mirtillo rosso" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Cranberry" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Cranberry" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/holunderbeere.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Elderberry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Baya de saúco" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Sambuca" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Holunderbeere" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Baie de sureau" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/preiselbeere.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Lingonberry" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Arándano rojo europeo" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mirtillo rosso artico" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Preiselbeere" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Airelle" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/orange.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Orange" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Naranja" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Arancia" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Orange" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Orange" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/zitrone.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Lemon" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Limón" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Limone" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Zitrone" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Citron" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/limette.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Lime" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Lima" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Lime" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Limette" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Citron vert" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/mandarine.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Mandarin" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Mandarina" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mandarino" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Mandarine" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Mandarine" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/grapefruit.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Grapefruit" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Pomelo" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Pompelmo" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Grapefruit" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Pamplemousse" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/blutorange.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Blood Orange" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Naranja sanguina" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Arancia rossa" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Blutorange" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Orange sanguine" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/pomelo.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Pomelo" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Pomelo" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Pompelmo" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Pomelo" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Pomelo" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/kumquat.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Kumquat" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Kumquat" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Kumquat" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Kumquat" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Kumquat" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/banane.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Banana" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Banana" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Banana" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Banane" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Banane" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/mango.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Mango" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Mango" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mango" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Mango" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Mangue" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/ananas.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Pineapple" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Piña" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Ananas" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Ananas" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Ananas" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/kiwi.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Kiwi" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Kiwi" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Kiwi" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Kiwi" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Kiwi" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/avocado.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Avocado" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Aguacate" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Avocado" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Avocado" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Avocat" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/granatapfel.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Pomegranate" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Granada" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Melograno" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Granatapfel" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Grenade" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/papaya.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Papaya" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Papaya" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Papaya" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Papaya" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Papaye" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/feige.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Fig" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Higo" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Fico" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Feige" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Figue" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/dattel.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Date" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Dátil" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Dattero" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Dattel" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Datte" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/litschi.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Lychee" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Lichi" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Litchi" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Litschi" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Litchi" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/drachenfrucht.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Dragon Fruit" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Fruta del dragón" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Frutto del drago" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Drachenfrucht" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Fruit du dragon" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/guave.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Guava" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Guayaba" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Guaiava" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Guave" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Goyave" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/walnuss.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Walnut" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Nuez" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Noce" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Walnuss" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Noix" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/haselnuss.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Hazelnut" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Avellana" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Nocciola" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Haselnuss" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Noisette" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/mandel.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Almond" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Almendra" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Mandorla" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Mandel" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Amande" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/pistazie.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Pistachio" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Pistacho" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Pistacchio" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Pistazie" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Pistache" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/cashew.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Cashew" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Anacardo" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Anacardio" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Cashew" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Noix de cajou" }
+    ],
+    "category": "fruits"
+  },
+
+  {
+    "first_image": "/fruits/erdnuss.jpg",
+    "second_image": null,
+    "translations": [
+      { "language_id": { "$oid": "67bed42569a3680a95974aa9" }, "translation": "Peanut" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aaa" }, "translation": "Cacahuete" },
+      { "language_id": { "$oid": "67bed42569a3680a95974aab" }, "translation": "Arachide" },
+      { "language_id": { "$oid": "67bed4528f87b8e3161ad51b" }, "translation": "Erdnuss" },
+      { "language_id": { "$oid": "680b9178e6c767baf3bc3803" }, "translation": "Cacahuète" }
+    ],
+    "category": "fruits"
+  }
+]

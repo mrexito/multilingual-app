@@ -1,0 +1,23 @@
+{
+  "homepage": {
+    "title": "Bienvenue là où vous pouvez améliorer vos compétences linguistiques.",
+    "description": "Plongez dans notre plateforme dynamique d'apprentissage des langues, où vous pouvez améliorer vos compétences grâce à des exercices interactifs, des traductions authentiques et des outils de pratique quotidienne.",
+    "languageSentence": "Lancez-vous et commencez à apprendre l'une des langues suivantes.",
+    "german": "Allemand",
+    "english": "Anglais",
+    "spanish": "Espagnol",
+    "italian": "Italien",
+    "french": "Français"
+  },
+  "navbar": {
+    "german": "Allemand",
+    "english": "Anglais",
+    "spanish": "Espagnol",
+    "italian": "Italien",
+    "home": "Accueil",
+    "profile": "Profil",
+    "french": "Français",
+    "jokes": "Blagues",
+    "images": "Images"
+  }
+}

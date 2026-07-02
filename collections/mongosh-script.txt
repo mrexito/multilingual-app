@@ -1,0 +1,21 @@
+// Connect to the MongoDB server
+const dbName = "multilingual-language";
+use(dbName);
+
+// Create all collections
+db.createCollection("Account");
+db.createCollection("Session");
+db.createCollection("User");
+db.createCollection("WordProgress");
+db.createCollection("accents");
+db.createCollection("categories");
+db.createCollection("conjugations");
+db.createCollection("fillintheblank");
+db.createCollection("idioms");
+db.createCollection("jokes");
+db.createCollection("languages");
+db.createCollection("proverbs");
+db.createCollection("sentences");
+db.createCollection("words");
+
+print(`Database '${dbName}' and collections created successfully!`);

@@ -1,0 +1,536 @@
+[
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8ec9e"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "91",
+    "tense": "Indicativo presente",
+    "forms": ["tem-o", "tem-es", "tem-e", "tem-emos", "tem-éis", "temen"],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "temer"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8ec9f"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "92",
+    "tense": "Indicativo pretérito indefinido",
+    "forms": [
+      "tem-í",
+      "tem-iste",
+      "tem-ió",
+      "tem-imos",
+      "tem-isteis",
+      "tem-ieron"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "temer"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca0"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "93",
+    "tense": "Indicativo futuro imperfecto",
+    "forms": [
+      "tem-eré",
+      "tem-erás",
+      "tem-erá",
+      "tem-eremos",
+      "tem-eréis",
+      "tem-erán"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "temer"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca1"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "94",
+    "tense": "Indicativo pretérito imperfecto",
+    "forms": [
+      "tem-ía",
+      "tem-ías",
+      "tem-ía",
+      "tem-íamos",
+      "tem-íais",
+      "tem-ían"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "temer"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca2"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "95",
+    "tense": "Subjuntivo presente",
+    "forms": ["tem-a", "tem-as", "tem-a", "tem-amos", "tem-áis", "tem-an"],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "temer"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca3"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "96",
+    "tense": "Subjuntivo pretérito imperfecto",
+    "forms": [
+      "tem-iese",
+      "tem-ieses",
+      "tem-iese",
+      "tem-iésemos",
+      "tem-ieseis",
+      "tem-iesen"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "temer"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca4"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "97",
+    "tense": "Subjuntivo futuro imperfecto",
+    "forms": [
+      "tem-iere",
+      "tem-ieres",
+      "tem-iere",
+      "tem-iéremos",
+      "tem-iereis",
+      "tem-ieren"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "temer"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca5"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "98",
+    "tense": "Potencial simple",
+    "forms": [
+      "tem-ería",
+      "tem-erías",
+      "tem-ería",
+      "tem-eríamos",
+      "tem-eríais",
+      "tem-erían"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "temer"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca6"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "99",
+    "tense": "Indicativo presente",
+    "forms": ["part-o", "part-es", "part-e", "part-imos", "part-ís", "part-en"],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "partir"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca7"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "100",
+    "tense": "Indicativo pretérito indefinido",
+    "forms": [
+      "part-í",
+      "part-iste",
+      "part-ió",
+      "part-imos",
+      "part-isteis",
+      "part-ieron"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "partir"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca8"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "101",
+    "tense": "Indicativo futuro imperfecto",
+    "forms": [
+      "part-iré",
+      "part-irás",
+      "part-irá",
+      "part-iremos",
+      "part-iréis",
+      "part-irán"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "partir"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8eca9"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "102",
+    "tense": "Indicativo pretérito imperfecto",
+    "forms": [
+      "part-ía",
+      "part-ías",
+      "part-ía",
+      "part-íamos",
+      "part-íais",
+      "part-ían"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "partir"
+  },
+  {
+    "_id": {
+      "$oid": "68107d23566f32c46fa8ecaa"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "103",
+    "tense": "Subjuntivo presente",
+    "forms": [
+      "part-a",
+      "part-as",
+      "part-a",
+      "part-amos",
+      "part-áis",
+      "part-an"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "partir"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecab"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "104",
+    "tense": "Subjuntivo pretérito imperfecto",
+    "forms": [
+      "part-iese",
+      "part-ieses",
+      "part-iese",
+      "part-iésemos",
+      "part-ieseis",
+      "part-iesen"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "partir"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecac"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "105",
+    "tense": "Subjuntivo futuro imperfecto",
+    "forms": [
+      "part-iere",
+      "part-ieres",
+      "part-iere",
+      "part-iéremos",
+      "part-iereis",
+      "part-ieren"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "partir"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecad"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "106",
+    "tense": "Potencial simple",
+    "forms": [
+      "part-iría",
+      "part-irías",
+      "part-iría",
+      "part-iríamos",
+      "part-iríais",
+      "part-irían"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "partir"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecae"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "107",
+    "tense": "Indicativo presente",
+    "forms": ["am-o", "am-as", "am-a", "am-amos", "am-áis", "am-an"],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "amar"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecaf"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "108",
+    "tense": "Indicativo pretérito indefinido",
+    "forms": ["am-é", "am-aste", "am-ó", "am-amos", "am-asteis", "am-aron"],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "amar"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecb0"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "109",
+    "tense": "Indicativo futuro imperfecto",
+    "forms": [
+      "am-aré",
+      "am-arás",
+      "am-ará",
+      "am-aremos",
+      "am-aréis",
+      "am-arán"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "amar"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecb1"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "110",
+    "tense": "Indicativo pretérito imperfecto",
+    "forms": [
+      "am-aba",
+      "am-abas",
+      "am-aba",
+      "am-ábamos",
+      "am-abais",
+      "am-aban"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "amar"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecb2"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "111",
+    "tense": "Subjuntivo presente",
+    "forms": ["am-e", "am-es", "am-e", "am-emos", "am-éis", "am-en"],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "amar"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecb3"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "112",
+    "tense": "Subjuntivo pretérito imperfecto",
+    "forms": [
+      "am-ase",
+      "am-ases",
+      "am-ase",
+      "am-ásemos",
+      "am-aseis",
+      "am-asen"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "amar"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecb4"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "113",
+    "tense": "Subjuntivo futuro imperfecto",
+    "forms": [
+      "am-are",
+      "am-ares",
+      "am-are",
+      "am-áremos",
+      "am-areis",
+      "am-aren"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "amar"
+  },
+  {
+    "_id": {
+      "$oid": "68107d24566f32c46fa8ecb5"
+    },
+    "language_id": {
+      "$oid": "67bed42569a3680a95974aab"
+    },
+    "verb_id": "114",
+    "tense": "Potencial simple",
+    "forms": [
+      "am-aría",
+      "am-arías",
+      "am-aría",
+      "am-aríamos",
+      "am-aríais",
+      "am-arían"
+    ],
+    "date_entry": {
+      "$date": "1996-09-07T00:00:00.000Z"
+    },
+    "cumul": 0,
+    "counter": 0,
+    "infinitive": "amar"
+  }
+]
