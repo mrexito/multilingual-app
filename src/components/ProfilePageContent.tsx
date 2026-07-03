@@ -54,6 +54,7 @@ export default function ProfilePageContent({
     const data = await res.json();
 
     if (data.success) {
+      console.log('[ProfilePageContent] profile update success — calling router.refresh()');
       router.refresh();
     } else {
       setErrors({

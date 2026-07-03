@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { v4 as uuid } from "uuid";
-import { encode as defaultEncode } from "next-auth/jwt";
+import { encode as defaultEncode, decode as defaultDecode } from "next-auth/jwt";
 
 import db from "@/lib/db";
 import { PrismaAdapter } from "@auth/prisma-adapter";
@@ -15,6 +15,10 @@ const adapter = PrismaAdapter(db);
 
 export const { handlers, signIn, signOut, auth } = NextAuth({
   adapter,
+  secret: process.env.AUTH_SECRET,
+  session: {
+    strategy: "jwt",
+  },
   providers: [
     GitHubProvider({
       clientId: process.env.GITHUB_ID,
@@ -88,6 +92,12 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
       }
       return token;
     },
+    async session({ session, token }) {
+      if (token.sub) {
+        session.user.id = token.sub;
+      }
+      return session;
+    },
   },
   jwt: {
     encode: async function (params) {
@@ -111,6 +121,21 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
         return sessionToken;
       }
       return defaultEncode(params);
+    },
+    decode: async function (params) {
+      if (!params.token) return null;
+
+      try {
+        return await defaultDecode(params);
+      } catch {
+        const session = await adapter?.getSessionAndUser?.(params.token);
+        if (!session) return null;
+
+        return {
+          sub: session.user.id,
+          credentials: true,
+        };
+      }
     },
   },
 });

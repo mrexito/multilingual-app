@@ -24,27 +24,42 @@ const navItems: NavItem[] = [
   { label: "Home", icon: <IoHomeOutline size={24} />, href: "/" },
   {
     label: "English",
-    icon: <Image src="/img/united-kingdom.png" alt="UK Flag" width={24} height={24} />,
+    icon: (
+      <Image
+        src="/img/united-kingdom.png"
+        alt="UK Flag"
+        width={24}
+        height={24}
+      />
+    ),
     href: "/english",
   },
   {
     label: "German",
-    icon: <Image src="/img/germany.png" alt="Germany Flag" width={24} height={24} />,
+    icon: (
+      <Image src="/img/germany.png" alt="Germany Flag" width={24} height={24} />
+    ),
     href: "/german",
   },
   {
     label: "Spanish",
-    icon: <Image src="/img/spain.png" alt="Spain Flag" width={24} height={24} />,
+    icon: (
+      <Image src="/img/spain.png" alt="Spain Flag" width={24} height={24} />
+    ),
     href: "/spanish",
   },
   {
     label: "Italian",
-    icon: <Image src="/img/italy.png" alt="Italy Flag" width={24} height={24} />,
+    icon: (
+      <Image src="/img/italy.png" alt="Italy Flag" width={24} height={24} />
+    ),
     href: "/italian",
   },
   {
     label: "French",
-    icon: <Image src="/img/france.png" alt="French Flag" width={24} height={24} />,
+    icon: (
+      <Image src="/img/france.png" alt="French Flag" width={24} height={24} />
+    ),
     href: "/french",
   },
   {
@@ -52,10 +67,7 @@ const navItems: NavItem[] = [
     icon: <TbJoker size={24} />,
     href: "/jokes",
   },
-  { label: "Images", 
-    icon: <TbPhoto size={24} />, 
-    href: "/images" 
-  },
+  { label: "Images", icon: <TbPhoto size={24} />, href: "/images" },
   { label: "Profile", icon: <CiUser size={24} />, href: "/profile" },
 ];
 
@@ -76,6 +88,7 @@ export default function NavBar() {
     languageOptions.find((lang) => lang.code === locale) || languageOptions[0];
 
   const handleLocaleChange = (langCode: string) => {
+    console.log("[NavBar] handleLocaleChange", langCode);
     setCookie("locale", langCode, { path: "/" });
     setLocale(langCode);
     setShowDropdown(false);
@@ -141,7 +154,7 @@ export default function NavBar() {
                 <span className="text-xl">
                   {getTranslation(
                     locale,
-                    `navbar.${item.label.toLocaleLowerCase()}`
+                    `navbar.${item.label.toLocaleLowerCase()}`,
                   )}
                 </span>
               </Link>

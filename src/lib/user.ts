@@ -1,5 +1,4 @@
 import db from "./db";
-import { cacheTag, cacheLife } from "next/cache";
 
 export type UserProfile = {
   id: string;
@@ -13,9 +12,6 @@ export type UserProfile = {
 export async function getUserProfile(
   userId: string
 ): Promise<UserProfile | null> {
-  "use cache";
-  cacheTag(`user-profile-${userId}`);
-  cacheLife("minutes");
   const user = await db.user.findUnique({
     where: { id: userId },
     select: {

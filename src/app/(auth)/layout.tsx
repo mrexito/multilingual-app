@@ -15,6 +15,8 @@ export default function AuthLayout({ children }: { children: ReactNode }) {
             alt="Placeholder Image"
             className="w-full h-screen rounded-tl-[60px] rounded-bl-[60px]"
             fill
+            sizes="50vw"
+            loading="eager"
             style={{ objectFit: "cover" }}
           />
         </div>

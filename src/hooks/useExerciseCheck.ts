@@ -25,6 +25,7 @@ export function useExerciseCheck<T extends { id: string }>(
   }, [exercises]);
 
   const handleCancel = () => {
+    console.log('[useExerciseCheck] handleCancel -> router.push', `/${learningLanguage.toLowerCase()}`);
     router.push(`/${learningLanguage.toLowerCase()}`);
   };
 
@@ -38,6 +39,7 @@ export function useExerciseCheck<T extends { id: string }>(
         onReset();
       } else {
         alert("Alle Fragen abgeschlossen!");
+        console.log('[useExerciseCheck] finished exercises -> router.push', `/${learningLanguage.toLowerCase()}`);
         router.push(`/${learningLanguage.toLowerCase()}`);
       }
       return;

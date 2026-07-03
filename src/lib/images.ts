@@ -1,5 +1,4 @@
 // src/lib/images.ts
-import { cacheLife } from "next/cache";
 import db from "./db";
 
 export type ImageTranslation = {
@@ -52,9 +51,6 @@ export async function getImageCategories(): Promise<string[]> {
  * Quiz-Daten werden mitgeladen, falls vorhanden.
  */
 export async function getImageCardsByCategory(category: string): Promise<ImageCard[]> {
-  "use cache";
-  cacheLife("minutes");
-
   const docs = await (db as any).images.findMany({
     where: { category },
     select: {

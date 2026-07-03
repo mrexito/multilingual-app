@@ -9,7 +9,6 @@ export interface Joke {
 }
 
 export async function getJokesForLanguage(langName: string): Promise<Joke[]> {
-  "use cache";
   const lang = await db.languages.findFirst({
     where: { name: langName },
   });

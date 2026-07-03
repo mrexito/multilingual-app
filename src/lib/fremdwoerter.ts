@@ -1,4 +1,3 @@
-import { cacheLife } from "next/cache";
 import db from "./db";
 
 export type FremdwoerterCard = {
@@ -11,9 +10,6 @@ export type FremdwoerterCard = {
 };
 
 export async function getFremdwoerterCards(): Promise<FremdwoerterCard[]> {
-  "use cache";
-  cacheLife("minutes");
-
   const docs = await (db as any).fremdwoerter.findMany();
 
   return docs.map((d: any) => {

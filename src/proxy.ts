@@ -19,11 +19,13 @@ export default function proxy(req: NextRequest) {
   if (!isLoggedIn && !isPublic) {
     return NextResponse.redirect(new URL("/sign-in", req.url));
   }
+
+  return NextResponse.next();
 }
 
 export const config = {
   matcher: [
 
-    "/((?!_next/static|_next/image|favicon\\.ico|img/|gemuese/|officesupplies/|fruits/|grains/|api/).*)",
+    "/((?!_next/|favicon\\.ico|img/|gemuese/|officesupplies/|fruits/|grains/|api/).*)",
   ],
 };

@@ -26,13 +26,33 @@ export function I18nProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     const storedLocale = getCookie("locale") || "en";
-    setLocaleState(storedLocale);
+    console.log(
+      "[I18n] useEffect running, storedLocale=",
+      storedLocale,
+      "state locale=",
+      locale,
+    );
+    if (storedLocale !== locale) {
+      console.log("[I18n] applying stored locale", storedLocale);
+      setLocaleState(storedLocale);
+    }
   }, []);
 
   const setLocale = (newLocale: string) => {
     if (!supportedLanguages.includes(newLocale)) return;
+    console.log(
+      "[I18n] setLocale called, newLocale=",
+      newLocale,
+      "current=",
+      locale,
+    );
+    if (newLocale === locale) {
+      console.log("[I18n] newLocale equals current locale — skipping");
+      return;
+    }
     setLocaleState(newLocale);
     setCookie("locale", newLocale, { path: "/" });
+    console.log("[I18n] calling router.refresh()");
     router.refresh();
   };
 
