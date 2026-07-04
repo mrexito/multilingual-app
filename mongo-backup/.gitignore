@@ -1,0 +1,12 @@
+# Datenbankverbindungsdaten — niemals ins Repository!
+.env
+
+# Alle Backup-Dateien — können sehr gross werden
+backups/
+
+# macOS Systemdateien
+.DS_Store
+
+# Windows Systemdateien
+Thumbs.db
+desktop.ini
